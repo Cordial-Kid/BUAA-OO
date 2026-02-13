@@ -1,0 +1,2001 @@
+2000
+aa       a24A6kttI9KYkz0zb1q
+aa   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+aa       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+aa   jo6H6Dt9Hl7uoaIbuVx3ea
+aa    VBRkioBmS93oMD4HOL7aEkjwGSwi
+aa z5EYi7iiP
+aa DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+aa       RZb3JDhLf6B
+aa    _1YzLPKaH3BoxfHYIs5fZ5bQsC
+aa  qQq01KnJ_NAFHs_L1a
+aa    zB8rxHdqiRt
+aa      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+aa       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+aa    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+aa   ACntKTNYFZ9sOqPf38qIkyd
+aa      iphEfa8KCeCYyU_PZ
+aa    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+aa      gbUS0RYThGCBEnrK14mYoA
+aa       Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+aa     2BJYLqdPump0Qv1
+aa mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+aa        Bjn_YA5fD4efE7kIlrG2glAcv
+aa     KIJydPySUG_g4MKoH7xji8z0oCC
+aa        17WyuL3mfSDprNhQ57Bw278bXrXLySd
+aa        hzilihtl21Lzp73q7
+aa       cD5PTXSngIvj63RjGM8ZLYqbA
+aa      itfT0tKmL7gO
+aa      S23C9mwhhWUuPIVEnU8JEq
+aa     yj8yvSg7Uea6SptHx5WOAoyYB5E
+aa FsXE5Yt7xafF_
+aa    njBP9r4IlBAk2CnbvMpR34k51JP
+lr  RZb3JDhLf6B(FsXE5Yt7xafF_(P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk),ACntKTNYFZ9sOqPf38qIkyd)
+fight        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   1     RZb3JDhLf6B
+fight    ACntKTNYFZ9sOqPf38qIkyd       1 RZb3JDhLf6B
+ae  ACntKTNYFZ9sOqPf38qIkyd    WfyO1IMCgZ0IO91z5s0a_omsbs7E Sword       200
+ti  ACntKTNYFZ9sOqPf38qIkyd        WfyO1IMCgZ0IO91z5s0a_omsbs7E
+fight      ACntKTNYFZ9sOqPf38qIkyd   1       FsXE5Yt7xafF_
+rr        RZb3JDhLf6B      ACntKTNYFZ9sOqPf38qIkyd
+fight      ACntKTNYFZ9sOqPf38qIkyd  1    RZb3JDhLf6B
+lr    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk(itfT0tKmL7gO)
+lr   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq(DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS(gbUS0RYThGCBEnrK14mYoA),VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX)
+fight  gbUS0RYThGCBEnrK14mYoA        1   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+fight       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX 1       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       9GFHmeF0VRkR74WdQ9   Sword    200
+ti     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        9GFHmeF0VRkR74WdQ9
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       1  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+rr        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       1     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+rr    RZb3JDhLf6B       FsXE5Yt7xafF_
+ls   KIJydPySUG_g4MKoH7xji8z0oCC       GXubadhwuY5ouL0AYYIh3Sz6zX7jkrXjfS       HealSpell 11       133
+lr    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N(Bjn_YA5fD4efE7kIlrG2glAcv(qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq),cD5PTXSngIvj63RjGM8ZLYqbA)
+fight qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   1   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+fight        cD5PTXSngIvj63RjGM8ZLYqbA    1     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae        cD5PTXSngIvj63RjGM8ZLYqbA  GeeZkcTtD18KL0SH  Sword   200
+ti     cD5PTXSngIvj63RjGM8ZLYqbA        GeeZkcTtD18KL0SH
+fight  cD5PTXSngIvj63RjGM8ZLYqbA  1  Bjn_YA5fD4efE7kIlrG2glAcv
+rr     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    cD5PTXSngIvj63RjGM8ZLYqbA
+fight     cD5PTXSngIvj63RjGM8ZLYqbA  1    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr    iphEfa8KCeCYyU_PZ(njBP9r4IlBAk2CnbvMpR34k51JP(TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI),z5EYi7iiP)
+fight        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    1    iphEfa8KCeCYyU_PZ
+fight z5EYi7iiP      1   iphEfa8KCeCYyU_PZ
+ae   z5EYi7iiP  4t6lOsqdaKY2TKDPr897Xwz       Sword   200
+ti    z5EYi7iiP        4t6lOsqdaKY2TKDPr897Xwz
+fight    z5EYi7iiP    1    njBP9r4IlBAk2CnbvMpR34k51JP
+rr       iphEfa8KCeCYyU_PZ    z5EYi7iiP
+fight      z5EYi7iiP       1 iphEfa8KCeCYyU_PZ
+lr   FsXE5Yt7xafF_(a24A6kttI9KYkz0zb1q(cD5PTXSngIvj63RjGM8ZLYqbA),yj8yvSg7Uea6SptHx5WOAoyYB5E)
+fight    cD5PTXSngIvj63RjGM8ZLYqbA   1     FsXE5Yt7xafF_
+fight yj8yvSg7Uea6SptHx5WOAoyYB5E    1      FsXE5Yt7xafF_
+ae      yj8yvSg7Uea6SptHx5WOAoyYB5E  LaxIAbarRG4Lus1bV2OgudkpKsDd0wnaTpY0        Sword   200
+ti    yj8yvSg7Uea6SptHx5WOAoyYB5E      LaxIAbarRG4Lus1bV2OgudkpKsDd0wnaTpY0
+fight     yj8yvSg7Uea6SptHx5WOAoyYB5E     1       a24A6kttI9KYkz0zb1q
+rr       FsXE5Yt7xafF_ yj8yvSg7Uea6SptHx5WOAoyYB5E
+fight    yj8yvSg7Uea6SptHx5WOAoyYB5E   1    FsXE5Yt7xafF_
+ab   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      lulp2Eh9cbhSJZvz5FnkVgEnuKSkYM   ManaBottle 50
+ti     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    lulp2Eh9cbhSJZvz5FnkVgEnuKSkYM
+use        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N lulp2Eh9cbhSJZvz5FnkVgEnuKSkYM       Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+lr        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX(ACntKTNYFZ9sOqPf38qIkyd(2BJYLqdPump0Qv1),_1YzLPKaH3BoxfHYIs5fZ5bQsC)
+fight  2BJYLqdPump0Qv1 1        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+fight       _1YzLPKaH3BoxfHYIs5fZ5bQsC 1    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+ae        _1YzLPKaH3BoxfHYIs5fZ5bQsC       odwmFpx_TkMWk4g5_  Sword    200
+ti _1YzLPKaH3BoxfHYIs5fZ5bQsC       odwmFpx_TkMWk4g5_
+fight  _1YzLPKaH3BoxfHYIs5fZ5bQsC    1   ACntKTNYFZ9sOqPf38qIkyd
+rr      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX _1YzLPKaH3BoxfHYIs5fZ5bQsC
+fight   _1YzLPKaH3BoxfHYIs5fZ5bQsC    1 VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+ab      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        kUqfTt45  DefBottle     50
+ti BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        kUqfTt45
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy  kUqfTt45   Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ar     zB8rxHdqiRt        FsXE5Yt7xafF_
+ar       zB8rxHdqiRt mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ar        FsXE5Yt7xafF_   _1YzLPKaH3BoxfHYIs5fZ5bQsC
+fight _1YzLPKaH3BoxfHYIs5fZ5bQsC  1   zB8rxHdqiRt
+fight mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        1        zB8rxHdqiRt
+ae  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      ES5E9TcC6yXYJZ0     Sword   200
+ti    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 ES5E9TcC6yXYJZ0
+fight   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    1   FsXE5Yt7xafF_
+rr   zB8rxHdqiRt mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+fight  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   1        zB8rxHdqiRt
+ab        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        Ul0e6UAeHsDeYCLtQhq0mMeX7IKJqftV1rX       ManaBottle       50
+ti P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    Ul0e6UAeHsDeYCLtQhq0mMeX7IKJqftV1rX
+use     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    Ul0e6UAeHsDeYCLtQhq0mMeX7IKJqftV1rX        a24A6kttI9KYkz0zb1q
+ri       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       Ul0e6UAeHsDeYCLtQhq0mMeX7IKJqftV1rX
+lr     KIJydPySUG_g4MKoH7xji8z0oCC(Fr4EOvOY2x1yqpUPKkPG35qt1SCF(yj8yvSg7Uea6SptHx5WOAoyYB5E),VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX)
+fight     yj8yvSg7Uea6SptHx5WOAoyYB5E 1  KIJydPySUG_g4MKoH7xji8z0oCC
+fight   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX 1      KIJydPySUG_g4MKoH7xji8z0oCC
+ae    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     SRouyrbgprGF  Sword      200
+ti VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     SRouyrbgprGF
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     1        Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+rr       KIJydPySUG_g4MKoH7xji8z0oCC VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX 1   KIJydPySUG_g4MKoH7xji8z0oCC
+lr    jo6H6Dt9Hl7uoaIbuVx3ea(RZb3JDhLf6B(zB8rxHdqiRt),VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX)
+fight   zB8rxHdqiRt    1        jo6H6Dt9Hl7uoaIbuVx3ea
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    1       jo6H6Dt9Hl7uoaIbuVx3ea
+ae VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   gD7V0D7iewHaPph_0LeCatmJ09Xi9H233i  Sword 200
+ti    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  gD7V0D7iewHaPph_0LeCatmJ09Xi9H233i
+fight    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       1     RZb3JDhLf6B
+rr       jo6H6Dt9Hl7uoaIbuVx3ea     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+fight      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    1    jo6H6Dt9Hl7uoaIbuVx3ea
+bi        KIJydPySUG_g4MKoH7xji8z0oCC        jyWEPLgTDQbwDZMs        Magicbook
+ae    FsXE5Yt7xafF_    R8g1JEhUJ60KZHKFibJmhsmMSr       Armour 100
+ab        Fr4EOvOY2x1yqpUPKkPG35qt1SCF       CLXLUtxhGeI86_b9GlyBfYQDXXWpOvN       HpBottle 1000
+ti     Fr4EOvOY2x1yqpUPKkPG35qt1SCF  CLXLUtxhGeI86_b9GlyBfYQDXXWpOvN
+use     Fr4EOvOY2x1yqpUPKkPG35qt1SCF  CLXLUtxhGeI86_b9GlyBfYQDXXWpOvN      FsXE5Yt7xafF_
+lr    z5EYi7iiP(S23C9mwhhWUuPIVEnU8JEq(VBRkioBmS93oMD4HOL7aEkjwGSwi),hzilihtl21Lzp73q7)
+fight    VBRkioBmS93oMD4HOL7aEkjwGSwi        1        z5EYi7iiP
+fight hzilihtl21Lzp73q7        1      z5EYi7iiP
+ae     hzilihtl21Lzp73q7 DOgpYRmE8mGm49VRK    Sword   200
+ti   hzilihtl21Lzp73q7     DOgpYRmE8mGm49VRK
+fight hzilihtl21Lzp73q7  1       S23C9mwhhWUuPIVEnU8JEq
+rr z5EYi7iiP     hzilihtl21Lzp73q7
+fight      hzilihtl21Lzp73q7        1       z5EYi7iiP
+ae    FsXE5Yt7xafF_  uZWKYNBDCUV1OS6cezt1YfLC2FvPchTmnmz    Armour  100
+ab  njBP9r4IlBAk2CnbvMpR34k51JP      x_1lbgg0oCKQ0BdcTUWaunarKqJH   HpBottle  1000
+ti       njBP9r4IlBAk2CnbvMpR34k51JP     x_1lbgg0oCKQ0BdcTUWaunarKqJH
+use       njBP9r4IlBAk2CnbvMpR34k51JP       x_1lbgg0oCKQ0BdcTUWaunarKqJH  FsXE5Yt7xafF_
+lr     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N(hzilihtl21Lzp73q7(jo6H6Dt9Hl7uoaIbuVx3ea),17WyuL3mfSDprNhQ57Bw278bXrXLySd)
+fight jo6H6Dt9Hl7uoaIbuVx3ea        1 MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+fight  17WyuL3mfSDprNhQ57Bw278bXrXLySd        1  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae     17WyuL3mfSDprNhQ57Bw278bXrXLySd      xFe3z5Gc4sP  Sword       200
+ti       17WyuL3mfSDprNhQ57Bw278bXrXLySd       xFe3z5Gc4sP
+fight      17WyuL3mfSDprNhQ57Bw278bXrXLySd        1  hzilihtl21Lzp73q7
+rr    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    17WyuL3mfSDprNhQ57Bw278bXrXLySd
+fight    17WyuL3mfSDprNhQ57Bw278bXrXLySd   1    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae    FsXE5Yt7xafF_  mVcvxqkmTYho0IzFNEFMFw0wrX_yU Armour    100
+ab 17WyuL3mfSDprNhQ57Bw278bXrXLySd       8I7pMLnx_EzcYUXKJ68jrw  HpBottle    1000
+ti    17WyuL3mfSDprNhQ57Bw278bXrXLySd 8I7pMLnx_EzcYUXKJ68jrw
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd    8I7pMLnx_EzcYUXKJ68jrw   FsXE5Yt7xafF_
+ls    S23C9mwhhWUuPIVEnU8JEq        _ELzeQmjGe4vA4ACMitp776Dosj5m5s      HealSpell  14        268
+lr        qQq01KnJ_NAFHs_L1a(MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N(VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX),17WyuL3mfSDprNhQ57Bw278bXrXLySd)
+fight VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    1     qQq01KnJ_NAFHs_L1a
+fight        17WyuL3mfSDprNhQ57Bw278bXrXLySd     1      qQq01KnJ_NAFHs_L1a
+ae    17WyuL3mfSDprNhQ57Bw278bXrXLySd    CJ8Yn5Gdjt       Sword  200
+ti    17WyuL3mfSDprNhQ57Bw278bXrXLySd   CJ8Yn5Gdjt
+fight  17WyuL3mfSDprNhQ57Bw278bXrXLySd   1   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+rr        qQq01KnJ_NAFHs_L1a    17WyuL3mfSDprNhQ57Bw278bXrXLySd
+fight       17WyuL3mfSDprNhQ57Bw278bXrXLySd    1   qQq01KnJ_NAFHs_L1a
+ls    _1YzLPKaH3BoxfHYIs5fZ5bQsC       CLin5w2gp18z7K   AttackSpell      4   214
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N Q2qZyoioa7us  Armour   100
+ab        njBP9r4IlBAk2CnbvMpR34k51JP 9m3unUZnHFarJXvfMOTAvczcpYSnktnRT   HpBottle 1000
+ti    njBP9r4IlBAk2CnbvMpR34k51JP 9m3unUZnHFarJXvfMOTAvczcpYSnktnRT
+use    njBP9r4IlBAk2CnbvMpR34k51JP   9m3unUZnHFarJXvfMOTAvczcpYSnktnRT        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr       qQq01KnJ_NAFHs_L1a(KIJydPySUG_g4MKoH7xji8z0oCC(BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy),17WyuL3mfSDprNhQ57Bw278bXrXLySd)
+fight        BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      1 qQq01KnJ_NAFHs_L1a
+fight        17WyuL3mfSDprNhQ57Bw278bXrXLySd  1       qQq01KnJ_NAFHs_L1a
+ae 17WyuL3mfSDprNhQ57Bw278bXrXLySd       Y8DPn8z6v2_AizMMeEY55U2ZJLyVRTVa Sword     200
+ti       17WyuL3mfSDprNhQ57Bw278bXrXLySd  Y8DPn8z6v2_AizMMeEY55U2ZJLyVRTVa
+fight   17WyuL3mfSDprNhQ57Bw278bXrXLySd    1        KIJydPySUG_g4MKoH7xji8z0oCC
+rr  qQq01KnJ_NAFHs_L1a   17WyuL3mfSDprNhQ57Bw278bXrXLySd
+fight 17WyuL3mfSDprNhQ57Bw278bXrXLySd    1        qQq01KnJ_NAFHs_L1a
+use Fr4EOvOY2x1yqpUPKkPG35qt1SCF    CLXLUtxhGeI86_b9GlyBfYQDXXWpOvN     yj8yvSg7Uea6SptHx5WOAoyYB5E
+lr z5EYi7iiP(17WyuL3mfSDprNhQ57Bw278bXrXLySd(iphEfa8KCeCYyU_PZ),qQq01KnJ_NAFHs_L1a)
+fight   iphEfa8KCeCYyU_PZ        1   z5EYi7iiP
+fight qQq01KnJ_NAFHs_L1a    1        z5EYi7iiP
+ae      qQq01KnJ_NAFHs_L1a     nMxnwmg8lf2k1Vcx0n8nX2C4q5aG    Sword     200
+ti    qQq01KnJ_NAFHs_L1a   nMxnwmg8lf2k1Vcx0n8nX2C4q5aG
+fight        qQq01KnJ_NAFHs_L1a  1       17WyuL3mfSDprNhQ57Bw278bXrXLySd
+rr      z5EYi7iiP        qQq01KnJ_NAFHs_L1a
+fight      qQq01KnJ_NAFHs_L1a        1       z5EYi7iiP
+ls       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        CoJgbdiJeUFMM   AttackSpell    30        5
+ae    FsXE5Yt7xafF_ QkvN8KkLiwGgKHeDA5OczPNVoGQ4Hu3 Armour     100
+ab      17WyuL3mfSDprNhQ57Bw278bXrXLySd  evMqp77glpZmuBHm2aTfom4M0zmbipl HpBottle    1000
+ti      17WyuL3mfSDprNhQ57Bw278bXrXLySd  evMqp77glpZmuBHm2aTfom4M0zmbipl
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd   evMqp77glpZmuBHm2aTfom4M0zmbipl      FsXE5Yt7xafF_
+ab       hzilihtl21Lzp73q7        VUjcRHOCwRVZKUT9_4BHJHS9      HpBottle     50
+ti        hzilihtl21Lzp73q7       VUjcRHOCwRVZKUT9_4BHJHS9
+use    hzilihtl21Lzp73q7  VUjcRHOCwRVZKUT9_4BHJHS9        S23C9mwhhWUuPIVEnU8JEq
+ae    FsXE5Yt7xafF_ Jz15ELtp4qcNPXKd1YTBg5HqkyMWDGC6Y2lG41      Armour        100
+ab        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       74eJ4oFg2oEi_5tJ9PYiQvItF0kZMUn      HpBottle       1000
+ti    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       74eJ4oFg2oEi_5tJ9PYiQvItF0kZMUn
+use DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       74eJ4oFg2oEi_5tJ9PYiQvItF0kZMUn       FsXE5Yt7xafF_
+ab a24A6kttI9KYkz0zb1q   ATxLJpgXVzlw_4mWFkLoxEmck  AtkBottle       50
+ti a24A6kttI9KYkz0zb1q       ATxLJpgXVzlw_4mWFkLoxEmck
+use     a24A6kttI9KYkz0zb1q ATxLJpgXVzlw_4mWFkLoxEmck    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  rFeYX7996W_Zx6IGrDensAoffo7XQcH87q Armour       100
+ab VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     NCnGAv9R  HpBottle       1000
+ti      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  NCnGAv9R
+use     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  NCnGAv9R        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    HahxRF_qInwgRdwsAXbxe56     HealSpell  19      178
+ri        KIJydPySUG_g4MKoH7xji8z0oCC  jyWEPLgTDQbwDZMs
+ls        Fr4EOvOY2x1yqpUPKkPG35qt1SCF U125JwatA7f2cdHtLOgSvZvqfXMW        HealSpell    8        97
+ae  FsXE5Yt7xafF_     UXjElyCOK      Armour    100
+ab     z5EYi7iiP  BltK6h1y1kEUjonB3zJYf51 HpBottle    1000
+ti z5EYi7iiP BltK6h1y1kEUjonB3zJYf51
+use z5EYi7iiP BltK6h1y1kEUjonB3zJYf51       FsXE5Yt7xafF_
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      JNXfNByxvS_C        Armour       100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk PxdTEwJ2UZow_0RxTjou_4B      HpBottle     1000
+ti P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     PxdTEwJ2UZow_0RxTjou_4B
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk PxdTEwJ2UZow_0RxTjou_4B    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae      FsXE5Yt7xafF_     lEaW1Ijs9iqeEXSHvkDosyLLelqyT5KsVlBz4FX  Armour 100
+ab       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     ML6LW21OCydwPL9we     HpBottle    1000
+ti    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    ML6LW21OCydwPL9we
+use        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        ML6LW21OCydwPL9we  FsXE5Yt7xafF_
+rr        S23C9mwhhWUuPIVEnU8JEq VBRkioBmS93oMD4HOL7aEkjwGSwi
+lr       _1YzLPKaH3BoxfHYIs5fZ5bQsC(mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6)
+ae      FsXE5Yt7xafF_     0hOyxvssWnZZty6jjJQPF6qKRl        Armour     100
+ab     a24A6kttI9KYkz0zb1q        mWCrq3ExabI    HpBottle        1000
+ti  a24A6kttI9KYkz0zb1q   mWCrq3ExabI
+use      a24A6kttI9KYkz0zb1q      mWCrq3ExabI        FsXE5Yt7xafF_
+rr    iphEfa8KCeCYyU_PZ  njBP9r4IlBAk2CnbvMpR34k51JP
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       U6UnTpSaVBJI_vQO4yCsh7VbJaNm6QzkNLL8q Armour      100
+ab        yj8yvSg7Uea6SptHx5WOAoyYB5E      vGomrJoSqHrmk56f2wy6hJnH2njHq4    HpBottle    1000
+ti     yj8yvSg7Uea6SptHx5WOAoyYB5E   vGomrJoSqHrmk56f2wy6hJnH2njHq4
+use     yj8yvSg7Uea6SptHx5WOAoyYB5E  vGomrJoSqHrmk56f2wy6hJnH2njHq4   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr     njBP9r4IlBAk2CnbvMpR34k51JP(z5EYi7iiP(qQq01KnJ_NAFHs_L1a),VBRkioBmS93oMD4HOL7aEkjwGSwi)
+fight      qQq01KnJ_NAFHs_L1a 1    njBP9r4IlBAk2CnbvMpR34k51JP
+fight   VBRkioBmS93oMD4HOL7aEkjwGSwi  1     njBP9r4IlBAk2CnbvMpR34k51JP
+ae    VBRkioBmS93oMD4HOL7aEkjwGSwi      aCI6TuYOhziGc0WSNTgXgcdwSPWFMqW1NqQ    Sword 200
+ti        VBRkioBmS93oMD4HOL7aEkjwGSwi     aCI6TuYOhziGc0WSNTgXgcdwSPWFMqW1NqQ
+fight   VBRkioBmS93oMD4HOL7aEkjwGSwi   1   z5EYi7iiP
+rr    njBP9r4IlBAk2CnbvMpR34k51JP     VBRkioBmS93oMD4HOL7aEkjwGSwi
+fight     VBRkioBmS93oMD4HOL7aEkjwGSwi  1   njBP9r4IlBAk2CnbvMpR34k51JP
+ae  FsXE5Yt7xafF_        iSFiqfq6sDJc7lHpU_nVnN9jD9nx4  Armour  100
+ab  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     WtCnktdR4149v0sNYpA3NGEbxs32  HpBottle      1000
+ti     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       WtCnktdR4149v0sNYpA3NGEbxs32
+use  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    WtCnktdR4149v0sNYpA3NGEbxs32   FsXE5Yt7xafF_
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       cl9AYHABPHUhEeYBaXhlfPBX6Hfmf0qeKf    Armour      100
+ab      VBRkioBmS93oMD4HOL7aEkjwGSwi       IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun  HpBottle    1000
+ti     VBRkioBmS93oMD4HOL7aEkjwGSwi      IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun
+use   VBRkioBmS93oMD4HOL7aEkjwGSwi  IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls  jo6H6Dt9Hl7uoaIbuVx3ea      4frj0E0oTs_9BGwQi9i9k   AttackSpell      10        50
+use     jo6H6Dt9Hl7uoaIbuVx3ea   4frj0E0oTs_9BGwQi9i9k   RZb3JDhLf6B
+ae   z5EYi7iiP L2YvPzzTIG10       Armour        100
+ab  _1YzLPKaH3BoxfHYIs5fZ5bQsC   WTA8OdyIW8CdhmgTFKsd2Q2XMZ_cQ_5aWRDGI5f        HpBottle    1000
+ti     _1YzLPKaH3BoxfHYIs5fZ5bQsC        WTA8OdyIW8CdhmgTFKsd2Q2XMZ_cQ_5aWRDGI5f
+use        _1YzLPKaH3BoxfHYIs5fZ5bQsC     WTA8OdyIW8CdhmgTFKsd2Q2XMZ_cQ_5aWRDGI5f     z5EYi7iiP
+ls VBRkioBmS93oMD4HOL7aEkjwGSwi  Wlkv9926KxauKg8hKF9lkoazHm_L9POKzc       AttackSpell   10      50
+use    VBRkioBmS93oMD4HOL7aEkjwGSwi   Wlkv9926KxauKg8hKF9lkoazHm_L9POKzc   iphEfa8KCeCYyU_PZ
+ls a24A6kttI9KYkz0zb1q    j13r_LzyFlPZtqgMDQYvUQV_ScTof2Qna9pw1        AttackSpell     19 49
+use       VBRkioBmS93oMD4HOL7aEkjwGSwi  IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun   gbUS0RYThGCBEnrK14mYoA
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  LTejPUbi02msZECrwKZrrUU6Ao6cpLL35_     Armour 100
+ab    gbUS0RYThGCBEnrK14mYoA   IWG0z4EdbnJNjnZIMv0j_j1hej        HpBottle  1000
+ti       gbUS0RYThGCBEnrK14mYoA IWG0z4EdbnJNjnZIMv0j_j1hej
+use      gbUS0RYThGCBEnrK14mYoA        IWG0z4EdbnJNjnZIMv0j_j1hej      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr       Fr4EOvOY2x1yqpUPKkPG35qt1SCF(VBRkioBmS93oMD4HOL7aEkjwGSwi)
+rr    RZb3JDhLf6B     zB8rxHdqiRt
+ae       z5EYi7iiP        zJYKZt5Ytp3NqPYwYJQCsDvenD0_jAXo    Armour    100
+ab   ACntKTNYFZ9sOqPf38qIkyd  CXDkG50dT      HpBottle  1000
+ti        ACntKTNYFZ9sOqPf38qIkyd    CXDkG50dT
+use  ACntKTNYFZ9sOqPf38qIkyd   CXDkG50dT   z5EYi7iiP
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    ILnE9rMFTFTU_Jqw8tIHrXMYKuekddlzfWgV   Armour  100
+ab  gbUS0RYThGCBEnrK14mYoA        0g5hPmRWI24dYISdn     HpBottle        1000
+ti   gbUS0RYThGCBEnrK14mYoA   0g5hPmRWI24dYISdn
+use      gbUS0RYThGCBEnrK14mYoA   0g5hPmRWI24dYISdn  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae       FsXE5Yt7xafF_  mDXvnq_yAjoZQSWtNpnmlJFc_fmNF152T565ZgqU  Armour   100
+ab   zB8rxHdqiRt C2lISR3693mw       HpBottle     1000
+ti       zB8rxHdqiRt      C2lISR3693mw
+use      zB8rxHdqiRt     C2lISR3693mw       FsXE5Yt7xafF_
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N IW4Ids7_juNqCegXWo        Armour   100
+ab  cD5PTXSngIvj63RjGM8ZLYqbA     RFakISy6ryHOhmC5iKZqnEkh8c        HpBottle   1000
+ti        cD5PTXSngIvj63RjGM8ZLYqbA        RFakISy6ryHOhmC5iKZqnEkh8c
+use cD5PTXSngIvj63RjGM8ZLYqbA      RFakISy6ryHOhmC5iKZqnEkh8c       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae   FsXE5Yt7xafF_        4zMcemIBw Armour     100
+ab zB8rxHdqiRt     thS0jA2FM1wNujxOMQl2      HpBottle       1000
+ti    zB8rxHdqiRt   thS0jA2FM1wNujxOMQl2
+use        zB8rxHdqiRt        thS0jA2FM1wNujxOMQl2        FsXE5Yt7xafF_
+ae   z5EYi7iiP        727AIU2dt23MB  Armour      100
+ab   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       mLtF_aVLai0mDavjzBkkpB8O17oRNLv      HpBottle  1000
+ti        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        mLtF_aVLai0mDavjzBkkpB8O17oRNLv
+use     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        mLtF_aVLai0mDavjzBkkpB8O17oRNLv     z5EYi7iiP
+ab S23C9mwhhWUuPIVEnU8JEq  SSPfxsWhBG6qGe9X1JqFEzNO5aYFt7rSAiZq6672      HpBottle  50
+ti      S23C9mwhhWUuPIVEnU8JEq   SSPfxsWhBG6qGe9X1JqFEzNO5aYFt7rSAiZq6672
+use       S23C9mwhhWUuPIVEnU8JEq        SSPfxsWhBG6qGe9X1JqFEzNO5aYFt7rSAiZq6672  itfT0tKmL7gO
+ae       FsXE5Yt7xafF_       S3fg0qdXNAQOr7ETQKn91Sq9JrRyhjuMa      Armour   100
+ab    2BJYLqdPump0Qv1        dToc8LJ8UxjXShzCodo50yfAUtWRxHjP        HpBottle     1000
+ti        2BJYLqdPump0Qv1  dToc8LJ8UxjXShzCodo50yfAUtWRxHjP
+use    2BJYLqdPump0Qv1  dToc8LJ8UxjXShzCodo50yfAUtWRxHjP   FsXE5Yt7xafF_
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N Rr_37bX7P40nGc Armour       100
+ab RZb3JDhLf6B  0_Cc6nuq_gcDgXG   HpBottle 1000
+ti  RZb3JDhLf6B     0_Cc6nuq_gcDgXG
+use        RZb3JDhLf6B        0_Cc6nuq_gcDgXG    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    66IqXBu23nStZ3uWGWPJLG5E5Iv       AtkBottle
+ae   z5EYi7iiP     _eJwxOq7      Armour       100
+ab      KIJydPySUG_g4MKoH7xji8z0oCC  fLSB5l87b7An  HpBottle      1000
+ti     KIJydPySUG_g4MKoH7xji8z0oCC   fLSB5l87b7An
+use    KIJydPySUG_g4MKoH7xji8z0oCC    fLSB5l87b7An        z5EYi7iiP
+ae     FsXE5Yt7xafF_        ldCtOVAkhHPeRxI5d_CvRfor0sPpvYO     Armour     100
+ab   cD5PTXSngIvj63RjGM8ZLYqbA        JbqJhc4m3uwlvA  HpBottle        1000
+ti cD5PTXSngIvj63RjGM8ZLYqbA        JbqJhc4m3uwlvA
+use      cD5PTXSngIvj63RjGM8ZLYqbA   JbqJhc4m3uwlvA  FsXE5Yt7xafF_
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N     pXyTacjNCxOR8cyKenaXyeIMseoS4X2SkVQ4sZce    Armour        100
+ab  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        ckmXMBZnJrTIzV9gbwWR    HpBottle    1000
+ti      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     ckmXMBZnJrTIzV9gbwWR
+use     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   ckmXMBZnJrTIzV9gbwWR      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae  FsXE5Yt7xafF_     xNR1TUeQDOwPB6GQkjQ     Armour 100
+ab      ACntKTNYFZ9sOqPf38qIkyd    DTR0JqlNriP7s5mFXQ_RA3GrqAF2EB HpBottle       1000
+ti      ACntKTNYFZ9sOqPf38qIkyd     DTR0JqlNriP7s5mFXQ_RA3GrqAF2EB
+use ACntKTNYFZ9sOqPf38qIkyd        DTR0JqlNriP7s5mFXQ_RA3GrqAF2EB   FsXE5Yt7xafF_
+ab       qQq01KnJ_NAFHs_L1a      IIsBbgzfSK7w8sFWZ0FSNE   AtkBottle   50
+ti      qQq01KnJ_NAFHs_L1a      IIsBbgzfSK7w8sFWZ0FSNE
+use      qQq01KnJ_NAFHs_L1a IIsBbgzfSK7w8sFWZ0FSNE      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ls     2BJYLqdPump0Qv1    vw637AICfskkBsJV8Y       AttackSpell     10 50
+use  2BJYLqdPump0Qv1    vw637AICfskkBsJV8Y    njBP9r4IlBAk2CnbvMpR34k51JP
+bi DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       Adbj86vGPHzzP       AtkBottle
+ri      a24A6kttI9KYkz0zb1q    ATxLJpgXVzlw_4mWFkLoxEmck
+use        KIJydPySUG_g4MKoH7xji8z0oCC    fLSB5l87b7An     17WyuL3mfSDprNhQ57Bw278bXrXLySd
+bi        Fr4EOvOY2x1yqpUPKkPG35qt1SCF 2QUfNxCnXWcldqNbO0g3qfTxp    Sword
+ae        FsXE5Yt7xafF_       TD8Xht5GlVyWRU4EgPtbvzFtk5BNBQ       Armour 100
+ab     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    TsjzxubyES3dVvqMe5SRQopqTM      HpBottle 1000
+ti    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   TsjzxubyES3dVvqMe5SRQopqTM
+use       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      TsjzxubyES3dVvqMe5SRQopqTM      FsXE5Yt7xafF_
+ri   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        PxdTEwJ2UZow_0RxTjou_4B
+ls    Fr4EOvOY2x1yqpUPKkPG35qt1SCF       VY_VWApuCmRIOLlqDc HealSpell      12   169
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N sBRmb0cDzKjz5b4sOjPJB      Armour    100
+ab  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        5ORBhaXUYxGG        HpBottle       1000
+ti    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy  5ORBhaXUYxGG
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      5ORBhaXUYxGG    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi     17WyuL3mfSDprNhQ57Bw278bXrXLySd    Dhl06YnAfpT3JTPMcE       DefBottle
+ab        Bjn_YA5fD4efE7kIlrG2glAcv   ugQ1IsyUEFw8WpZcyVj96aeW      DefBottle  50
+ti Bjn_YA5fD4efE7kIlrG2glAcv       ugQ1IsyUEFw8WpZcyVj96aeW
+use      Bjn_YA5fD4efE7kIlrG2glAcv ugQ1IsyUEFw8WpZcyVj96aeW     RZb3JDhLf6B
+bi        gbUS0RYThGCBEnrK14mYoA    7NoTKMZsJV7Jx6MTeJhBWjDu    HpBottle
+ae     FsXE5Yt7xafF_     ryVXNJDRRFDaCCxwBr3      Armour       100
+ab        zB8rxHdqiRt       KrgJ5YOSFqp2WratXXu7mXThvsuN        HpBottle     1000
+ti     zB8rxHdqiRt  KrgJ5YOSFqp2WratXXu7mXThvsuN
+use zB8rxHdqiRt      KrgJ5YOSFqp2WratXXu7mXThvsuN   FsXE5Yt7xafF_
+rr  KIJydPySUG_g4MKoH7xji8z0oCC  Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ls       Fr4EOvOY2x1yqpUPKkPG35qt1SCF   7z8RgjOFi1hSal9vSmUppqcvlcZ       AttackSpell     20    58
+bi        KIJydPySUG_g4MKoH7xji8z0oCC  o7WEk4K155l83blXUc9NhazBsWyq6b7        Armour
+ls     qQq01KnJ_NAFHs_L1a       p0vAAHPw    AttackSpell 20   267
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   lUIAPO1C4YUGw8J8koNTMx  Armour 100
+ab      zB8rxHdqiRt        XNtNbFc4y6Y1Jho7n25dceZHZPGAcWDPB HpBottle 1000
+ti       zB8rxHdqiRt    XNtNbFc4y6Y1Jho7n25dceZHZPGAcWDPB
+use       zB8rxHdqiRt     XNtNbFc4y6Y1Jho7n25dceZHZPGAcWDPB      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls    Bjn_YA5fD4efE7kIlrG2glAcv  G94ZMYkg   HealSpell       5        93
+ae z5EYi7iiP   Dt2ogSOIyjThq8q_smjHxIHH0MbfXICn   Armour      100
+ab RZb3JDhLf6B  mg4CqLuARi_12bRuDi3XkDz3  HpBottle      1000
+ti        RZb3JDhLf6B   mg4CqLuARi_12bRuDi3XkDz3
+use      RZb3JDhLf6B    mg4CqLuARi_12bRuDi3XkDz3       z5EYi7iiP
+ae     FsXE5Yt7xafF_ SRgcLfdBosSBhJFa0Jw6R  Armour     100
+ab   KIJydPySUG_g4MKoH7xji8z0oCC  8d3PuUKYiXeITpgu7ZCoYxHxdt0bXZEqCTBm  HpBottle    1000
+ti        KIJydPySUG_g4MKoH7xji8z0oCC   8d3PuUKYiXeITpgu7ZCoYxHxdt0bXZEqCTBm
+use  KIJydPySUG_g4MKoH7xji8z0oCC      8d3PuUKYiXeITpgu7ZCoYxHxdt0bXZEqCTBm       FsXE5Yt7xafF_
+bi      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     osllr6_49WfYoz2_5      HpBottle
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       IQLBnp8X26oF3K91peuO   Armour    100
+ab     S23C9mwhhWUuPIVEnU8JEq       TpQhtqLrGxLyhsltGF2gcKg   HpBottle       1000
+ti        S23C9mwhhWUuPIVEnU8JEq       TpQhtqLrGxLyhsltGF2gcKg
+use  S23C9mwhhWUuPIVEnU8JEq  TpQhtqLrGxLyhsltGF2gcKg  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi       S23C9mwhhWUuPIVEnU8JEq    Edg0GFD6xr    DefBottle
+ae z5EYi7iiP      wvAECmy_mT8bnQ8Kut0f3A2rnG15EjD     Armour      100
+ab     itfT0tKmL7gO     Z9Kva9ubBdno HpBottle   1000
+ti itfT0tKmL7gO     Z9Kva9ubBdno
+use  itfT0tKmL7gO   Z9Kva9ubBdno   z5EYi7iiP
+ls        hzilihtl21Lzp73q7     GR3BcslhXug7dB    AttackSpell  10    50
+use hzilihtl21Lzp73q7      GR3BcslhXug7dB        RZb3JDhLf6B
+bi S23C9mwhhWUuPIVEnU8JEq    VDSgD6Yf1_0uMt5_juV1WwIxnrODDPPT  ManaBottle
+lr S23C9mwhhWUuPIVEnU8JEq(zB8rxHdqiRt)
+ae       FsXE5Yt7xafF_    1zpCj9bI  Armour  100
+ab      KIJydPySUG_g4MKoH7xji8z0oCC  fqoa2JWa8w3hdv2ibf    HpBottle      1000
+ti    KIJydPySUG_g4MKoH7xji8z0oCC     fqoa2JWa8w3hdv2ibf
+use KIJydPySUG_g4MKoH7xji8z0oCC        fqoa2JWa8w3hdv2ibf        FsXE5Yt7xafF_
+ri       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy   WtCnktdR4149v0sNYpA3NGEbxs32
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   FWxZW4uDMB6      Armour   100
+ab   jo6H6Dt9Hl7uoaIbuVx3ea   yrhkFpkMhR6d9mPY12       HpBottle     1000
+ti       jo6H6Dt9Hl7uoaIbuVx3ea yrhkFpkMhR6d9mPY12
+use   jo6H6Dt9Hl7uoaIbuVx3ea yrhkFpkMhR6d9mPY12     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae        z5EYi7iiP     lVD094uiHMfk4TGRsVSX8_1v_G3gpxV_  Armour      100
+ab   hzilihtl21Lzp73q7      EXV7D5Lh5xrRKkM3M6FvsTHaNgoMrlvnePe6em  HpBottle      1000
+ti      hzilihtl21Lzp73q7     EXV7D5Lh5xrRKkM3M6FvsTHaNgoMrlvnePe6em
+use     hzilihtl21Lzp73q7      EXV7D5Lh5xrRKkM3M6FvsTHaNgoMrlvnePe6em z5EYi7iiP
+ae     RZb3JDhLf6B  Ip2hVaHQQwNX80Ad  Armour   100
+ab   hzilihtl21Lzp73q7     dhmcglgqT9t4aZXaoV2bYsFI3fJXTKl5L1       HpBottle 1000
+ti     hzilihtl21Lzp73q7   dhmcglgqT9t4aZXaoV2bYsFI3fJXTKl5L1
+use   hzilihtl21Lzp73q7  dhmcglgqT9t4aZXaoV2bYsFI3fJXTKl5L1   RZb3JDhLf6B
+ae  FsXE5Yt7xafF_    _L3HozfpmX1mwb32stfvNjlQe4lz        Armour        100
+ab DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS      btKHoG_Ci72ytELpgqb4tp52s8JbornZ8DBsCAU    HpBottle 1000
+ti       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    btKHoG_Ci72ytELpgqb4tp52s8JbornZ8DBsCAU
+use DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   btKHoG_Ci72ytELpgqb4tp52s8JbornZ8DBsCAU FsXE5Yt7xafF_
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  pq6ks4RxGXuwHyBbQxUy9bsAJU       Armour        100
+ab  itfT0tKmL7gO SHX2oA25XQeWVmhm8NwoINrfhqVfhyICnw_      HpBottle     1000
+ti     itfT0tKmL7gO       SHX2oA25XQeWVmhm8NwoINrfhqVfhyICnw_
+use        itfT0tKmL7gO     SHX2oA25XQeWVmhm8NwoINrfhqVfhyICnw_      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        QbyHR3ArT3mQ7AMhzu7DPPx    ManaBottle
+use jo6H6Dt9Hl7uoaIbuVx3ea        4frj0E0oTs_9BGwQi9i9k        2BJYLqdPump0Qv1
+lr     gbUS0RYThGCBEnrK14mYoA(Fr4EOvOY2x1yqpUPKkPG35qt1SCF)
+ls TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI      uo6XCPqLCcH8pRoL7TbihX6dziIbSqXMoHZwyJ  AttackSpell 25     275
+ae        FsXE5Yt7xafF_  gTvWYNIZ3Ngdd1VT5kL6DcZKXuNeQhu80xbS4      Armour   100
+ab  zB8rxHdqiRt       CwjlUIOr0jNUtsoKIYdgb0Sb7oFrmoNVwdZWYvj       HpBottle  1000
+ti      zB8rxHdqiRt      CwjlUIOr0jNUtsoKIYdgb0Sb7oFrmoNVwdZWYvj
+use        zB8rxHdqiRt     CwjlUIOr0jNUtsoKIYdgb0Sb7oFrmoNVwdZWYvj      FsXE5Yt7xafF_
+ae     FsXE5Yt7xafF_  Rx7bcA6bGHJc05TLjqQ6aferOcOdJ Armour      100
+ab      hzilihtl21Lzp73q7  77nmRMbwhFiziInTgLPfpPWuKaMFyaE     HpBottle        1000
+ti   hzilihtl21Lzp73q7       77nmRMbwhFiziInTgLPfpPWuKaMFyaE
+use      hzilihtl21Lzp73q7      77nmRMbwhFiziInTgLPfpPWuKaMFyaE       FsXE5Yt7xafF_
+ae     z5EYi7iiP   PfPB59T9    Armour      100
+ab  yj8yvSg7Uea6SptHx5WOAoyYB5E FPiucdxIJU2MbOjeyp0StSJ    HpBottle      1000
+ti     yj8yvSg7Uea6SptHx5WOAoyYB5E   FPiucdxIJU2MbOjeyp0StSJ
+use      yj8yvSg7Uea6SptHx5WOAoyYB5E   FPiucdxIJU2MbOjeyp0StSJ z5EYi7iiP
+ab        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    wGUQM0mWCc821Wa6QdxN59mul9PZF   AtkBottle    50
+ti     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI wGUQM0mWCc821Wa6QdxN59mul9PZF
+use TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI       wGUQM0mWCc821Wa6QdxN59mul9PZF    Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ls  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy 9w1bt52SJHBMYbPUR9ljQgap_RAZ       AttackSpell  14      200
+use    S23C9mwhhWUuPIVEnU8JEq   _ELzeQmjGe4vA4ACMitp776Dosj5m5s   cD5PTXSngIvj63RjGM8ZLYqbA
+ae       RZb3JDhLf6B       gmVtiJSYTgrlLtCrkcvy5q  Armour    100
+ab mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  xZejqZx5XcTu_PJC3YEoQefR    HpBottle      1000
+ti       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   xZejqZx5XcTu_PJC3YEoQefR
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    xZejqZx5XcTu_PJC3YEoQefR RZb3JDhLf6B
+rr       KIJydPySUG_g4MKoH7xji8z0oCC       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+ls    a24A6kttI9KYkz0zb1q 9o6aaQw35ge_GDF_OOhaYJPuk9   AttackSpell    16     83
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      T3nvruLKN       Armour       100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC  Jp_vvmF1lAiBciivnCPYVqPllyq  HpBottle      1000
+ti     KIJydPySUG_g4MKoH7xji8z0oCC       Jp_vvmF1lAiBciivnCPYVqPllyq
+use  KIJydPySUG_g4MKoH7xji8z0oCC    Jp_vvmF1lAiBciivnCPYVqPllyq    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae   RZb3JDhLf6B       qjs51I95owHesM8g5r2nleNMTZ    Armour    100
+ab       gbUS0RYThGCBEnrK14mYoA    A2HKzJ5V HpBottle     1000
+ti   gbUS0RYThGCBEnrK14mYoA     A2HKzJ5V
+use      gbUS0RYThGCBEnrK14mYoA  A2HKzJ5V       RZb3JDhLf6B
+ae       RZb3JDhLf6B   GFkAAjOiA0kxfZM0AQEy631grub7TxptiAJ  Armour     100
+ab      yj8yvSg7Uea6SptHx5WOAoyYB5E f_3Y_8gw      HpBottle    1000
+ti  yj8yvSg7Uea6SptHx5WOAoyYB5E f_3Y_8gw
+use   yj8yvSg7Uea6SptHx5WOAoyYB5E     f_3Y_8gw      RZb3JDhLf6B
+use       Fr4EOvOY2x1yqpUPKkPG35qt1SCF    U125JwatA7f2cdHtLOgSvZvqfXMW    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ae        RZb3JDhLf6B    pGDUWqGCdKlghet    Armour   100
+ab       itfT0tKmL7gO  42_BMJBCMK   HpBottle     1000
+ti        itfT0tKmL7gO      42_BMJBCMK
+use      itfT0tKmL7gO      42_BMJBCMK  RZb3JDhLf6B
+bi  jo6H6Dt9Hl7uoaIbuVx3ea       28cdplZHp5hNIb3CHQCt89vjPg2q      DefBottle
+ae  FsXE5Yt7xafF_  G9O9AoobQ8od86iC Armour 100
+ab     cD5PTXSngIvj63RjGM8ZLYqbA      f3poURyjxEMXvQrMWpE2vkxkT       HpBottle    1000
+ti cD5PTXSngIvj63RjGM8ZLYqbA       f3poURyjxEMXvQrMWpE2vkxkT
+use    cD5PTXSngIvj63RjGM8ZLYqbA f3poURyjxEMXvQrMWpE2vkxkT   FsXE5Yt7xafF_
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N     zHTs85B3IkpfzP   Armour     100
+ab     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 rgOtbEmAfRWJB9h6FvRKH7GpEMM      HpBottle    1000
+ti      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       rgOtbEmAfRWJB9h6FvRKH7GpEMM
+use mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  rgOtbEmAfRWJB9h6FvRKH7GpEMM     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi      2BJYLqdPump0Qv1  gQ_38JBoFg0U1s5ARKUvsRa        HpBottle
+ae  FsXE5Yt7xafF_     ksgJlE1A1J6     Armour       100
+ab        hzilihtl21Lzp73q7  f1ryGoMUQFwI9aZV  HpBottle     1000
+ti    hzilihtl21Lzp73q7       f1ryGoMUQFwI9aZV
+use hzilihtl21Lzp73q7        f1ryGoMUQFwI9aZV  FsXE5Yt7xafF_
+ae      FsXE5Yt7xafF_ nfSvKEC2Ljn3xp8_PoTV       Armour   100
+ab  ACntKTNYFZ9sOqPf38qIkyd     3w9R3r7i7wq0        HpBottle      1000
+ti        ACntKTNYFZ9sOqPf38qIkyd    3w9R3r7i7wq0
+use       ACntKTNYFZ9sOqPf38qIkyd     3w9R3r7i7wq0 FsXE5Yt7xafF_
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   zYzGtMuhT6EiarI9dL9LZzGeVRk5s1       Armour      100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    oIyFdxpS639_px_EI5T   HpBottle  1000
+ti   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    oIyFdxpS639_px_EI5T
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       oIyFdxpS639_px_EI5T MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi     VBRkioBmS93oMD4HOL7aEkjwGSwi        eG_rVC0Zwu73YcnOY4qBo9cC2GVG54oKNqnO5IrT    AtkBottle
+ae FsXE5Yt7xafF_ _GNv9SKYP7MSRr5dzJCgmjzpabrxgAoSHN9FJv2o Armour       100
+ab     jo6H6Dt9Hl7uoaIbuVx3ea  vg1n3TT5oKzwWK4gsrvrs1DorEBTdO7    HpBottle        1000
+ti    jo6H6Dt9Hl7uoaIbuVx3ea  vg1n3TT5oKzwWK4gsrvrs1DorEBTdO7
+use        jo6H6Dt9Hl7uoaIbuVx3ea     vg1n3TT5oKzwWK4gsrvrs1DorEBTdO7  FsXE5Yt7xafF_
+ri     cD5PTXSngIvj63RjGM8ZLYqbA  JbqJhc4m3uwlvA
+ae   RZb3JDhLf6B   hi1Uey_F8kacqGHQjGv9fJb8B Armour    100
+ab       zB8rxHdqiRt    aEEin1ZMnigGRX9FIzNreYShBsflZVXEJjxIRa5Y     HpBottle      1000
+ti      zB8rxHdqiRt   aEEin1ZMnigGRX9FIzNreYShBsflZVXEJjxIRa5Y
+use     zB8rxHdqiRt       aEEin1ZMnigGRX9FIzNreYShBsflZVXEJjxIRa5Y     RZb3JDhLf6B
+ls mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       6rG0dJDj0aAzEdDTZGW2eZHyu4t_   AttackSpell       10    50
+use      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    6rG0dJDj0aAzEdDTZGW2eZHyu4t_     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae       FsXE5Yt7xafF_   dusIBB47tCgUgwXq9nm2RBB4NPCJ     Armour        100
+ab        2BJYLqdPump0Qv1  seS9NX4LXWVYHr8PER      HpBottle   1000
+ti       2BJYLqdPump0Qv1        seS9NX4LXWVYHr8PER
+use 2BJYLqdPump0Qv1  seS9NX4LXWVYHr8PER FsXE5Yt7xafF_
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF       U125JwatA7f2cdHtLOgSvZvqfXMW     cD5PTXSngIvj63RjGM8ZLYqbA
+ae      FsXE5Yt7xafF_        w_QoogLWyAhcwKT5P5BaRoEnU    Armour    100
+ab     hzilihtl21Lzp73q7        2Dn6lhkJG4VEWLzlY7sv  HpBottle       1000
+ti    hzilihtl21Lzp73q7        2Dn6lhkJG4VEWLzlY7sv
+use    hzilihtl21Lzp73q7        2Dn6lhkJG4VEWLzlY7sv        FsXE5Yt7xafF_
+ae      FsXE5Yt7xafF_        fdy6enYbRgDGEeBojXlDYHlUpOV5syN9QMBHfL      Armour        100
+ab     S23C9mwhhWUuPIVEnU8JEq        1sIriYJIYzTWArqm       HpBottle     1000
+ti      S23C9mwhhWUuPIVEnU8JEq        1sIriYJIYzTWArqm
+use     S23C9mwhhWUuPIVEnU8JEq   1sIriYJIYzTWArqm FsXE5Yt7xafF_
+ri     ACntKTNYFZ9sOqPf38qIkyd   DTR0JqlNriP7s5mFXQ_RA3GrqAF2EB
+ae  RZb3JDhLf6B   pBODRhEO3j Armour   100
+ab      iphEfa8KCeCYyU_PZ  hmx2jnnrlYUisji2lc37qjIm9MfRfJC4PHqcQe   HpBottle   1000
+ti iphEfa8KCeCYyU_PZ        hmx2jnnrlYUisji2lc37qjIm9MfRfJC4PHqcQe
+use  iphEfa8KCeCYyU_PZ hmx2jnnrlYUisji2lc37qjIm9MfRfJC4PHqcQe    RZb3JDhLf6B
+use 17WyuL3mfSDprNhQ57Bw278bXrXLySd 8I7pMLnx_EzcYUXKJ68jrw   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     xZejqZx5XcTu_PJC3YEoQefR     zB8rxHdqiRt
+rr  gbUS0RYThGCBEnrK14mYoA       Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae        RZb3JDhLf6B     etlKmgcY3ZyyHeh41vWwV   Armour    100
+ab       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      5jfCIF8F7UDuBv2H5MpMntigWMlnwb2f9V8wP      HpBottle     1000
+ti     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     5jfCIF8F7UDuBv2H5MpMntigWMlnwb2f9V8wP
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy 5jfCIF8F7UDuBv2H5MpMntigWMlnwb2f9V8wP   RZb3JDhLf6B
+use  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        osllr6_49WfYoz2_5    ACntKTNYFZ9sOqPf38qIkyd
+bi     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        69JtP81kcBW       HpBottle
+ae    z5EYi7iiP  VLVlhfxyLaLsVs     Armour  100
+ab     Bjn_YA5fD4efE7kIlrG2glAcv       irEWspkXKRizT9  HpBottle        1000
+ti Bjn_YA5fD4efE7kIlrG2glAcv   irEWspkXKRizT9
+use  Bjn_YA5fD4efE7kIlrG2glAcv irEWspkXKRizT9     z5EYi7iiP
+ae RZb3JDhLf6B      JdiYOQ3Z_HOFDFd8u6PE9i5M2Xv      Armour      100
+ab     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 lqC0evbIbFP9vQTRHlISDbMcLxIN2      HpBottle     1000
+ti    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        lqC0evbIbFP9vQTRHlISDbMcLxIN2
+use   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        lqC0evbIbFP9vQTRHlISDbMcLxIN2    RZb3JDhLf6B
+ae      FsXE5Yt7xafF_    y0iQCx0pb5gLGzcKoPyt2PJ        Armour      100
+ab    KIJydPySUG_g4MKoH7xji8z0oCC      6XYxGPnUISnSMBDQoBzpJaDoVPg5dukdvpEQ HpBottle      1000
+ti        KIJydPySUG_g4MKoH7xji8z0oCC  6XYxGPnUISnSMBDQoBzpJaDoVPg5dukdvpEQ
+use    KIJydPySUG_g4MKoH7xji8z0oCC       6XYxGPnUISnSMBDQoBzpJaDoVPg5dukdvpEQ    FsXE5Yt7xafF_
+ls      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS      RVBvAoQXZ_kkJ3X8JDOaj_vP3   AttackSpell   28   204
+ae   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        7icyXxDo9cXPMP11do3dAG9   Armour      100
+ab gbUS0RYThGCBEnrK14mYoA    co5UXjhxlUlgFs5yjK12m_5Y1uLs_251msvs  HpBottle     1000
+ti   gbUS0RYThGCBEnrK14mYoA co5UXjhxlUlgFs5yjK12m_5Y1uLs_251msvs
+use       gbUS0RYThGCBEnrK14mYoA        co5UXjhxlUlgFs5yjK12m_5Y1uLs_251msvs     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls       hzilihtl21Lzp73q7  de0WPL7gCH7QRpj AttackSpell     18        62
+ls      17WyuL3mfSDprNhQ57Bw278bXrXLySd kOYNDSyla        AttackSpell      10       50
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd        kOYNDSyla        S23C9mwhhWUuPIVEnU8JEq
+use Fr4EOvOY2x1yqpUPKkPG35qt1SCF  7z8RgjOFi1hSal9vSmUppqcvlcZ KIJydPySUG_g4MKoH7xji8z0oCC
+ae  RZb3JDhLf6B   _cjPSEd_dXpELK8xPc4QP7MEAMmRMAIwU7LXXmgM       Armour 100
+ab       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 YPUZMSBg     HpBottle    1000
+ti        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   YPUZMSBg
+use        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       YPUZMSBg  RZb3JDhLf6B
+use      Bjn_YA5fD4efE7kIlrG2glAcv        G94ZMYkg  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ri      KIJydPySUG_g4MKoH7xji8z0oCC     o7WEk4K155l83blXUc9NhazBsWyq6b7
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        fr0XadPCevVXDE4lVlNmH9bAxF6nPeJX3dl     Armour      100
+ab    2BJYLqdPump0Qv1  wpWwRiOLk8     HpBottle      1000
+ti    2BJYLqdPump0Qv1     wpWwRiOLk8
+use     2BJYLqdPump0Qv1 wpWwRiOLk8        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    SzuNLcdK8KC5bngFGmFtB      Armour       100
+ab   a24A6kttI9KYkz0zb1q     Q22aTDFpiSOgImbG0O3vEslUPkmIlJJ_xbELrRNb HpBottle       1000
+ti a24A6kttI9KYkz0zb1q      Q22aTDFpiSOgImbG0O3vEslUPkmIlJJ_xbELrRNb
+use a24A6kttI9KYkz0zb1q     Q22aTDFpiSOgImbG0O3vEslUPkmIlJJ_xbELrRNb     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use    ACntKTNYFZ9sOqPf38qIkyd     3w9R3r7i7wq0       qQq01KnJ_NAFHs_L1a
+ae   z5EYi7iiP  gtebbng3V8AOcFJR3jfcDfHgE       Armour 100
+ab      Fr4EOvOY2x1yqpUPKkPG35qt1SCF    05sc__h8smXV95vF2ioa7WO    HpBottle       1000
+ti    Fr4EOvOY2x1yqpUPKkPG35qt1SCF  05sc__h8smXV95vF2ioa7WO
+use   Fr4EOvOY2x1yqpUPKkPG35qt1SCF   05sc__h8smXV95vF2ioa7WO     z5EYi7iiP
+ri   gbUS0RYThGCBEnrK14mYoA     IWG0z4EdbnJNjnZIMv0j_j1hej
+bi   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       UhKX4fo4it0mZLULLVR8JSeKahQW7q8CnIycQe      AtkBottle
+ae     z5EYi7iiP    PqeMycQJmIm Armour  100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC      uy58TKYDVjF6tr        HpBottle      1000
+ti   KIJydPySUG_g4MKoH7xji8z0oCC   uy58TKYDVjF6tr
+use       KIJydPySUG_g4MKoH7xji8z0oCC       uy58TKYDVjF6tr  z5EYi7iiP
+use  KIJydPySUG_g4MKoH7xji8z0oCC       fLSB5l87b7An    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ae       FsXE5Yt7xafF_   RSzutWnDPJTMTIL4511H2eZ_TQPwtVe5     Armour  100
+ab  zB8rxHdqiRt  Fh3Nzww16sIp9evg HpBottle     1000
+ti        zB8rxHdqiRt Fh3Nzww16sIp9evg
+use      zB8rxHdqiRt     Fh3Nzww16sIp9evg   FsXE5Yt7xafF_
+bi  ACntKTNYFZ9sOqPf38qIkyd     pIxXmigbBqrxVCIf15aIXz2    Magicbook
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N UTLl23_rqD8VgD4Gm0KFenMiDyF4yUk_pIXnnefU Armour   100
+ab        gbUS0RYThGCBEnrK14mYoA       q4S9VwfmLOW2Aqhh_sAl2r7unFU HpBottle  1000
+ti        gbUS0RYThGCBEnrK14mYoA        q4S9VwfmLOW2Aqhh_sAl2r7unFU
+use       gbUS0RYThGCBEnrK14mYoA      q4S9VwfmLOW2Aqhh_sAl2r7unFU      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri      hzilihtl21Lzp73q7        dhmcglgqT9t4aZXaoV2bYsFI3fJXTKl5L1
+use      Bjn_YA5fD4efE7kIlrG2glAcv  G94ZMYkg  a24A6kttI9KYkz0zb1q
+ae      FsXE5Yt7xafF_ FskQszSuTevU9NAJ4Pu   Armour   100
+ab    _1YzLPKaH3BoxfHYIs5fZ5bQsC  t_pbR4w1LDoYGra4CxlyEZJzza8IWBsNDr       HpBottle        1000
+ti     _1YzLPKaH3BoxfHYIs5fZ5bQsC t_pbR4w1LDoYGra4CxlyEZJzza8IWBsNDr
+use  _1YzLPKaH3BoxfHYIs5fZ5bQsC t_pbR4w1LDoYGra4CxlyEZJzza8IWBsNDr        FsXE5Yt7xafF_
+bi      yj8yvSg7Uea6SptHx5WOAoyYB5E        FjayXDzzvrHJTkAL26S     Sword
+bi       a24A6kttI9KYkz0zb1q       YG940LTfI        ManaBottle
+ae   RZb3JDhLf6B      BHQ6N5Svee0C9wX_5ljVYa1  Armour   100
+ab qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     IkGMz5TYO   HpBottle     1000
+ti    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      IkGMz5TYO
+use        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq IkGMz5TYO    RZb3JDhLf6B
+ae    z5EYi7iiP 2YM6U4LhYP4hATlRYWPuoNi3dq0ZRWA_YmJNZe0        Armour     100
+ab        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    WazyREwX6W0QTYcHV     HpBottle     1000
+ti        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI       WazyREwX6W0QTYcHV
+use      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI WazyREwX6W0QTYcHV z5EYi7iiP
+use   njBP9r4IlBAk2CnbvMpR34k51JP     x_1lbgg0oCKQ0BdcTUWaunarKqJH     VBRkioBmS93oMD4HOL7aEkjwGSwi
+ls        ACntKTNYFZ9sOqPf38qIkyd        yglJ6fhz24aReKJN8ZSZoQV5q12iA    AttackSpell     10   50
+use      ACntKTNYFZ9sOqPf38qIkyd        yglJ6fhz24aReKJN8ZSZoQV5q12iA      S23C9mwhhWUuPIVEnU8JEq
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N Gu3OyrO_JDfKymahFEcuUNB65sdwS    Armour 100
+ab     ACntKTNYFZ9sOqPf38qIkyd  9pJ9Y3VOULOT3pP6bsCQnt48fAyR_SHWMAjke  HpBottle       1000
+ti     ACntKTNYFZ9sOqPf38qIkyd      9pJ9Y3VOULOT3pP6bsCQnt48fAyR_SHWMAjke
+use       ACntKTNYFZ9sOqPf38qIkyd 9pJ9Y3VOULOT3pP6bsCQnt48fAyR_SHWMAjke      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     lqC0evbIbFP9vQTRHlISDbMcLxIN2        Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+use     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  QbyHR3ArT3mQ7AMhzu7DPPx    Bjn_YA5fD4efE7kIlrG2glAcv
+use      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     oIyFdxpS639_px_EI5T    a24A6kttI9KYkz0zb1q
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       YMrzc9rPF    Armour       100
+ab        gbUS0RYThGCBEnrK14mYoA kXNDuP0vv0Ed3 HpBottle     1000
+ti  gbUS0RYThGCBEnrK14mYoA       kXNDuP0vv0Ed3
+use  gbUS0RYThGCBEnrK14mYoA       kXNDuP0vv0Ed3   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae      z5EYi7iiP    9nBSBBfJt4iaZHYXvI1NZSUbbB9BIVI8S_n   Armour  100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC  _laCmm2EpX8       HpBottle    1000
+ti   KIJydPySUG_g4MKoH7xji8z0oCC        _laCmm2EpX8
+use    KIJydPySUG_g4MKoH7xji8z0oCC _laCmm2EpX8     z5EYi7iiP
+use    qQq01KnJ_NAFHs_L1a        IIsBbgzfSK7w8sFWZ0FSNE     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ri   _1YzLPKaH3BoxfHYIs5fZ5bQsC       WTA8OdyIW8CdhmgTFKsd2Q2XMZ_cQ_5aWRDGI5f
+ae        z5EYi7iiP       flWPxKg6QiMzBbkH7c_IlHzpdaNkF605n0C7wu    Armour       100
+ab     hzilihtl21Lzp73q7 k1yKzxjWFHGLU0BsyKN3zEcE02t6Cvh6_c  HpBottle  1000
+ti   hzilihtl21Lzp73q7      k1yKzxjWFHGLU0BsyKN3zEcE02t6Cvh6_c
+use   hzilihtl21Lzp73q7    k1yKzxjWFHGLU0BsyKN3zEcE02t6Cvh6_c       z5EYi7iiP
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       lHWdKocl1wYr5T_GyAsSx1CQOVNuQD      Armour  100
+ab  iphEfa8KCeCYyU_PZ   qCTZSVutyTlqjKYFIH_BoW9nkU6kW5        HpBottle 1000
+ti      iphEfa8KCeCYyU_PZ      qCTZSVutyTlqjKYFIH_BoW9nkU6kW5
+use        iphEfa8KCeCYyU_PZ        qCTZSVutyTlqjKYFIH_BoW9nkU6kW5      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        HHZG_IqpmY5OpxsKlrUJpV2ZsypIz9 AttackSpell  10        1
+ae     FsXE5Yt7xafF_        AmGoDVx5        Armour      100
+ab    KIJydPySUG_g4MKoH7xji8z0oCC 2yNQVQav_LjFQufzDZ       HpBottle 1000
+ti KIJydPySUG_g4MKoH7xji8z0oCC     2yNQVQav_LjFQufzDZ
+use     KIJydPySUG_g4MKoH7xji8z0oCC    2yNQVQav_LjFQufzDZ FsXE5Yt7xafF_
+ae        RZb3JDhLf6B   jFBQprDnT       Armour  100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   ExQWZLUq46oX02rllnffWYSJ7dtDeNi293w6j3J    HpBottle   1000
+ti  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk ExQWZLUq46oX02rllnffWYSJ7dtDeNi293w6j3J
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    ExQWZLUq46oX02rllnffWYSJ7dtDeNi293w6j3J      RZb3JDhLf6B
+ls      njBP9r4IlBAk2CnbvMpR34k51JP        3xdwEvbJ8PvOnHW3v5GV6uZQ5mo5LnlurG  AttackSpell      2      162
+ae        z5EYi7iiP     KkME9_Ve2eP9lRvNKEqa0yf Armour 100
+ab      Bjn_YA5fD4efE7kIlrG2glAcv  7_4bWm_DEm HpBottle      1000
+ti     Bjn_YA5fD4efE7kIlrG2glAcv      7_4bWm_DEm
+use    Bjn_YA5fD4efE7kIlrG2glAcv  7_4bWm_DEm      z5EYi7iiP
+use    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    uo6XCPqLCcH8pRoL7TbihX6dziIbSqXMoHZwyJ  KIJydPySUG_g4MKoH7xji8z0oCC
+ae      z5EYi7iiP  t5gS65nAT4AGZJ7TLkrMPiP7Nk97GsKNjznVE2vv  Armour     100
+ab  a24A6kttI9KYkz0zb1q IsJ2ZPGgafYwQXophnnco_N4yJdogBBL HpBottle      1000
+ti    a24A6kttI9KYkz0zb1q  IsJ2ZPGgafYwQXophnnco_N4yJdogBBL
+use      a24A6kttI9KYkz0zb1q      IsJ2ZPGgafYwQXophnnco_N4yJdogBBL    z5EYi7iiP
+ri     zB8rxHdqiRt   thS0jA2FM1wNujxOMQl2
+ae      z5EYi7iiP   VtjGN7YWb68yj5xE6d2zLqOe        Armour      100
+ab     ACntKTNYFZ9sOqPf38qIkyd  fZQwkA5rS6nAM304KuS5BcR HpBottle    1000
+ti       ACntKTNYFZ9sOqPf38qIkyd   fZQwkA5rS6nAM304KuS5BcR
+use      ACntKTNYFZ9sOqPf38qIkyd      fZQwkA5rS6nAM304KuS5BcR   z5EYi7iiP
+ls    Fr4EOvOY2x1yqpUPKkPG35qt1SCF        TqwenEuPEHT8ZtI6nWkHMuSmeqT    AttackSpell 10 208
+ae   FsXE5Yt7xafF_       JbxFR_iOXMInYvFo7sF9ULzKD0bE  Armour  100
+ab     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  PxOsRt0ho6G5CsNPLnNeCD2ayJCMN5JMux   HpBottle    1000
+ti P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk PxOsRt0ho6G5CsNPLnNeCD2ayJCMN5JMux
+use   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      PxOsRt0ho6G5CsNPLnNeCD2ayJCMN5JMux    FsXE5Yt7xafF_
+ae     RZb3JDhLf6B      QEbMFp7diG     Armour 100
+ab  gbUS0RYThGCBEnrK14mYoA  qNm3KZujkeAuyS6gFs        HpBottle 1000
+ti     gbUS0RYThGCBEnrK14mYoA    qNm3KZujkeAuyS6gFs
+use   gbUS0RYThGCBEnrK14mYoA        qNm3KZujkeAuyS6gFs   RZb3JDhLf6B
+ls     a24A6kttI9KYkz0zb1q      sJ8iqfByK8KQ9vg9EIQ6Zh13    HealSpell 28      184
+ae   FsXE5Yt7xafF_   nHPsCRIP1bO9aF7ucbL Armour    100
+ab cD5PTXSngIvj63RjGM8ZLYqbA      pmr5X95dSTD        HpBottle    1000
+ti       cD5PTXSngIvj63RjGM8ZLYqbA        pmr5X95dSTD
+use    cD5PTXSngIvj63RjGM8ZLYqbA     pmr5X95dSTD  FsXE5Yt7xafF_
+use Bjn_YA5fD4efE7kIlrG2glAcv  G94ZMYkg  KIJydPySUG_g4MKoH7xji8z0oCC
+ls  ACntKTNYFZ9sOqPf38qIkyd        OX9TdcHbovUFiKaGPw5E8h17RGbeSbA6N       HealSpell  24 275
+rr hzilihtl21Lzp73q7  jo6H6Dt9Hl7uoaIbuVx3ea
+lr   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy(jo6H6Dt9Hl7uoaIbuVx3ea(Fr4EOvOY2x1yqpUPKkPG35qt1SCF),njBP9r4IlBAk2CnbvMpR34k51JP)
+fight Fr4EOvOY2x1yqpUPKkPG35qt1SCF        1    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+fight  njBP9r4IlBAk2CnbvMpR34k51JP  1  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+ae     njBP9r4IlBAk2CnbvMpR34k51JP  pFNQGrRc40ZwzyDmktWVlcFK_2zmhitxTj  Sword   200
+ti       njBP9r4IlBAk2CnbvMpR34k51JP    pFNQGrRc40ZwzyDmktWVlcFK_2zmhitxTj
+fight njBP9r4IlBAk2CnbvMpR34k51JP     1    jo6H6Dt9Hl7uoaIbuVx3ea
+rr     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy   njBP9r4IlBAk2CnbvMpR34k51JP
+fight        njBP9r4IlBAk2CnbvMpR34k51JP      1   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+ae  RZb3JDhLf6B vGKXjyVFdDx6yVlKC5EiSAuCkj1 Armour    100
+ab       yj8yvSg7Uea6SptHx5WOAoyYB5E    Mgqs5RERZm1fH3TGnnymlTdXOCcRuB HpBottle  1000
+ti yj8yvSg7Uea6SptHx5WOAoyYB5E        Mgqs5RERZm1fH3TGnnymlTdXOCcRuB
+use       yj8yvSg7Uea6SptHx5WOAoyYB5E        Mgqs5RERZm1fH3TGnnymlTdXOCcRuB  RZb3JDhLf6B
+ls      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       fkPytgNlxqyfQzngQSZ67Xjprtazn       HealSpell      2   289
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    ZKzhNdk2       Armour        100
+ab  VBRkioBmS93oMD4HOL7aEkjwGSwi u2xWMpMmu5NqMScdc9ocW8LpK HpBottle 1000
+ti  VBRkioBmS93oMD4HOL7aEkjwGSwi       u2xWMpMmu5NqMScdc9ocW8LpK
+use  VBRkioBmS93oMD4HOL7aEkjwGSwi  u2xWMpMmu5NqMScdc9ocW8LpK   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae    z5EYi7iiP       2dkguxr7WwpzB9ZtcMV33Qe6d18BRVdWKjs       Armour     100
+ab     ACntKTNYFZ9sOqPf38qIkyd     UXo5uDnh5TnE1FYsZK2aavysy5 HpBottle  1000
+ti    ACntKTNYFZ9sOqPf38qIkyd       UXo5uDnh5TnE1FYsZK2aavysy5
+use ACntKTNYFZ9sOqPf38qIkyd    UXo5uDnh5TnE1FYsZK2aavysy5        z5EYi7iiP
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N zgSpL4kU5h450p6t9kfU7fHIngQeWf9VUAN473       Armour     100
+ab   hzilihtl21Lzp73q7 0DWd_7jCOvV0xEEMP    HpBottle 1000
+ti        hzilihtl21Lzp73q7  0DWd_7jCOvV0xEEMP
+use   hzilihtl21Lzp73q7       0DWd_7jCOvV0xEEMP   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae    z5EYi7iiP       nkEa3ju25NhPLzF2rmrcqiJwipdEFN Armour      100
+ab       jo6H6Dt9Hl7uoaIbuVx3ea   DTbrXdAOdNHzyQ44    HpBottle  1000
+ti        jo6H6Dt9Hl7uoaIbuVx3ea DTbrXdAOdNHzyQ44
+use   jo6H6Dt9Hl7uoaIbuVx3ea  DTbrXdAOdNHzyQ44        z5EYi7iiP
+ae    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        R3xPjQsMQWK      Armour     100
+ab jo6H6Dt9Hl7uoaIbuVx3ea      chxpEbKCbGpNjkN6XSwIqDEI  HpBottle  1000
+ti        jo6H6Dt9Hl7uoaIbuVx3ea      chxpEbKCbGpNjkN6XSwIqDEI
+use        jo6H6Dt9Hl7uoaIbuVx3ea  chxpEbKCbGpNjkN6XSwIqDEI       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use     Bjn_YA5fD4efE7kIlrG2glAcv        irEWspkXKRizT9    zB8rxHdqiRt
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    rXiC3SMJyxtwDPZXeR1_Vz9a5dikEtw5cC     Armour        100
+ab       cD5PTXSngIvj63RjGM8ZLYqbA       ZF3SrscXAc4AAP6Rc6PVwbEnx9uF HpBottle 1000
+ti       cD5PTXSngIvj63RjGM8ZLYqbA       ZF3SrscXAc4AAP6Rc6PVwbEnx9uF
+use    cD5PTXSngIvj63RjGM8ZLYqbA      ZF3SrscXAc4AAP6Rc6PVwbEnx9uF        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        RVBvAoQXZ_kkJ3X8JDOaj_vP3   a24A6kttI9KYkz0zb1q
+ae   FsXE5Yt7xafF_      Ol4YwsDK7c74U94vxmyoewiLC     Armour        100
+ab qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    F2N8pR1DAtFEUWZFmQffbReuoj7KnS79peV2MX HpBottle    1000
+ti    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      F2N8pR1DAtFEUWZFmQffbReuoj7KnS79peV2MX
+use      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    F2N8pR1DAtFEUWZFmQffbReuoj7KnS79peV2MX    FsXE5Yt7xafF_
+bi        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      SCoLJIWd      Sword
+ae RZb3JDhLf6B      EpfxoWqm9Dt       Armour    100
+ab a24A6kttI9KYkz0zb1q    bRJaDfER3FKlD4tIX8_t_fRldx HpBottle    1000
+ti a24A6kttI9KYkz0zb1q       bRJaDfER3FKlD4tIX8_t_fRldx
+use    a24A6kttI9KYkz0zb1q  bRJaDfER3FKlD4tIX8_t_fRldx    RZb3JDhLf6B
+ae   FsXE5Yt7xafF_   7cOisYQ4ZKc5mktWv_4     Armour      100
+ab      VBRkioBmS93oMD4HOL7aEkjwGSwi  z4NG6AI8      HpBottle 1000
+ti       VBRkioBmS93oMD4HOL7aEkjwGSwi   z4NG6AI8
+use      VBRkioBmS93oMD4HOL7aEkjwGSwi      z4NG6AI8     FsXE5Yt7xafF_
+bi hzilihtl21Lzp73q7    wWsf4049B2O HpBottle
+use     Bjn_YA5fD4efE7kIlrG2glAcv     ugQ1IsyUEFw8WpZcyVj96aeW  jo6H6Dt9Hl7uoaIbuVx3ea
+bi        itfT0tKmL7gO       9FHz7E1BjpVGTdpYlMeQQg_GHZWU_epP9TpG9       Sword
+rr    njBP9r4IlBAk2CnbvMpR34k51JP     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ri        KIJydPySUG_g4MKoH7xji8z0oCC     fLSB5l87b7An
+ri TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI        wGUQM0mWCc821Wa6QdxN59mul9PZF
+ae       FsXE5Yt7xafF_       IlETZ1EmWeRMfPyo8HrN      Armour  100
+ab     17WyuL3mfSDprNhQ57Bw278bXrXLySd    hSyRDUQxTebHB1wec0      HpBottle        1000
+ti       17WyuL3mfSDprNhQ57Bw278bXrXLySd    hSyRDUQxTebHB1wec0
+use 17WyuL3mfSDprNhQ57Bw278bXrXLySd       hSyRDUQxTebHB1wec0  FsXE5Yt7xafF_
+ls  qQq01KnJ_NAFHs_L1a      BcJMCNzz HealSpell        18        203
+ri  VBRkioBmS93oMD4HOL7aEkjwGSwi  eG_rVC0Zwu73YcnOY4qBo9cC2GVG54oKNqnO5IrT
+ae FsXE5Yt7xafF_      7_ZfTtv3LIZQTofjf_wCAHqcPiWbRhnnBaHHNF2s     Armour 100
+ab   17WyuL3mfSDprNhQ57Bw278bXrXLySd    RlpeNULGhzXmtbwozHVe2xJcFr_Xwr HpBottle  1000
+ti       17WyuL3mfSDprNhQ57Bw278bXrXLySd     RlpeNULGhzXmtbwozHVe2xJcFr_Xwr
+use 17WyuL3mfSDprNhQ57Bw278bXrXLySd RlpeNULGhzXmtbwozHVe2xJcFr_Xwr FsXE5Yt7xafF_
+ae       z5EYi7iiP        hRlt4_PgeYZy0AnNSqhavU4BJiTEDfIhcG  Armour      100
+ab      17WyuL3mfSDprNhQ57Bw278bXrXLySd       w0CjhkiXjfJLpUO4Q_zw HpBottle      1000
+ti 17WyuL3mfSDprNhQ57Bw278bXrXLySd  w0CjhkiXjfJLpUO4Q_zw
+use       17WyuL3mfSDprNhQ57Bw278bXrXLySd        w0CjhkiXjfJLpUO4Q_zw      z5EYi7iiP
+ls  ACntKTNYFZ9sOqPf38qIkyd    0BUwt721l0kznPk6K_stUUtNLkkOp   AttackSpell        11  168
+ae   z5EYi7iiP      8cb0yzdm5yrEmKFnaRpAMYYcdhi0lLImaO    Armour   100
+ab    hzilihtl21Lzp73q7 AKZGjq2JSuUm82   HpBottle  1000
+ti       hzilihtl21Lzp73q7  AKZGjq2JSuUm82
+use      hzilihtl21Lzp73q7 AKZGjq2JSuUm82       z5EYi7iiP
+ae RZb3JDhLf6B SE_ikSWBQYwP4o1v_A9hzlfPb_k2M4H9E8N1        Armour     100
+ab  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        _vnqzmPzPSpP0ksMVNj     HpBottle       1000
+ti       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  _vnqzmPzPSpP0ksMVNj
+use       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    _vnqzmPzPSpP0ksMVNj     RZb3JDhLf6B
+ls      Fr4EOvOY2x1yqpUPKkPG35qt1SCF   RBAYrz06PfwTjm   AttackSpell       22  60
+ae     RZb3JDhLf6B       c6d9ySHkT6IpTkEMyu423   Armour  100
+ab  a24A6kttI9KYkz0zb1q       nkMGdx9uEVE_jRrk2XnglZiG5mf   HpBottle     1000
+ti      a24A6kttI9KYkz0zb1q     nkMGdx9uEVE_jRrk2XnglZiG5mf
+use   a24A6kttI9KYkz0zb1q       nkMGdx9uEVE_jRrk2XnglZiG5mf  RZb3JDhLf6B
+bi  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        4QawsvKLX    Sword
+use      a24A6kttI9KYkz0zb1q       j13r_LzyFlPZtqgMDQYvUQV_ScTof2Qna9pw1       ACntKTNYFZ9sOqPf38qIkyd
+ae     z5EYi7iiP      zxcsalUBapElFIvALGZPKkJIuLsD    Armour     100
+ab    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        fIIsO3eka_869MOr72szrROx    HpBottle      1000
+ti  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  fIIsO3eka_869MOr72szrROx
+use      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    fIIsO3eka_869MOr72szrROx        z5EYi7iiP
+ls        gbUS0RYThGCBEnrK14mYoA   ShI5ZmDGB3MV75VfaS91p2v1F AttackSpell     10       50
+use   gbUS0RYThGCBEnrK14mYoA       ShI5ZmDGB3MV75VfaS91p2v1F  jo6H6Dt9Hl7uoaIbuVx3ea
+rr    a24A6kttI9KYkz0zb1q        cD5PTXSngIvj63RjGM8ZLYqbA
+ae   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  tCCWadjlLrxwwImUFlz4sEilM8RbjRAGHErQ1 Armour 100
+ab Fr4EOvOY2x1yqpUPKkPG35qt1SCF     p7p1VFOWrAh1       HpBottle        1000
+ti  Fr4EOvOY2x1yqpUPKkPG35qt1SCF        p7p1VFOWrAh1
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF       p7p1VFOWrAh1       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI(njBP9r4IlBAk2CnbvMpR34k51JP(BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy),cD5PTXSngIvj63RjGM8ZLYqbA)
+fight    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    1  TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+fight  cD5PTXSngIvj63RjGM8ZLYqbA  1     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ae   cD5PTXSngIvj63RjGM8ZLYqbA    _A5ebMOWSmVv2yiv5pip03qoInuvx1Zqc        Sword   200
+ti   cD5PTXSngIvj63RjGM8ZLYqbA    _A5ebMOWSmVv2yiv5pip03qoInuvx1Zqc
+fight    cD5PTXSngIvj63RjGM8ZLYqbA 1    njBP9r4IlBAk2CnbvMpR34k51JP
+rr       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI   cD5PTXSngIvj63RjGM8ZLYqbA
+fight  cD5PTXSngIvj63RjGM8ZLYqbA  1      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+bi       yj8yvSg7Uea6SptHx5WOAoyYB5E    QSSBU4nlpTAJYzWDvg ManaBottle
+rr    _1YzLPKaH3BoxfHYIs5fZ5bQsC    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+use     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  ML6LW21OCydwPL9we  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+bi   Bjn_YA5fD4efE7kIlrG2glAcv  PTVgSRZXJqchQNKvCVq_zqaH6Ip      Sword
+use        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       RVBvAoQXZ_kkJ3X8JDOaj_vP3 VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+use        KIJydPySUG_g4MKoH7xji8z0oCC  GXubadhwuY5ouL0AYYIh3Sz6zX7jkrXjfS 2BJYLqdPump0Qv1
+ae   z5EYi7iiP   ShNobkyrjyXqg4BG8qboKg4v_J2w  Armour    100
+ab        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   0MHGhqUmTE6w2XQQ_MkJt   HpBottle        1000
+ti       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        0MHGhqUmTE6w2XQQ_MkJt
+use      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    0MHGhqUmTE6w2XQQ_MkJt       z5EYi7iiP
+use        hzilihtl21Lzp73q7 EXV7D5Lh5xrRKkM3M6FvsTHaNgoMrlvnePe6em  yj8yvSg7Uea6SptHx5WOAoyYB5E
+use     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   RVBvAoQXZ_kkJ3X8JDOaj_vP3      Bjn_YA5fD4efE7kIlrG2glAcv
+bi _1YzLPKaH3BoxfHYIs5fZ5bQsC        DdSzVgLqSkiWGKaZa1S7jhN     AtkBottle
+bi    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       BG6p27Ubruw2dF77GQeOFwGKH      ManaBottle
+rr      Bjn_YA5fD4efE7kIlrG2glAcv       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  Id_GHLrbBkBGEYD5OSdlDfCTLU  Armour       100
+ab       2BJYLqdPump0Qv1   NbI_cSjLrog0HqCxeSjMNvaezHrucAl_E_VC   HpBottle     1000
+ti 2BJYLqdPump0Qv1     NbI_cSjLrog0HqCxeSjMNvaezHrucAl_E_VC
+use       2BJYLqdPump0Qv1        NbI_cSjLrog0HqCxeSjMNvaezHrucAl_E_VC        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr cD5PTXSngIvj63RjGM8ZLYqbA(mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6(TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI),qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq)
+fight    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI      1 cD5PTXSngIvj63RjGM8ZLYqbA
+fight qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      1     cD5PTXSngIvj63RjGM8ZLYqbA
+ae     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq RLYI_dHDH6Ay  Sword  200
+ti  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        RLYI_dHDH6Ay
+fight       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      1   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+rr cD5PTXSngIvj63RjGM8ZLYqbA       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+fight      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  1        cD5PTXSngIvj63RjGM8ZLYqbA
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       flbKXB7QT4ivXwscG5oSqXA   Armour   100
+ab        2BJYLqdPump0Qv1      UXPDmNo0    HpBottle       1000
+ti   2BJYLqdPump0Qv1      UXPDmNo0
+use     2BJYLqdPump0Qv1       UXPDmNo0      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae        njBP9r4IlBAk2CnbvMpR34k51JP    MnMe4B0xhVD02h8BKaw3AHYSwMSiGSqnY6lh  Armour        100
+ab      a24A6kttI9KYkz0zb1q  9IdQhxUIc21aOqqgdR      HpBottle   1000
+ti  a24A6kttI9KYkz0zb1q    9IdQhxUIc21aOqqgdR
+use a24A6kttI9KYkz0zb1q        9IdQhxUIc21aOqqgdR      njBP9r4IlBAk2CnbvMpR34k51JP
+ae     njBP9r4IlBAk2CnbvMpR34k51JP     KMCw2YEoYV0Dnnrv  Armour      100
+ab zB8rxHdqiRt  7_rNBhbhU1ipG6BH      HpBottle     1000
+ti     zB8rxHdqiRt 7_rNBhbhU1ipG6BH
+use   zB8rxHdqiRt   7_rNBhbhU1ipG6BH        njBP9r4IlBAk2CnbvMpR34k51JP
+ae      njBP9r4IlBAk2CnbvMpR34k51JP       aqeKb9DR3Tj5OO4eN5k2VZgHx5ZSH2y      Armour   100
+ab       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX zTg7JIh6 HpBottle  1000
+ti  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX zTg7JIh6
+use   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   zTg7JIh6  njBP9r4IlBAk2CnbvMpR34k51JP
+ae    z5EYi7iiP   zNp7U4lqhHIpb5CpsNSj     Armour     100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC VRu2pKcYMZB6yOi9AfWdX7WikVQxfGIRSkmalV7   HpBottle   1000
+ti    KIJydPySUG_g4MKoH7xji8z0oCC   VRu2pKcYMZB6yOi9AfWdX7WikVQxfGIRSkmalV7
+use    KIJydPySUG_g4MKoH7xji8z0oCC  VRu2pKcYMZB6yOi9AfWdX7WikVQxfGIRSkmalV7 z5EYi7iiP
+ri        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      fIIsO3eka_869MOr72szrROx
+ae      RZb3JDhLf6B       nO9OqEFCFvZKn6gvNBtCcwaUQ69iFgS89AQC7Mio   Armour       100
+ab        Fr4EOvOY2x1yqpUPKkPG35qt1SCF        9Zi1QgRIhrg   HpBottle 1000
+ti Fr4EOvOY2x1yqpUPKkPG35qt1SCF    9Zi1QgRIhrg
+use      Fr4EOvOY2x1yqpUPKkPG35qt1SCF   9Zi1QgRIhrg    RZb3JDhLf6B
+ae  z5EYi7iiP       lbvDebBz     Armour      100
+ab        VBRkioBmS93oMD4HOL7aEkjwGSwi        ikoXtwxhzxn9fyzXo9RCCJ_o       HpBottle    1000
+ti     VBRkioBmS93oMD4HOL7aEkjwGSwi       ikoXtwxhzxn9fyzXo9RCCJ_o
+use        VBRkioBmS93oMD4HOL7aEkjwGSwi ikoXtwxhzxn9fyzXo9RCCJ_o     z5EYi7iiP
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N SWOWz1QCEWMUNoR7gZWKVc65FYj0CmP0B       Armour       100
+ab   TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  Xbx3aw_akXgxdm5IS4a6I       HpBottle    1000
+ti       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI   Xbx3aw_akXgxdm5IS4a6I
+use      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    Xbx3aw_akXgxdm5IS4a6I MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls   VBRkioBmS93oMD4HOL7aEkjwGSwi       1ss1_ViTUuz  HealSpell       7   195
+use     S23C9mwhhWUuPIVEnU8JEq  1sIriYJIYzTWArqm        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+use    KIJydPySUG_g4MKoH7xji8z0oCC        GXubadhwuY5ouL0AYYIh3Sz6zX7jkrXjfS  yj8yvSg7Uea6SptHx5WOAoyYB5E
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        cKQiY_opci7Fl5VMfYQ_k92XDI        Armour      100
+ab     Fr4EOvOY2x1yqpUPKkPG35qt1SCF      Kehmmgy1uFiL9OIhQy3e2M9rurtE        HpBottle  1000
+ti  Fr4EOvOY2x1yqpUPKkPG35qt1SCF  Kehmmgy1uFiL9OIhQy3e2M9rurtE
+use      Fr4EOvOY2x1yqpUPKkPG35qt1SCF  Kehmmgy1uFiL9OIhQy3e2M9rurtE       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri        Fr4EOvOY2x1yqpUPKkPG35qt1SCF        05sc__h8smXV95vF2ioa7WO
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  vHM6Ya2Mjh_H_51tbANvKZwv3  Armour  100
+ab  Fr4EOvOY2x1yqpUPKkPG35qt1SCF     WuMYf9Jz0BDdK28B63ArBM5g        HpBottle      1000
+ti   Fr4EOvOY2x1yqpUPKkPG35qt1SCF    WuMYf9Jz0BDdK28B63ArBM5g
+use   Fr4EOvOY2x1yqpUPKkPG35qt1SCF      WuMYf9Jz0BDdK28B63ArBM5g     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      9w1bt52SJHBMYbPUR9ljQgap_RAZ      gbUS0RYThGCBEnrK14mYoA
+ae        RZb3JDhLf6B        qSGOi69ezoB  Armour        100
+ab   a24A6kttI9KYkz0zb1q    v9xfB8HlRcsKiBvw8D05      HpBottle 1000
+ti        a24A6kttI9KYkz0zb1q v9xfB8HlRcsKiBvw8D05
+use        a24A6kttI9KYkz0zb1q        v9xfB8HlRcsKiBvw8D05      RZb3JDhLf6B
+ae z5EYi7iiP       hFVek33qkJVFPILBt8S1        Armour     100
+ab  a24A6kttI9KYkz0zb1q GUv6LmsG0Ux1XS5SiEaAHTkI    HpBottle      1000
+ti a24A6kttI9KYkz0zb1q  GUv6LmsG0Ux1XS5SiEaAHTkI
+use    a24A6kttI9KYkz0zb1q GUv6LmsG0Ux1XS5SiEaAHTkI     z5EYi7iiP
+ae        FsXE5Yt7xafF_       mQxozqlkQAWSn3pbw8Sr40nZi1d67XwVgZN      Armour    100
+ab      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    ISrc0rse      HpBottle     1000
+ti  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy   ISrc0rse
+use     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        ISrc0rse  FsXE5Yt7xafF_
+ls qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        vZoF5_3ixkJQXhcQ        AttackSpell    10 50
+use      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       vZoF5_3ixkJQXhcQ   gbUS0RYThGCBEnrK14mYoA
+ae     njBP9r4IlBAk2CnbvMpR34k51JP    J0A3cC64SV7A6_6O2keNcTr4vdYW_tfTaisv    Armour      100
+ab        Fr4EOvOY2x1yqpUPKkPG35qt1SCF   PqQUtuVunR1IcEx6veVMS50nQOKb9ncYFTdEe      HpBottle     1000
+ti     Fr4EOvOY2x1yqpUPKkPG35qt1SCF     PqQUtuVunR1IcEx6veVMS50nQOKb9ncYFTdEe
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF        PqQUtuVunR1IcEx6veVMS50nQOKb9ncYFTdEe   njBP9r4IlBAk2CnbvMpR34k51JP
+use      zB8rxHdqiRt aEEin1ZMnigGRX9FIzNreYShBsflZVXEJjxIRa5Y  KIJydPySUG_g4MKoH7xji8z0oCC
+use       2BJYLqdPump0Qv1  vw637AICfskkBsJV8Y  KIJydPySUG_g4MKoH7xji8z0oCC
+bi    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 qcHqWnsgbHjc7ChOA2fWXQ_6q7LjbXw4sf9aT ManaBottle
+ae      njBP9r4IlBAk2CnbvMpR34k51JP       ZW0LAMuLeRLcYQR6tB_QjjSU_YoVb8      Armour  100
+ab     KIJydPySUG_g4MKoH7xji8z0oCC      U_ZY6XIzsmYZkEVniC6R9LajmY      HpBottle  1000
+ti    KIJydPySUG_g4MKoH7xji8z0oCC  U_ZY6XIzsmYZkEVniC6R9LajmY
+use     KIJydPySUG_g4MKoH7xji8z0oCC    U_ZY6XIzsmYZkEVniC6R9LajmY  njBP9r4IlBAk2CnbvMpR34k51JP
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N     AUZZkuilcWv8JK4cCDefITlhwNq8377    Armour      100
+ab    jo6H6Dt9Hl7uoaIbuVx3ea        fRdyjfMsL5J1        HpBottle  1000
+ti      jo6H6Dt9Hl7uoaIbuVx3ea fRdyjfMsL5J1
+use jo6H6Dt9Hl7uoaIbuVx3ea  fRdyjfMsL5J1     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae     FsXE5Yt7xafF_    stO80BgwJXtSIPobqiqvL010_S089tCeWUcAPzp     Armour    100
+ab  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      riWs1TwqAHQX61ojyXP33zKk6gOpQ6T1UTfZxNG HpBottle   1000
+ti    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        riWs1TwqAHQX61ojyXP33zKk6gOpQ6T1UTfZxNG
+use   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  riWs1TwqAHQX61ojyXP33zKk6gOpQ6T1UTfZxNG        FsXE5Yt7xafF_
+ri    zB8rxHdqiRt  CwjlUIOr0jNUtsoKIYdgb0Sb7oFrmoNVwdZWYvj
+use      17WyuL3mfSDprNhQ57Bw278bXrXLySd    evMqp77glpZmuBHm2aTfom4M0zmbipl    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+ls        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  IoCrXIfDS4oIFCzr9I        AttackSpell  25    84
+use       cD5PTXSngIvj63RjGM8ZLYqbA    f3poURyjxEMXvQrMWpE2vkxkT   a24A6kttI9KYkz0zb1q
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      rcsPdj2yAkrKUUVKOxzPp1mcj       Armour      100
+ab        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       DQxr2QreLRStPMvNA8GoGu_PzTstwfkdje1FqwP     HpBottle 1000
+ti     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       DQxr2QreLRStPMvNA8GoGu_PzTstwfkdje1FqwP
+use     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     DQxr2QreLRStPMvNA8GoGu_PzTstwfkdje1FqwP       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       9GFHmeF0VRkR74WdQ9
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        JiMa8QbiFpu_mddmLuAZInBi7 Armour        100
+ab        a24A6kttI9KYkz0zb1q  UDlKnwQ2KcTkUfOj5_AfvuDuJNx      HpBottle   1000
+ti  a24A6kttI9KYkz0zb1q     UDlKnwQ2KcTkUfOj5_AfvuDuJNx
+use a24A6kttI9KYkz0zb1q        UDlKnwQ2KcTkUfOj5_AfvuDuJNx       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+rr        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ae FsXE5Yt7xafF_     a_5lah8zyYp6etbCuOYo_KhtX0Sr32      Armour   100
+ab jo6H6Dt9Hl7uoaIbuVx3ea       JRybruJmmGR3LFOIg2PZg      HpBottle  1000
+ti      jo6H6Dt9Hl7uoaIbuVx3ea JRybruJmmGR3LFOIg2PZg
+use     jo6H6Dt9Hl7uoaIbuVx3ea  JRybruJmmGR3LFOIg2PZg    FsXE5Yt7xafF_
+ae       FsXE5Yt7xafF_ bTVdbavPwqbMRkrq    Armour    100
+ab        a24A6kttI9KYkz0zb1q    fgJHh80PI5SXRAdMPnJsB39wfJ2aH2pL       HpBottle      1000
+ti        a24A6kttI9KYkz0zb1q     fgJHh80PI5SXRAdMPnJsB39wfJ2aH2pL
+use      a24A6kttI9KYkz0zb1q fgJHh80PI5SXRAdMPnJsB39wfJ2aH2pL FsXE5Yt7xafF_
+ae     RZb3JDhLf6B        o9s6_DAWdM_70   Armour     100
+ab Fr4EOvOY2x1yqpUPKkPG35qt1SCF       tWOfUAIyWB2w3sG0nhmAj3hS0e_KbTpf4Pb   HpBottle   1000
+ti   Fr4EOvOY2x1yqpUPKkPG35qt1SCF      tWOfUAIyWB2w3sG0nhmAj3hS0e_KbTpf4Pb
+use   Fr4EOvOY2x1yqpUPKkPG35qt1SCF tWOfUAIyWB2w3sG0nhmAj3hS0e_KbTpf4Pb   RZb3JDhLf6B
+use   a24A6kttI9KYkz0zb1q  9o6aaQw35ge_GDF_OOhaYJPuk9     hzilihtl21Lzp73q7
+ae    njBP9r4IlBAk2CnbvMpR34k51JP      rC4I6Eta8yOHI9qOP3kDJlxJ  Armour    100
+ab       KIJydPySUG_g4MKoH7xji8z0oCC     LUhr0MOsaoXK7xTR2wpIG9QMggD0HZQc     HpBottle       1000
+ti  KIJydPySUG_g4MKoH7xji8z0oCC       LUhr0MOsaoXK7xTR2wpIG9QMggD0HZQc
+use  KIJydPySUG_g4MKoH7xji8z0oCC      LUhr0MOsaoXK7xTR2wpIG9QMggD0HZQc njBP9r4IlBAk2CnbvMpR34k51JP
+ls    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     FfDjZUiW_Y1Iug6nMoIbu9ZRF4C5lyRaXUZw7ZlF       HealSpell       2     34
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      OMFxGqWgcAh7kHSU_h4t  Armour       100
+ab       zB8rxHdqiRt      1psO6HkquxSDi5z5O4FcrOMJZE1ocRbrvpslrb       HpBottle    1000
+ti       zB8rxHdqiRt      1psO6HkquxSDi5z5O4FcrOMJZE1ocRbrvpslrb
+use  zB8rxHdqiRt       1psO6HkquxSDi5z5O4FcrOMJZE1ocRbrvpslrb       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae     RZb3JDhLf6B     ez_vEeTlYWJa9GtV5Mju1Hpku2OwVbpG5Tq0        Armour      100
+ab  iphEfa8KCeCYyU_PZ    VKHN1tAsZ   HpBottle  1000
+ti    iphEfa8KCeCYyU_PZ   VKHN1tAsZ
+use       iphEfa8KCeCYyU_PZ        VKHN1tAsZ      RZb3JDhLf6B
+use S23C9mwhhWUuPIVEnU8JEq        VDSgD6Yf1_0uMt5_juV1WwIxnrODDPPT     Bjn_YA5fD4efE7kIlrG2glAcv
+rr  cD5PTXSngIvj63RjGM8ZLYqbA        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ar qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ar   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ar      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI cD5PTXSngIvj63RjGM8ZLYqbA
+fight   cD5PTXSngIvj63RjGM8ZLYqbA  1     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+fight     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 1      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       Cs3GKwfIeKsL1anAeXFee55mGu0AL8WCul3Jh       Sword    200
+ti    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     Cs3GKwfIeKsL1anAeXFee55mGu0AL8WCul3Jh
+fight        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   1       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+rr  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+fight        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 1     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use  ACntKTNYFZ9sOqPf38qIkyd    3w9R3r7i7wq0  Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae      z5EYi7iiP       hXSz63fyCGKFbM85of7jVmka        Armour    100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    XmsEJlvYG8    HpBottle 1000
+ti    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        XmsEJlvYG8
+use      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk XmsEJlvYG8    z5EYi7iiP
+use   S23C9mwhhWUuPIVEnU8JEq      _ELzeQmjGe4vA4ACMitp776Dosj5m5s   2BJYLqdPump0Qv1
+ls        iphEfa8KCeCYyU_PZ        zpi4N8smOALzpL8CQ9apynxVv7cw3cD3K        HealSpell       7  190
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      jxXLLvg2Pvy2K       Armour  100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      P5Dcx9X7CGvljyKi0       HpBottle   1000
+ti        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        P5Dcx9X7CGvljyKi0
+use      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  P5Dcx9X7CGvljyKi0   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       QsAGbeXyVqDTcOK5_yjksNJ  Armour     100
+ab VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  df1RSCQ1YDEq7fQ  HpBottle   1000
+ti      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX df1RSCQ1YDEq7fQ
+use      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  df1RSCQ1YDEq7fQ    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls zB8rxHdqiRt    2zi72ujo0lwWoiIx0jXz6t0Nulb4UUb      HealSpell     17        242
+ae      RZb3JDhLf6B        p3460a2tPMup0hVadaPoH4JoFHGLle61       Armour     100
+ab a24A6kttI9KYkz0zb1q   Om51lT__q6_Ff8g7RYfgSXKUgvb6FacuTvN   HpBottle       1000
+ti     a24A6kttI9KYkz0zb1q  Om51lT__q6_Ff8g7RYfgSXKUgvb6FacuTvN
+use      a24A6kttI9KYkz0zb1q   Om51lT__q6_Ff8g7RYfgSXKUgvb6FacuTvN RZb3JDhLf6B
+ae  z5EYi7iiP     pFkFq6eG        Armour    100
+ab  ACntKTNYFZ9sOqPf38qIkyd   gGNoPO_yXRbKOngrgRjCC_B48YRQ  HpBottle   1000
+ti  ACntKTNYFZ9sOqPf38qIkyd     gGNoPO_yXRbKOngrgRjCC_B48YRQ
+use      ACntKTNYFZ9sOqPf38qIkyd  gGNoPO_yXRbKOngrgRjCC_B48YRQ        z5EYi7iiP
+use   qQq01KnJ_NAFHs_L1a       p0vAAHPw     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use  KIJydPySUG_g4MKoH7xji8z0oCC GXubadhwuY5ouL0AYYIh3Sz6zX7jkrXjfS     a24A6kttI9KYkz0zb1q
+ae    njBP9r4IlBAk2CnbvMpR34k51JP GLlMZSPrnFUQS61769m_E4K882I5ca       Armour    100
+ab      Bjn_YA5fD4efE7kIlrG2glAcv       93ERbjgA  HpBottle        1000
+ti   Bjn_YA5fD4efE7kIlrG2glAcv   93ERbjgA
+use Bjn_YA5fD4efE7kIlrG2glAcv       93ERbjgA    njBP9r4IlBAk2CnbvMpR34k51JP
+lr     S23C9mwhhWUuPIVEnU8JEq(qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq)
+rr     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae   z5EYi7iiP       T1P48yxLW0B3kmipnOj      Armour      100
+ab   cD5PTXSngIvj63RjGM8ZLYqbA gQwZsAscW1      HpBottle 1000
+ti       cD5PTXSngIvj63RjGM8ZLYqbA        gQwZsAscW1
+use  cD5PTXSngIvj63RjGM8ZLYqbA gQwZsAscW1 z5EYi7iiP
+rr   S23C9mwhhWUuPIVEnU8JEq  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use      a24A6kttI9KYkz0zb1q        j13r_LzyFlPZtqgMDQYvUQV_ScTof2Qna9pw1   ACntKTNYFZ9sOqPf38qIkyd
+bi    gbUS0RYThGCBEnrK14mYoA   vdSPfIc5Yq_Ws1coYs98_UP4rM28TfxnoeSA4P     Armour
+ae njBP9r4IlBAk2CnbvMpR34k51JP SOjmuEZg9K1        Armour   100
+ab   Bjn_YA5fD4efE7kIlrG2glAcv IN0R4vy8lKZq2fMFwG  HpBottle     1000
+ti       Bjn_YA5fD4efE7kIlrG2glAcv       IN0R4vy8lKZq2fMFwG
+use Bjn_YA5fD4efE7kIlrG2glAcv       IN0R4vy8lKZq2fMFwG njBP9r4IlBAk2CnbvMpR34k51JP
+use        2BJYLqdPump0Qv1  vw637AICfskkBsJV8Y   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+ls        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    2iKMGuCfjEr_t3J7xTrPeitsAMAgx1wh   HealSpell    13        7
+ae   FsXE5Yt7xafF_      rPme_oNkzCzViwbQh0Nm        Armour     100
+ab        itfT0tKmL7gO gcnavMq1d0LCWpz HpBottle    1000
+ti   itfT0tKmL7gO gcnavMq1d0LCWpz
+use  itfT0tKmL7gO       gcnavMq1d0LCWpz   FsXE5Yt7xafF_
+ae   RZb3JDhLf6B   GUhR5jAmzdTP2DE63wIxVnj    Armour    100
+ab        cD5PTXSngIvj63RjGM8ZLYqbA jBD9NJnv1q9gZYWro1DZxlJnOnsWzmSCk     HpBottle  1000
+ti cD5PTXSngIvj63RjGM8ZLYqbA     jBD9NJnv1q9gZYWro1DZxlJnOnsWzmSCk
+use    cD5PTXSngIvj63RjGM8ZLYqbA   jBD9NJnv1q9gZYWro1DZxlJnOnsWzmSCk        RZb3JDhLf6B
+use   qQq01KnJ_NAFHs_L1a       BcJMCNzz     jo6H6Dt9Hl7uoaIbuVx3ea
+ae        RZb3JDhLf6B        o_lPvnQZCSvyd53v0D9sO4WSu9AMxIS7nLZE   Armour    100
+ab   yj8yvSg7Uea6SptHx5WOAoyYB5E     CUiB9S5TwRgtz0hRd446dedznX053l8hbLE      HpBottle      1000
+ti     yj8yvSg7Uea6SptHx5WOAoyYB5E   CUiB9S5TwRgtz0hRd446dedznX053l8hbLE
+use    yj8yvSg7Uea6SptHx5WOAoyYB5E CUiB9S5TwRgtz0hRd446dedznX053l8hbLE        RZb3JDhLf6B
+bi      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   MI9ffpBL7JM21mp93yoHUkzyhjyjT Magicbook
+rr    qQq01KnJ_NAFHs_L1a   KIJydPySUG_g4MKoH7xji8z0oCC
+ae       njBP9r4IlBAk2CnbvMpR34k51JP 1NYC1_JyZDowTKiT      Armour    100
+ab        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  WFAF7QQJglQw8u HpBottle   1000
+ti     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        WFAF7QQJglQw8u
+use        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        WFAF7QQJglQw8u       njBP9r4IlBAk2CnbvMpR34k51JP
+lr  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6(qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq(KIJydPySUG_g4MKoH7xji8z0oCC),DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS)
+fight       KIJydPySUG_g4MKoH7xji8z0oCC      1      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+fight   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS  1    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ae   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    WJGc_9D7vdxVkk_dQjJSUEGdNyXKs Sword      200
+ti   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     WJGc_9D7vdxVkk_dQjJSUEGdNyXKs
+fight  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   1   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+rr   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+fight       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS 1      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ae        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       5jGcEAis8Wb2    Armour   100
+ab        S23C9mwhhWUuPIVEnU8JEq        fVX5vm8NXVCLFxR326DrgT4wGG3H3g53K7yvvo  HpBottle      1000
+ti   S23C9mwhhWUuPIVEnU8JEq      fVX5vm8NXVCLFxR326DrgT4wGG3H3g53K7yvvo
+use    S23C9mwhhWUuPIVEnU8JEq        fVX5vm8NXVCLFxR326DrgT4wGG3H3g53K7yvvo  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      sjzQVSBDXsT9qXxhSp8vfyZTNWWocn8I Armour 100
+ab   yj8yvSg7Uea6SptHx5WOAoyYB5E  VbyCiCnkdIwAVXdcoxcdIC    HpBottle        1000
+ti    yj8yvSg7Uea6SptHx5WOAoyYB5E  VbyCiCnkdIwAVXdcoxcdIC
+use  yj8yvSg7Uea6SptHx5WOAoyYB5E    VbyCiCnkdIwAVXdcoxcdIC       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS 0MHGhqUmTE6w2XQQ_MkJt
+use      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   66IqXBu23nStZ3uWGWPJLG5E5Iv       qQq01KnJ_NAFHs_L1a
+bi   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  5SeX21OEO  ManaBottle
+ae      njBP9r4IlBAk2CnbvMpR34k51JP    z2tBoEWnDAyVb28VQQgEgpCOxl26Ep6hR_gcZGU   Armour  100
+ab     jo6H6Dt9Hl7uoaIbuVx3ea      4U1z3d7IFpMhREn8kW5MdG06xXHGQusqaiyzk0      HpBottle     1000
+ti        jo6H6Dt9Hl7uoaIbuVx3ea      4U1z3d7IFpMhREn8kW5MdG06xXHGQusqaiyzk0
+use   jo6H6Dt9Hl7uoaIbuVx3ea      4U1z3d7IFpMhREn8kW5MdG06xXHGQusqaiyzk0   njBP9r4IlBAk2CnbvMpR34k51JP
+ae        RZb3JDhLf6B     zNZu7wWupG8FyQgcId  Armour        100
+ab       _1YzLPKaH3BoxfHYIs5fZ5bQsC XFsAcaNHzhkj1c9   HpBottle        1000
+ti    _1YzLPKaH3BoxfHYIs5fZ5bQsC XFsAcaNHzhkj1c9
+use     _1YzLPKaH3BoxfHYIs5fZ5bQsC        XFsAcaNHzhkj1c9      RZb3JDhLf6B
+ri Fr4EOvOY2x1yqpUPKkPG35qt1SCF   Kehmmgy1uFiL9OIhQy3e2M9rurtE
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        HnXteoc24HIft3Kb       Armour        100
+ab        cD5PTXSngIvj63RjGM8ZLYqbA       PfWlL8Q4jWJ3vsND_DEzFLvdBlAhu3zE9xioDtim    HpBottle      1000
+ti cD5PTXSngIvj63RjGM8ZLYqbA    PfWlL8Q4jWJ3vsND_DEzFLvdBlAhu3zE9xioDtim
+use    cD5PTXSngIvj63RjGM8ZLYqbA    PfWlL8Q4jWJ3vsND_DEzFLvdBlAhu3zE9xioDtim  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI     Xbx3aw_akXgxdm5IS4a6I     KIJydPySUG_g4MKoH7xji8z0oCC
+ri VBRkioBmS93oMD4HOL7aEkjwGSwi        aCI6TuYOhziGc0WSNTgXgcdwSPWFMqW1NqQ
+ls      Fr4EOvOY2x1yqpUPKkPG35qt1SCF        nwYi9MM2PTPneX7JmS8UJ5pK_ AttackSpell   21  132
+ae   njBP9r4IlBAk2CnbvMpR34k51JP        tkIVMwjgCkgEA2DoQBJAyjqVF  Armour    100
+ab     Fr4EOvOY2x1yqpUPKkPG35qt1SCF  2fi3U8QLCb_rBo7pLplvoUgI    HpBottle   1000
+ti       Fr4EOvOY2x1yqpUPKkPG35qt1SCF       2fi3U8QLCb_rBo7pLplvoUgI
+use       Fr4EOvOY2x1yqpUPKkPG35qt1SCF       2fi3U8QLCb_rBo7pLplvoUgI njBP9r4IlBAk2CnbvMpR34k51JP
+rr       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  ACntKTNYFZ9sOqPf38qIkyd
+use        yj8yvSg7Uea6SptHx5WOAoyYB5E       VbyCiCnkdIwAVXdcoxcdIC     Bjn_YA5fD4efE7kIlrG2glAcv
+ae z5EYi7iiP       RruRdIOQMPFEYlDqVDsyCC9iRj30R5H    Armour 100
+ab P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       u1gWc6whBA6q02vGZaSmcLFMNM6JGIOusZ    HpBottle      1000
+ti    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       u1gWc6whBA6q02vGZaSmcLFMNM6JGIOusZ
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   u1gWc6whBA6q02vGZaSmcLFMNM6JGIOusZ     z5EYi7iiP
+ae RZb3JDhLf6B     nwh538bqz Armour 100
+ab    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        homeXeDGCWGBSmOcpTuO6F56MkxFpb        HpBottle   1000
+ti DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     homeXeDGCWGBSmOcpTuO6F56MkxFpb
+use      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    homeXeDGCWGBSmOcpTuO6F56MkxFpb RZb3JDhLf6B
+bi      S23C9mwhhWUuPIVEnU8JEq     gKCaAkrV_fEkblp6DcgAizclYSP_Yr0      AtkBottle
+ae   RZb3JDhLf6B  ZPCyydKKJu       Armour 100
+ab     jo6H6Dt9Hl7uoaIbuVx3ea   KWRScBkAe08gsoBcrq4   HpBottle 1000
+ti       jo6H6Dt9Hl7uoaIbuVx3ea    KWRScBkAe08gsoBcrq4
+use   jo6H6Dt9Hl7uoaIbuVx3ea    KWRScBkAe08gsoBcrq4      RZb3JDhLf6B
+ae RZb3JDhLf6B  dVqzA2LW  Armour       100
+ab  gbUS0RYThGCBEnrK14mYoA        p7Gz5z87KaHc71qATXSDY65iB05f        HpBottle   1000
+ti gbUS0RYThGCBEnrK14mYoA       p7Gz5z87KaHc71qATXSDY65iB05f
+use        gbUS0RYThGCBEnrK14mYoA        p7Gz5z87KaHc71qATXSDY65iB05f      RZb3JDhLf6B
+ae   njBP9r4IlBAk2CnbvMpR34k51JP    6lBl8HEYeNgP8BldsiSrfY      Armour   100
+ab      ACntKTNYFZ9sOqPf38qIkyd heURjOl8JtdMbeJh73SFuEmKeqp    HpBottle 1000
+ti  ACntKTNYFZ9sOqPf38qIkyd   heURjOl8JtdMbeJh73SFuEmKeqp
+use       ACntKTNYFZ9sOqPf38qIkyd   heURjOl8JtdMbeJh73SFuEmKeqp     njBP9r4IlBAk2CnbvMpR34k51JP
+ae      RZb3JDhLf6B       EvvqifguNcLzcW5d9rBwxDbAsj2B0  Armour   100
+ab     yj8yvSg7Uea6SptHx5WOAoyYB5E  3TPi4JOxVF893N8zOV      HpBottle       1000
+ti      yj8yvSg7Uea6SptHx5WOAoyYB5E 3TPi4JOxVF893N8zOV
+use        yj8yvSg7Uea6SptHx5WOAoyYB5E      3TPi4JOxVF893N8zOV    RZb3JDhLf6B
+ri ACntKTNYFZ9sOqPf38qIkyd   9pJ9Y3VOULOT3pP6bsCQnt48fAyR_SHWMAjke
+bi  _1YzLPKaH3BoxfHYIs5fZ5bQsC      GFCpAuionAcFgfN        Magicbook
+use       cD5PTXSngIvj63RjGM8ZLYqbA       jBD9NJnv1q9gZYWro1DZxlJnOnsWzmSCk   17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ls      2BJYLqdPump0Qv1        aosCNX9w9Mj87SpBnU7JZEeFlgiEY0OJpzs_      HealSpell   19       67
+use   ACntKTNYFZ9sOqPf38qIkyd    yglJ6fhz24aReKJN8ZSZoQV5q12iA     VBRkioBmS93oMD4HOL7aEkjwGSwi
+ae  z5EYi7iiP     xXW3cmkVZivutJiKXfLsfmpA     Armour     100
+ab      _1YzLPKaH3BoxfHYIs5fZ5bQsC       H1FjRM0vQQ HpBottle    1000
+ti        _1YzLPKaH3BoxfHYIs5fZ5bQsC  H1FjRM0vQQ
+use    _1YzLPKaH3BoxfHYIs5fZ5bQsC        H1FjRM0vQQ      z5EYi7iiP
+lr  cD5PTXSngIvj63RjGM8ZLYqbA(mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6)
+ls       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    0J4itsAp7oM3RcU3Kgn7wi0IFYe      HealSpell   15       296
+ae     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      OG9DoXZRohtRbh       Armour     100
+ab Fr4EOvOY2x1yqpUPKkPG35qt1SCF      DLp5UlG8HX684KqV3O3XbHoa        HpBottle   1000
+ti    Fr4EOvOY2x1yqpUPKkPG35qt1SCF DLp5UlG8HX684KqV3O3XbHoa
+use Fr4EOvOY2x1yqpUPKkPG35qt1SCF        DLp5UlG8HX684KqV3O3XbHoa       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ls        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI        j1Uu0D4PpBaYq  AttackSpell  23  206
+bi      gbUS0RYThGCBEnrK14mYoA   NCmmmi0hcWcYul2U1eGHaAgvcZcBKyGv     Sword
+bi        hzilihtl21Lzp73q7        AXe4UPi8hsjbFA71PjDJuE   HpBottle
+ae     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq JcQ86l_A9XwHTQCQftDbZsuXNpDFw     Armour 100
+ab      S23C9mwhhWUuPIVEnU8JEq       5ldfUYqZOELlsg     HpBottle      1000
+ti     S23C9mwhhWUuPIVEnU8JEq        5ldfUYqZOELlsg
+use     S23C9mwhhWUuPIVEnU8JEq      5ldfUYqZOELlsg      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  LEGWEUFZS0ksBr1Nh56U5qnv    Armour       100
+ab Fr4EOvOY2x1yqpUPKkPG35qt1SCF      2pIJ7RyNVUZm   HpBottle 1000
+ti  Fr4EOvOY2x1yqpUPKkPG35qt1SCF        2pIJ7RyNVUZm
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF       2pIJ7RyNVUZm     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls    17WyuL3mfSDprNhQ57Bw278bXrXLySd  om8zQ4YMpIAN71zkuNck  HealSpell     28        132
+ls   KIJydPySUG_g4MKoH7xji8z0oCC 5THU7z0RBJxBvjdZ9X4NlkurRT     HealSpell    3        12
+bi        gbUS0RYThGCBEnrK14mYoA     a5eL6cVFFOHFsN_0gxc3SHVGY607T  Armour
+ae FsXE5Yt7xafF_      8epeTc673tYuYrnoK Armour  100
+ab  hzilihtl21Lzp73q7      smhZ32grh5FjCRcmdhzfCRKR_NYAcKKXSYDJ    HpBottle   1000
+ti        hzilihtl21Lzp73q7     smhZ32grh5FjCRcmdhzfCRKR_NYAcKKXSYDJ
+use        hzilihtl21Lzp73q7     smhZ32grh5FjCRcmdhzfCRKR_NYAcKKXSYDJ        FsXE5Yt7xafF_
+ls        cD5PTXSngIvj63RjGM8ZLYqbA   jWg4SUODJQ93XLMKFc6l7jAqes_YujLofg AttackSpell   10 50
+use cD5PTXSngIvj63RjGM8ZLYqbA  jWg4SUODJQ93XLMKFc6l7jAqes_YujLofg        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ls       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 Zz5tT_A8GG0aI4E7YNr HealSpell  27  141
+rr  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     gbUS0RYThGCBEnrK14mYoA
+ri    17WyuL3mfSDprNhQ57Bw278bXrXLySd    8I7pMLnx_EzcYUXKJ68jrw
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        rLlhzWgfUFKXFzeTI9pNKfXgqX    Armour 100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       a5927xb0XZ3CW6D5sWtyUfr   HpBottle     1000
+ti  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      a5927xb0XZ3CW6D5sWtyUfr
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  a5927xb0XZ3CW6D5sWtyUfr   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+bi    gbUS0RYThGCBEnrK14mYoA    Qrhjxv5K      DefBottle
+use        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI        j1Uu0D4PpBaYq       zB8rxHdqiRt
+ae        FsXE5Yt7xafF_ tgWNsDBibRfvHHymzqb4U3NDoS     Armour   100
+ab     qQq01KnJ_NAFHs_L1a  zrKO87wFstdmmdGYjT7QdPvuyg5rMHp_x9DlDqn       HpBottle        1000
+ti       qQq01KnJ_NAFHs_L1a    zrKO87wFstdmmdGYjT7QdPvuyg5rMHp_x9DlDqn
+use qQq01KnJ_NAFHs_L1a     zrKO87wFstdmmdGYjT7QdPvuyg5rMHp_x9DlDqn   FsXE5Yt7xafF_
+ae    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq      NJibIxhaA9lAcbNOx   Armour       100
+ab        KIJydPySUG_g4MKoH7xji8z0oCC    IISTUHvNoeOp1wo5bR68qRheUCAPNq        HpBottle 1000
+ti        KIJydPySUG_g4MKoH7xji8z0oCC      IISTUHvNoeOp1wo5bR68qRheUCAPNq
+use   KIJydPySUG_g4MKoH7xji8z0oCC     IISTUHvNoeOp1wo5bR68qRheUCAPNq   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+bi       gbUS0RYThGCBEnrK14mYoA      42veFdgsytWN1ulZqrmzc4BWPUbd9H    Magicbook
+ls   VBRkioBmS93oMD4HOL7aEkjwGSwi    _zMYReMyg9T4oCGuWeJl8XZWM9_uOwXjx       HealSpell 7        233
+ae       RZb3JDhLf6B     wDW7SmU167q0YX9Maebow6W7epndtYD68wIKq       Armour        100
+ab    zB8rxHdqiRt  Vqu9GHaXITk6WMLaOkOKKXb44S762m8YyvHcuz1  HpBottle     1000
+ti        zB8rxHdqiRt  Vqu9GHaXITk6WMLaOkOKKXb44S762m8YyvHcuz1
+use      zB8rxHdqiRt        Vqu9GHaXITk6WMLaOkOKKXb44S762m8YyvHcuz1      RZb3JDhLf6B
+ae        njBP9r4IlBAk2CnbvMpR34k51JP     wmkWA2PKPS8x  Armour 100
+ab    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    yLvCwExqzzStJGq       HpBottle        1000
+ti    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       yLvCwExqzzStJGq
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     yLvCwExqzzStJGq   njBP9r4IlBAk2CnbvMpR34k51JP
+rr   jo6H6Dt9Hl7uoaIbuVx3ea    Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+lr     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS(gbUS0RYThGCBEnrK14mYoA(Fr4EOvOY2x1yqpUPKkPG35qt1SCF),ACntKTNYFZ9sOqPf38qIkyd)
+fight      Fr4EOvOY2x1yqpUPKkPG35qt1SCF    1       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+fight ACntKTNYFZ9sOqPf38qIkyd      1    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae        ACntKTNYFZ9sOqPf38qIkyd      bpEopCxwjmcfZxmSOOOzzBmJzlyHV2bgMDUi        Sword   200
+ti ACntKTNYFZ9sOqPf38qIkyd    bpEopCxwjmcfZxmSOOOzzBmJzlyHV2bgMDUi
+fight  ACntKTNYFZ9sOqPf38qIkyd   1     gbUS0RYThGCBEnrK14mYoA
+rr   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS       ACntKTNYFZ9sOqPf38qIkyd
+fight    ACntKTNYFZ9sOqPf38qIkyd  1  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae       FsXE5Yt7xafF_       rmrsifKdFWC0Kz        Armour   100
+ab       Bjn_YA5fD4efE7kIlrG2glAcv       0AQBq5qTm_H0DccLP_L5T      HpBottle   1000
+ti        Bjn_YA5fD4efE7kIlrG2glAcv       0AQBq5qTm_H0DccLP_L5T
+use        Bjn_YA5fD4efE7kIlrG2glAcv   0AQBq5qTm_H0DccLP_L5T        FsXE5Yt7xafF_
+bi  a24A6kttI9KYkz0zb1q      PclUS0eZjhDsQmlnq6puAbBbnqY56nBrvFd3     Armour
+ri  ACntKTNYFZ9sOqPf38qIkyd  CXDkG50dT
+bi      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      59WS0amlLq80jZCRdqnfMYMu       DefBottle
+ae       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq y5jKbKSVfZjcHViG Armour     100
+ab       itfT0tKmL7gO   bE5z6FhvXRndMAKmsZ8mi2m2PoYCpAx91S_cgIIV    HpBottle      1000
+ti  itfT0tKmL7gO  bE5z6FhvXRndMAKmsZ8mi2m2PoYCpAx91S_cgIIV
+use       itfT0tKmL7gO      bE5z6FhvXRndMAKmsZ8mi2m2PoYCpAx91S_cgIIV     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae    FsXE5Yt7xafF_     wy5eBpDMWptECMhNXLdJXaT5mc9MnsAh    Armour  100
+ab   iphEfa8KCeCYyU_PZ    IqoghgcrJGC50Ts HpBottle 1000
+ti  iphEfa8KCeCYyU_PZ       IqoghgcrJGC50Ts
+use iphEfa8KCeCYyU_PZ   IqoghgcrJGC50Ts       FsXE5Yt7xafF_
+rr        BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy   jo6H6Dt9Hl7uoaIbuVx3ea
+bi   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     KkG5SvIDiru       AtkBottle
+ae njBP9r4IlBAk2CnbvMpR34k51JP   ipM2zvoRL1rX7iED3NnniB7HtY__jNDE        Armour  100
+ab       jo6H6Dt9Hl7uoaIbuVx3ea        EpSZTXCaTKZ_vcAdPnxS91JM2nBJ9YiqtTv    HpBottle    1000
+ti     jo6H6Dt9Hl7uoaIbuVx3ea        EpSZTXCaTKZ_vcAdPnxS91JM2nBJ9YiqtTv
+use  jo6H6Dt9Hl7uoaIbuVx3ea        EpSZTXCaTKZ_vcAdPnxS91JM2nBJ9YiqtTv  njBP9r4IlBAk2CnbvMpR34k51JP
+use     Bjn_YA5fD4efE7kIlrG2glAcv       irEWspkXKRizT9     S23C9mwhhWUuPIVEnU8JEq
+ae   z5EYi7iiP J0LJjOQreLmdJGeX7BdrinJyDp04Smher45n5vm2       Armour        100
+ab       Bjn_YA5fD4efE7kIlrG2glAcv  bBvZBAGIAGwsSdZqiHTvBG_Nnic14j2tDQ    HpBottle      1000
+ti      Bjn_YA5fD4efE7kIlrG2glAcv    bBvZBAGIAGwsSdZqiHTvBG_Nnic14j2tDQ
+use    Bjn_YA5fD4efE7kIlrG2glAcv bBvZBAGIAGwsSdZqiHTvBG_Nnic14j2tDQ     z5EYi7iiP
+use  Bjn_YA5fD4efE7kIlrG2glAcv     G94ZMYkg       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae  njBP9r4IlBAk2CnbvMpR34k51JP        BUAbYS9GtoPIpyXat      Armour 100
+ab   S23C9mwhhWUuPIVEnU8JEq        Wh3Lyru5lSJNC1tjMCSmyp6xDxapzxzrq      HpBottle        1000
+ti  S23C9mwhhWUuPIVEnU8JEq        Wh3Lyru5lSJNC1tjMCSmyp6xDxapzxzrq
+use S23C9mwhhWUuPIVEnU8JEq      Wh3Lyru5lSJNC1tjMCSmyp6xDxapzxzrq        njBP9r4IlBAk2CnbvMpR34k51JP
+ae z5EYi7iiP    crEyyB1hwBv4VAAmiGYqQ1JKqEeNzJIdo        Armour  100
+ab        S23C9mwhhWUuPIVEnU8JEq  MKEPNdC4DcJ32H   HpBottle   1000
+ti S23C9mwhhWUuPIVEnU8JEq     MKEPNdC4DcJ32H
+use      S23C9mwhhWUuPIVEnU8JEq     MKEPNdC4DcJ32H  z5EYi7iiP
+ae     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     X4vKMgiOJ4M8WnwfQCf8pDe5tBIH4x9g    Armour     100
+ab   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    xcYYocZhyWXzRzPnq       HpBottle       1000
+ti     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      xcYYocZhyWXzRzPnq
+use     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   xcYYocZhyWXzRzPnq      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae  RZb3JDhLf6B  YcNiCyW2piYed9Evp6N5ToxjDjGLz43QLG15       Armour  100
+ab  jo6H6Dt9Hl7uoaIbuVx3ea  Tp4Y0Tw7oWPJCsrjnH7DtV     HpBottle   1000
+ti      jo6H6Dt9Hl7uoaIbuVx3ea   Tp4Y0Tw7oWPJCsrjnH7DtV
+use       jo6H6Dt9Hl7uoaIbuVx3ea   Tp4Y0Tw7oWPJCsrjnH7DtV     RZb3JDhLf6B
+ae njBP9r4IlBAk2CnbvMpR34k51JP    wirLvBIsB6H6U      Armour       100
+ab  17WyuL3mfSDprNhQ57Bw278bXrXLySd     UxfnpbyWNqmZ3CqiNiuY       HpBottle   1000
+ti     17WyuL3mfSDprNhQ57Bw278bXrXLySd        UxfnpbyWNqmZ3CqiNiuY
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd UxfnpbyWNqmZ3CqiNiuY      njBP9r4IlBAk2CnbvMpR34k51JP
+bi    zB8rxHdqiRt      ADmL8nH3Y4TXZhfGc6YDedwQawtP9iIFXY8     ManaBottle
+bi     a24A6kttI9KYkz0zb1q  Va4IfeSDdBosJc73MslZkb1ApOD_E3  DefBottle
+use        _1YzLPKaH3BoxfHYIs5fZ5bQsC      CLin5w2gp18z7K   itfT0tKmL7gO
+ae  FsXE5Yt7xafF_   gdSCKxEwYZUq0a Armour     100
+ab  zB8rxHdqiRt        IyBBO1v06HMseUxoB8Q2   HpBottle  1000
+ti    zB8rxHdqiRt IyBBO1v06HMseUxoB8Q2
+use  zB8rxHdqiRt     IyBBO1v06HMseUxoB8Q2   FsXE5Yt7xafF_
+use        Fr4EOvOY2x1yqpUPKkPG35qt1SCF   2fi3U8QLCb_rBo7pLplvoUgI   itfT0tKmL7gO
+bi      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   WmZLzJ46Muqv21m8zrxgdr4SCd_KOBg_RQ680GtQ  ManaBottle
+ae      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    nzrMe_zMU2J1mlPN4SNipH2Ti   Armour  100
+ab  iphEfa8KCeCYyU_PZ   RHYLlEuxe5N9Zv     HpBottle 1000
+ti       iphEfa8KCeCYyU_PZ      RHYLlEuxe5N9Zv
+use    iphEfa8KCeCYyU_PZ  RHYLlEuxe5N9Zv        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+bi      KIJydPySUG_g4MKoH7xji8z0oCC       qf4xhoDI1CbKJB1mlw0TNOz3     ManaBottle
+bi   qQq01KnJ_NAFHs_L1a Obg7oi0JjHXO9z29Cda4GaCDwP59j6_SYTT9Lq      Armour
+ri    gbUS0RYThGCBEnrK14mYoA 42veFdgsytWN1ulZqrmzc4BWPUbd9H
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  ally6dSWemG6RkZv1IbgxY09yl5XBwAcpuq  Armour 100
+ab      2BJYLqdPump0Qv1        dVAl4wwVmlD9vPneFz6nBU       HpBottle    1000
+ti  2BJYLqdPump0Qv1 dVAl4wwVmlD9vPneFz6nBU
+use   2BJYLqdPump0Qv1       dVAl4wwVmlD9vPneFz6nBU MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+rr  S23C9mwhhWUuPIVEnU8JEq     zB8rxHdqiRt
+ar     zB8rxHdqiRt     jo6H6Dt9Hl7uoaIbuVx3ea
+ar       zB8rxHdqiRt   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ar       jo6H6Dt9Hl7uoaIbuVx3ea ACntKTNYFZ9sOqPf38qIkyd
+fight     ACntKTNYFZ9sOqPf38qIkyd   1   zB8rxHdqiRt
+fight      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS      1  zB8rxHdqiRt
+ae DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    vLC0RW7bVKToVY75IUAG8V        Sword  200
+ti      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS  vLC0RW7bVKToVY75IUAG8V
+fight     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS 1   jo6H6Dt9Hl7uoaIbuVx3ea
+rr zB8rxHdqiRt  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+fight   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   1       zB8rxHdqiRt
+ls       yj8yvSg7Uea6SptHx5WOAoyYB5E     nwFTlwqCckcd8lTnnHytrGm5TbW9t_rLE4hTL57G       AttackSpell       10   50
+use      yj8yvSg7Uea6SptHx5WOAoyYB5E  nwFTlwqCckcd8lTnnHytrGm5TbW9t_rLE4hTL57G   Bjn_YA5fD4efE7kIlrG2glAcv
+ae       z5EYi7iiP     sagk8N8xnjlh8a8QM6IjDuD7xs      Armour   100
+ab    cD5PTXSngIvj63RjGM8ZLYqbA     X74h2svs6DzFvLhmdJqyA31IG9BYzeJDM     HpBottle  1000
+ti     cD5PTXSngIvj63RjGM8ZLYqbA       X74h2svs6DzFvLhmdJqyA31IG9BYzeJDM
+use     cD5PTXSngIvj63RjGM8ZLYqbA       X74h2svs6DzFvLhmdJqyA31IG9BYzeJDM        z5EYi7iiP
+ae        z5EYi7iiP       WA0Nb4QRAERl7wTpeMet7f18DaIvW     Armour 100
+ab   iphEfa8KCeCYyU_PZ euzT35FbTCftcDPtj1PDpklRVN     HpBottle     1000
+ti      iphEfa8KCeCYyU_PZ  euzT35FbTCftcDPtj1PDpklRVN
+use       iphEfa8KCeCYyU_PZ    euzT35FbTCftcDPtj1PDpklRVN      z5EYi7iiP
+bi       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      EHPJBwtoy8fo0rJ2YpcAuTx8evYEI08WgSFwy  Sword
+ls      gbUS0RYThGCBEnrK14mYoA        Q1HMNsyo_  AttackSpell  23   173
+ri iphEfa8KCeCYyU_PZ   RHYLlEuxe5N9Zv
+use        hzilihtl21Lzp73q7        wWsf4049B2O       gbUS0RYThGCBEnrK14mYoA
+use        2BJYLqdPump0Qv1 NbI_cSjLrog0HqCxeSjMNvaezHrucAl_E_VC       yj8yvSg7Uea6SptHx5WOAoyYB5E
+use    hzilihtl21Lzp73q7    de0WPL7gCH7QRpj       a24A6kttI9KYkz0zb1q
+use        VBRkioBmS93oMD4HOL7aEkjwGSwi     ikoXtwxhzxn9fyzXo9RCCJ_o     VBRkioBmS93oMD4HOL7aEkjwGSwi
+ls        VBRkioBmS93oMD4HOL7aEkjwGSwi   BlYcDfPkUF6zN2Cke    HealSpell  25   177
+use     VBRkioBmS93oMD4HOL7aEkjwGSwi BlYcDfPkUF6zN2Cke    Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae     RZb3JDhLf6B        l2z2WvP8huDy4d6p_Rs0izPJUhR9x8jF  Armour        100
+ab       Fr4EOvOY2x1yqpUPKkPG35qt1SCF        xJrU2Jxh7VUTBnJsawJkVqkDXHoi     HpBottle   1000
+ti    Fr4EOvOY2x1yqpUPKkPG35qt1SCF      xJrU2Jxh7VUTBnJsawJkVqkDXHoi
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF      xJrU2Jxh7VUTBnJsawJkVqkDXHoi        RZb3JDhLf6B
+ls       yj8yvSg7Uea6SptHx5WOAoyYB5E     bNUF8UvpnE1RQkOW_I_JOE  HealSpell    12        295
+ae      jo6H6Dt9Hl7uoaIbuVx3ea xVRsjC3R8_E0EZ05538oKo2  Armour   100
+ab     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    AofUb_RWpCf2rJ235PFGWFFYgdXyYiY5IFqd8KO HpBottle        1000
+ti   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     AofUb_RWpCf2rJ235PFGWFFYgdXyYiY5IFqd8KO
+use     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  AofUb_RWpCf2rJ235PFGWFFYgdXyYiY5IFqd8KO     jo6H6Dt9Hl7uoaIbuVx3ea
+ae qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     FXGXtflwfR2qxNzg1_BFKnrqOLwOjoAyq_I0SI       Armour  100
+ab   KIJydPySUG_g4MKoH7xji8z0oCC      hjSynHyOL0O  HpBottle    1000
+ti  KIJydPySUG_g4MKoH7xji8z0oCC    hjSynHyOL0O
+use KIJydPySUG_g4MKoH7xji8z0oCC     hjSynHyOL0O qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae       FsXE5Yt7xafF_  r_WC1DT0f5Qn7WB5Wx1qGPpLWh  Armour  100
+ab  a24A6kttI9KYkz0zb1q   JRNh8fvSJv       HpBottle   1000
+ti       a24A6kttI9KYkz0zb1q    JRNh8fvSJv
+use    a24A6kttI9KYkz0zb1q       JRNh8fvSJv    FsXE5Yt7xafF_
+use        VBRkioBmS93oMD4HOL7aEkjwGSwi BlYcDfPkUF6zN2Cke gbUS0RYThGCBEnrK14mYoA
+ae  jo6H6Dt9Hl7uoaIbuVx3ea    eA4unXSgVmbZMrCgdh3V5Yl26Hv      Armour  100
+ab   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        3ZSbnppswbC5hKAzH8Kiasx4yj        HpBottle       1000
+ti VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  3ZSbnppswbC5hKAzH8Kiasx4yj
+use  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      3ZSbnppswbC5hKAzH8Kiasx4yj  jo6H6Dt9Hl7uoaIbuVx3ea
+ri        2BJYLqdPump0Qv1       NbI_cSjLrog0HqCxeSjMNvaezHrucAl_E_VC
+use       iphEfa8KCeCYyU_PZ      hmx2jnnrlYUisji2lc37qjIm9MfRfJC4PHqcQe zB8rxHdqiRt
+ls  qQq01KnJ_NAFHs_L1a   UAEVF1SOCrH_9tIUQYYpGy70eEHTDy   AttackSpell        24   151
+rr      ACntKTNYFZ9sOqPf38qIkyd 2BJYLqdPump0Qv1
+ae        FsXE5Yt7xafF_ Lk2rheigYqnhstZRsFgALW9a_q        Armour   100
+ab     S23C9mwhhWUuPIVEnU8JEq   VvKV08jtDuFDdcZSGX_SK6W6mU HpBottle 1000
+ti  S23C9mwhhWUuPIVEnU8JEq   VvKV08jtDuFDdcZSGX_SK6W6mU
+use    S23C9mwhhWUuPIVEnU8JEq       VvKV08jtDuFDdcZSGX_SK6W6mU    FsXE5Yt7xafF_
+ls    Fr4EOvOY2x1yqpUPKkPG35qt1SCF      Vdz5bCNpAwexwB3saEjrBBFflSkShWWh     HealSpell        20  206
+ri       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       5ORBhaXUYxGG
+ae  RZb3JDhLf6B    KHcnApWn_Sh0qE6Mm7enJ104nlQaDLl_DbUi        Armour       100
+ab      cD5PTXSngIvj63RjGM8ZLYqbA       PvFQN2wjBi1SWo1M1_etDk5l0tcaS   HpBottle  1000
+ti       cD5PTXSngIvj63RjGM8ZLYqbA  PvFQN2wjBi1SWo1M1_etDk5l0tcaS
+use        cD5PTXSngIvj63RjGM8ZLYqbA        PvFQN2wjBi1SWo1M1_etDk5l0tcaS RZb3JDhLf6B
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    dbLnzhGP0a6o7te      Armour     100
+ab      gbUS0RYThGCBEnrK14mYoA   rKdtE9WTC3hRmTrvxOY_fun6DK_XEPCX1BnM        HpBottle  1000
+ti   gbUS0RYThGCBEnrK14mYoA     rKdtE9WTC3hRmTrvxOY_fun6DK_XEPCX1BnM
+use   gbUS0RYThGCBEnrK14mYoA  rKdtE9WTC3hRmTrvxOY_fun6DK_XEPCX1BnM   MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq 2KVNIc7bOzry85lm0OlN8TpFn26CRIuRJ     Armour      100
+ab     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS  XR3blzd9wdd2KlFa3m8slRJ  HpBottle     1000
+ti     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS   XR3blzd9wdd2KlFa3m8slRJ
+use DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS  XR3blzd9wdd2KlFa3m8slRJ      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      KkG5SvIDiru    17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ae    z5EYi7iiP     M1STKFb2nV9_nCoLDzod1sotxykQDp1NFV5toLe7   Armour    100
+ab  gbUS0RYThGCBEnrK14mYoA GstKif3NEUSFUY1FNgV0W8GqPdKM7jh HpBottle      1000
+ti    gbUS0RYThGCBEnrK14mYoA   GstKif3NEUSFUY1FNgV0W8GqPdKM7jh
+use       gbUS0RYThGCBEnrK14mYoA GstKif3NEUSFUY1FNgV0W8GqPdKM7jh  z5EYi7iiP
+ls      qQq01KnJ_NAFHs_L1a  s3IX0Aj14Q4     AttackSpell       27 214
+use       zB8rxHdqiRt        ADmL8nH3Y4TXZhfGc6YDedwQawtP9iIFXY8  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+ae   z5EYi7iiP       9fkehf9Px0J   Armour        100
+ab      hzilihtl21Lzp73q7      7gSG2wwhF1dzEF8tY1mTm40NFy HpBottle   1000
+ti       hzilihtl21Lzp73q7   7gSG2wwhF1dzEF8tY1mTm40NFy
+use      hzilihtl21Lzp73q7       7gSG2wwhF1dzEF8tY1mTm40NFy     z5EYi7iiP
+ls        hzilihtl21Lzp73q7       pYqMPq1_fZr0  HealSpell  19  74
+ri      iphEfa8KCeCYyU_PZ      euzT35FbTCftcDPtj1PDpklRVN
+use     2BJYLqdPump0Qv1     UXPDmNo0        Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae    FsXE5Yt7xafF_   4o_6CRc2Wo_k4w0ChzWE2BriRagJEgpndc1GH_6I    Armour  100
+ab       itfT0tKmL7gO        TnA5yRpGbNrWbbK9jOOb1OPmJLJZghithcPPow  HpBottle    1000
+ti  itfT0tKmL7gO  TnA5yRpGbNrWbbK9jOOb1OPmJLJZghithcPPow
+use   itfT0tKmL7gO     TnA5yRpGbNrWbbK9jOOb1OPmJLJZghithcPPow   FsXE5Yt7xafF_
+ri        itfT0tKmL7gO        9FHz7E1BjpVGTdpYlMeQQg_GHZWU_epP9TpG9
+ae        z5EYi7iiP        Pk26Ok3ZzG5lxZuCsZFQpwHspRn5Uu    Armour      100
+ab   iphEfa8KCeCYyU_PZ     yn8f3eIYRmJqXpG6nMwfrOhEKbMJ HpBottle     1000
+ti       iphEfa8KCeCYyU_PZ    yn8f3eIYRmJqXpG6nMwfrOhEKbMJ
+use        iphEfa8KCeCYyU_PZ       yn8f3eIYRmJqXpG6nMwfrOhEKbMJ z5EYi7iiP
+ae       RZb3JDhLf6B   tBzz684jFBXchBQ7hNOHMRVoNgrr_eN   Armour      100
+ab       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 NX5e2JEBwV8XjoB_3456IMIllwgLetX3clj4e9 HpBottle 1000
+ti        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      NX5e2JEBwV8XjoB_3456IMIllwgLetX3clj4e9
+use     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        NX5e2JEBwV8XjoB_3456IMIllwgLetX3clj4e9       RZb3JDhLf6B
+use     VBRkioBmS93oMD4HOL7aEkjwGSwi  Wlkv9926KxauKg8hKF9lkoazHm_L9POKzc    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+bi       17WyuL3mfSDprNhQ57Bw278bXrXLySd L8HRhgPH89Z4X2ETX5GH  DefBottle
+ae  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   IBH1jVEvw88UDsKg1kd      Armour 100
+ab  Fr4EOvOY2x1yqpUPKkPG35qt1SCF   OhciZUkfXS   HpBottle     1000
+ti      Fr4EOvOY2x1yqpUPKkPG35qt1SCF OhciZUkfXS
+use  Fr4EOvOY2x1yqpUPKkPG35qt1SCF   OhciZUkfXS   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use     S23C9mwhhWUuPIVEnU8JEq       SSPfxsWhBG6qGe9X1JqFEzNO5aYFt7rSAiZq6672 TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ar     cD5PTXSngIvj63RjGM8ZLYqbA   2BJYLqdPump0Qv1
+ae   RZb3JDhLf6B        TZoNKaFXk5In_SDt8Jnkp6      Armour      100
+ab      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 dPlpGDGnF0zq6PMOmXJgV3fjPhrZCzl1J HpBottle 1000
+ti       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    dPlpGDGnF0zq6PMOmXJgV3fjPhrZCzl1J
+use mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6 dPlpGDGnF0zq6PMOmXJgV3fjPhrZCzl1J  RZb3JDhLf6B
+ae       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  WIBYt1NIID1Nn8IjrO3el9MSHx        Armour       100
+ab  VBRkioBmS93oMD4HOL7aEkjwGSwi       TBHKPOkOAT HpBottle       1000
+ti        VBRkioBmS93oMD4HOL7aEkjwGSwi        TBHKPOkOAT
+use       VBRkioBmS93oMD4HOL7aEkjwGSwi  TBHKPOkOAT   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae      RZb3JDhLf6B XPB7DutoZ_l_AF6lMW8Caxh8Di  Armour       100
+ab    S23C9mwhhWUuPIVEnU8JEq       z5ed1jAkTbcJx1giN3ljCgMXt      HpBottle   1000
+ti S23C9mwhhWUuPIVEnU8JEq    z5ed1jAkTbcJx1giN3ljCgMXt
+use  S23C9mwhhWUuPIVEnU8JEq     z5ed1jAkTbcJx1giN3ljCgMXt   RZb3JDhLf6B
+bi     KIJydPySUG_g4MKoH7xji8z0oCC  54tXQF7nh4yDrTGQT1sr    ManaBottle
+use      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      yLvCwExqzzStJGq   yj8yvSg7Uea6SptHx5WOAoyYB5E
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  NpBbeaGdrDRfmQP1uP8wHrDFtnBrxdsBqngW        Armour       100
+ab      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    Wf3D1s32qV4UUi9EPpJ26oq8aJ5Xi       HpBottle  1000
+ti        BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        Wf3D1s32qV4UUi9EPpJ26oq8aJ5Xi
+use        BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       Wf3D1s32qV4UUi9EPpJ26oq8aJ5Xi       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       HbBKY4ptrtNHeTEHhsBSsW1XYPFU  Armour   100
+ab Bjn_YA5fD4efE7kIlrG2glAcv    fYU5HOxvFtUA93nujcUC    HpBottle        1000
+ti   Bjn_YA5fD4efE7kIlrG2glAcv      fYU5HOxvFtUA93nujcUC
+use      Bjn_YA5fD4efE7kIlrG2glAcv  fYU5HOxvFtUA93nujcUC       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+bi    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     hmuP6W0AWN_TRFnUZ4idxtsQ0K1VT0XOA        ManaBottle
+use      S23C9mwhhWUuPIVEnU8JEq       _ELzeQmjGe4vA4ACMitp776Dosj5m5s   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+use        yj8yvSg7Uea6SptHx5WOAoyYB5E       nwFTlwqCckcd8lTnnHytrGm5TbW9t_rLE4hTL57G        17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       Cpv39r0DR4dgS     Armour    100
+ab Fr4EOvOY2x1yqpUPKkPG35qt1SCF    4IaaDjVf9Ka3ps5YwLujO9BjdUzGExi1W4uOjcEQ   HpBottle       1000
+ti       Fr4EOvOY2x1yqpUPKkPG35qt1SCF    4IaaDjVf9Ka3ps5YwLujO9BjdUzGExi1W4uOjcEQ
+use Fr4EOvOY2x1yqpUPKkPG35qt1SCF       4IaaDjVf9Ka3ps5YwLujO9BjdUzGExi1W4uOjcEQ        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls cD5PTXSngIvj63RjGM8ZLYqbA        dFgn8jw0bnKPcJ8EQl     HealSpell        29     234
+bi   _1YzLPKaH3BoxfHYIs5fZ5bQsC     yhnUB9qG8mzqlCyYYJyEoffiZoInNhpQ       AtkBottle
+use     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI   j1Uu0D4PpBaYq        Bjn_YA5fD4efE7kIlrG2glAcv
+ae    FsXE5Yt7xafF_    NP6901XULQvNDKLmIXrqTRpYOzbMNHuIjnVJ       Armour       100
+ab    Bjn_YA5fD4efE7kIlrG2glAcv eSs0Bcjip2pGiG      HpBottle      1000
+ti     Bjn_YA5fD4efE7kIlrG2glAcv      eSs0Bcjip2pGiG
+use       Bjn_YA5fD4efE7kIlrG2glAcv  eSs0Bcjip2pGiG       FsXE5Yt7xafF_
+ae        jo6H6Dt9Hl7uoaIbuVx3ea       qeK7zCrmo3hMvEd9Py2SYu      Armour  100
+ab        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        hKRyoWVSvtWsFc8TPEltKosCWEO05HpQGxT9cx        HpBottle        1000
+ti   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk hKRyoWVSvtWsFc8TPEltKosCWEO05HpQGxT9cx
+use   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        hKRyoWVSvtWsFc8TPEltKosCWEO05HpQGxT9cx  jo6H6Dt9Hl7uoaIbuVx3ea
+ae       njBP9r4IlBAk2CnbvMpR34k51JP  IoZbJqzDPSfZ98TkZ6zlGhGyb4QC7  Armour  100
+ab       cD5PTXSngIvj63RjGM8ZLYqbA      wKWdZgRSxoBua    HpBottle       1000
+ti    cD5PTXSngIvj63RjGM8ZLYqbA wKWdZgRSxoBua
+use        cD5PTXSngIvj63RjGM8ZLYqbA      wKWdZgRSxoBua njBP9r4IlBAk2CnbvMpR34k51JP
+bi iphEfa8KCeCYyU_PZ       S0231VtBpbU4xrZ1affNOpl2j14ZfKYk   DefBottle
+ae    jo6H6Dt9Hl7uoaIbuVx3ea       pU4D7xz9zp1CwZLEZpaLKm6uMr_SaPIkNO     Armour  100
+ab      VBRkioBmS93oMD4HOL7aEkjwGSwi      un55fXHgrkbl2iEZ9ISw406a5oUavo_w     HpBottle        1000
+ti     VBRkioBmS93oMD4HOL7aEkjwGSwi       un55fXHgrkbl2iEZ9ISw406a5oUavo_w
+use   VBRkioBmS93oMD4HOL7aEkjwGSwi        un55fXHgrkbl2iEZ9ISw406a5oUavo_w    jo6H6Dt9Hl7uoaIbuVx3ea
+ae   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq   ykq2XwmRot4oCwvRnmWmtLIJH     Armour 100
+ab        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    KlSiqOk3IPKFQ4dfa    HpBottle     1000
+ti    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     KlSiqOk3IPKFQ4dfa
+use    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      KlSiqOk3IPKFQ4dfa        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae      FsXE5Yt7xafF_ yGdAkfAsZBZ      Armour     100
+ab   2BJYLqdPump0Qv1     d3tRJnnzNtYKZLBSwqhQeQgze   HpBottle      1000
+ti        2BJYLqdPump0Qv1      d3tRJnnzNtYKZLBSwqhQeQgze
+use 2BJYLqdPump0Qv1        d3tRJnnzNtYKZLBSwqhQeQgze  FsXE5Yt7xafF_
+ls     zB8rxHdqiRt 7OSlVskZbKT AttackSpell        30     200
+ae        jo6H6Dt9Hl7uoaIbuVx3ea  MEyPk00o7vuJryNUbjh0ochXRkkvatAfEm  Armour   100
+ab       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk BmGTZys_9A3KcR   HpBottle     1000
+ti   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      BmGTZys_9A3KcR
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   BmGTZys_9A3KcR jo6H6Dt9Hl7uoaIbuVx3ea
+bi     zB8rxHdqiRt       UXOZaEPTt3oCh      Armour
+bi BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy X2h5AYGgYurPfHH4NlIEyRAVOI   HpBottle
+use        _1YzLPKaH3BoxfHYIs5fZ5bQsC CLin5w2gp18z7K      VBRkioBmS93oMD4HOL7aEkjwGSwi
+ae       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    zDAu2n4KZD4FO1EE4qp       Armour     100
+ab   Bjn_YA5fD4efE7kIlrG2glAcv     wtHsanrAJz9CVJQVaAyHG     HpBottle       1000
+ti Bjn_YA5fD4efE7kIlrG2glAcv     wtHsanrAJz9CVJQVaAyHG
+use  Bjn_YA5fD4efE7kIlrG2glAcv  wtHsanrAJz9CVJQVaAyHG      qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+bi     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       fL41y9y7LiCAmvqKvXvADRF0qFAHCDV      Sword
+ae      jo6H6Dt9Hl7uoaIbuVx3ea        g3PdQJ_ie87   Armour     100
+ab   yj8yvSg7Uea6SptHx5WOAoyYB5E     Ntn0hjFQU8q   HpBottle  1000
+ti      yj8yvSg7Uea6SptHx5WOAoyYB5E Ntn0hjFQU8q
+use    yj8yvSg7Uea6SptHx5WOAoyYB5E  Ntn0hjFQU8q  jo6H6Dt9Hl7uoaIbuVx3ea
+ae  z5EYi7iiP   p2yKISjop1Nb3cgjY7UolxvGNmZy0v1        Armour    100
+ab        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       MFvSA_9AiHreWHyVsDZW_2zDUvVS7_Y6iuZM7Y6 HpBottle 1000
+ti       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  MFvSA_9AiHreWHyVsDZW_2zDUvVS7_Y6iuZM7Y6
+use       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     MFvSA_9AiHreWHyVsDZW_2zDUvVS7_Y6iuZM7Y6     z5EYi7iiP
+bi yj8yvSg7Uea6SptHx5WOAoyYB5E      abk2w9cpQ4nst7a812g3CS6g0       Armour
+rr   Fr4EOvOY2x1yqpUPKkPG35qt1SCF    yj8yvSg7Uea6SptHx5WOAoyYB5E
+use     yj8yvSg7Uea6SptHx5WOAoyYB5E    f_3Y_8gw    2BJYLqdPump0Qv1
+ae   RZb3JDhLf6B    yr5y1sch3znB7Zgnx8EfxqIJNBhXnybH273Vs5     Armour      100
+ab     ACntKTNYFZ9sOqPf38qIkyd     sgPLx2e13eMgrei_MI2I1Edj49bNGx3J5jz9    HpBottle    1000
+ti    ACntKTNYFZ9sOqPf38qIkyd       sgPLx2e13eMgrei_MI2I1Edj49bNGx3J5jz9
+use     ACntKTNYFZ9sOqPf38qIkyd sgPLx2e13eMgrei_MI2I1Edj49bNGx3J5jz9    RZb3JDhLf6B
+use    hzilihtl21Lzp73q7      77nmRMbwhFiziInTgLPfpPWuKaMFyaE  qQq01KnJ_NAFHs_L1a
+ri gbUS0RYThGCBEnrK14mYoA    a5eL6cVFFOHFsN_0gxc3SHVGY607T
+ae     z5EYi7iiP      4Fv6Hoy8pggErL2I0fL4_       Armour    100
+ab P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      jH2czs_buCz  HpBottle  1000
+ti      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        jH2czs_buCz
+use       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk jH2czs_buCz  z5EYi7iiP
+ae       njBP9r4IlBAk2CnbvMpR34k51JP        tETMgISYa4g2w6      Armour 100
+ab VBRkioBmS93oMD4HOL7aEkjwGSwi     eA0TWFKnnmktrv3mQkWepUF74W5Tgy_h5M     HpBottle 1000
+ti  VBRkioBmS93oMD4HOL7aEkjwGSwi  eA0TWFKnnmktrv3mQkWepUF74W5Tgy_h5M
+use       VBRkioBmS93oMD4HOL7aEkjwGSwi   eA0TWFKnnmktrv3mQkWepUF74W5Tgy_h5M    njBP9r4IlBAk2CnbvMpR34k51JP
+ae   z5EYi7iiP    8lrNzdcahuIQE2mQnLBiHtmwKdnZKZ      Armour        100
+ab     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   EL2WmcjFsyDw0rlONPlMv4HH    HpBottle        1000
+ti      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     EL2WmcjFsyDw0rlONPlMv4HH
+use     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       EL2WmcjFsyDw0rlONPlMv4HH       z5EYi7iiP
+ae        RZb3JDhLf6B       L9MOmhWQqoydzfUdQRlzVySPDFi Armour       100
+ab  yj8yvSg7Uea6SptHx5WOAoyYB5E      RnOQSV9TnbHY08XjPsfq8        HpBottle      1000
+ti     yj8yvSg7Uea6SptHx5WOAoyYB5E     RnOQSV9TnbHY08XjPsfq8
+use       yj8yvSg7Uea6SptHx5WOAoyYB5E        RnOQSV9TnbHY08XjPsfq8    RZb3JDhLf6B
+bi  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  LZdDvQWT324Xh9texoyDYhvIGeRzDYv_    HpBottle
+ri    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   NCnGAv9R
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   rXQA9nHcR2rMSDhhOvJw6fK5bs   Armour       100
+ab _1YzLPKaH3BoxfHYIs5fZ5bQsC       EfT_rtuw8aZu6d3J3ce        HpBottle      1000
+ti     _1YzLPKaH3BoxfHYIs5fZ5bQsC    EfT_rtuw8aZu6d3J3ce
+use        _1YzLPKaH3BoxfHYIs5fZ5bQsC   EfT_rtuw8aZu6d3J3ce      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ls      ACntKTNYFZ9sOqPf38qIkyd      BWhP08ROVOOSjAzG4ZGS5jSgVyitwow3      HealSpell  5    192
+ae      njBP9r4IlBAk2CnbvMpR34k51JP L5IWj5WftDG4hEc51V0UVVyMAUZMs81cDOunswv        Armour    100
+ab    Bjn_YA5fD4efE7kIlrG2glAcv     O_oOcI7xahcImaI4qNMfeMJG5H  HpBottle      1000
+ti       Bjn_YA5fD4efE7kIlrG2glAcv O_oOcI7xahcImaI4qNMfeMJG5H
+use       Bjn_YA5fD4efE7kIlrG2glAcv  O_oOcI7xahcImaI4qNMfeMJG5H      njBP9r4IlBAk2CnbvMpR34k51JP
+bi ACntKTNYFZ9sOqPf38qIkyd       G1S0Vn9HEdp67_WTQUgT       ManaBottle
+ae   FsXE5Yt7xafF_  nGqeZ13cLwS2amb7LIMPAF7oWp     Armour    100
+ab  _1YzLPKaH3BoxfHYIs5fZ5bQsC    YcLrQJoVRZW7CjzwxeFsYI0SDp8dymIBL42Vh7      HpBottle      1000
+ti    _1YzLPKaH3BoxfHYIs5fZ5bQsC        YcLrQJoVRZW7CjzwxeFsYI0SDp8dymIBL42Vh7
+use _1YzLPKaH3BoxfHYIs5fZ5bQsC   YcLrQJoVRZW7CjzwxeFsYI0SDp8dymIBL42Vh7        FsXE5Yt7xafF_
+ae    FsXE5Yt7xafF_       iIw06E9Qiay271GHT6p1 Armour   100
+ab  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    Kc34yhAFwtny9UMHOQQKvWvFE_jMYfwKtfEZexqM      HpBottle       1000
+ti     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  Kc34yhAFwtny9UMHOQQKvWvFE_jMYfwKtfEZexqM
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        Kc34yhAFwtny9UMHOQQKvWvFE_jMYfwKtfEZexqM    FsXE5Yt7xafF_
+ae z5EYi7iiP  XX0CrOxozl9vcCaQROBBeQhCvfrWplWcQNcEG Armour   100
+ab   zB8rxHdqiRt  c5XFVa5nhMhFScLMrqyj  HpBottle     1000
+ti    zB8rxHdqiRt       c5XFVa5nhMhFScLMrqyj
+use    zB8rxHdqiRt c5XFVa5nhMhFScLMrqyj     z5EYi7iiP
+lr     a24A6kttI9KYkz0zb1q(zB8rxHdqiRt)
+ls       Fr4EOvOY2x1yqpUPKkPG35qt1SCF      A_PzMk5TXg     AttackSpell     29       286
+bi     ACntKTNYFZ9sOqPf38qIkyd    b1lppSTmY2lci       AtkBottle
+use  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      IoCrXIfDS4oIFCzr9I   Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N        C8JejwNBQ       Armour       100
+ab      iphEfa8KCeCYyU_PZ bPkFWJ3OPGwrmE6FZUT5o9cix4O        HpBottle    1000
+ti     iphEfa8KCeCYyU_PZ bPkFWJ3OPGwrmE6FZUT5o9cix4O
+use     iphEfa8KCeCYyU_PZ bPkFWJ3OPGwrmE6FZUT5o9cix4O     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy 0J4itsAp7oM3RcU3Kgn7wi0IFYe  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+use    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    rgOtbEmAfRWJB9h6FvRKH7GpEMM       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+rr   Fr4EOvOY2x1yqpUPKkPG35qt1SCF    VBRkioBmS93oMD4HOL7aEkjwGSwi
+bi      VBRkioBmS93oMD4HOL7aEkjwGSwi   Eiiy6SkD Sword
+bi      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy ksIBNe6VPb      Sword
+use       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  Zz5tT_A8GG0aI4E7YNr  itfT0tKmL7gO
+ae FsXE5Yt7xafF_  4DpTlsY92Q5zIOaVgQ       Armour        100
+ab    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy        F5Xg2D8Xajs6eBC1pqo HpBottle  1000
+ti    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    F5Xg2D8Xajs6eBC1pqo
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       F5Xg2D8Xajs6eBC1pqo        FsXE5Yt7xafF_
+ae       z5EYi7iiP       aYf11Bdrz0l6iLXF9N87kpqyHOeLBlWq_qSg Armour 100
+ab    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk q5nV645lOK0Rq8N HpBottle     1000
+ti P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk q5nV645lOK0Rq8N
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk q5nV645lOK0Rq8N     z5EYi7iiP
+use      17WyuL3mfSDprNhQ57Bw278bXrXLySd       kOYNDSyla        ACntKTNYFZ9sOqPf38qIkyd
+use        VBRkioBmS93oMD4HOL7aEkjwGSwi     un55fXHgrkbl2iEZ9ISw406a5oUavo_w    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX
+use  hzilihtl21Lzp73q7  de0WPL7gCH7QRpj       Bjn_YA5fD4efE7kIlrG2glAcv
+ls     Fr4EOvOY2x1yqpUPKkPG35qt1SCF  qBEK0Vlve8rlOOy1       HealSpell   30      33
+ae        jo6H6Dt9Hl7uoaIbuVx3ea   mpstQwhCUNz   Armour  100
+ab a24A6kttI9KYkz0zb1q    l1I5xoQssf8gPW  HpBottle   1000
+ti     a24A6kttI9KYkz0zb1q  l1I5xoQssf8gPW
+use a24A6kttI9KYkz0zb1q   l1I5xoQssf8gPW  jo6H6Dt9Hl7uoaIbuVx3ea
+use   _1YzLPKaH3BoxfHYIs5fZ5bQsC       H1FjRM0vQQ   KIJydPySUG_g4MKoH7xji8z0oCC
+bi    hzilihtl21Lzp73q7   7AKsFlkFD8nr1R0dc3AUceOgdhEHzf9APzOor       Armour
+bi       Bjn_YA5fD4efE7kIlrG2glAcv cn7K8YuZoHy0talkrJrrlAAn9V6u7cx5Bf9Aj     DefBottle
+ae     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       EnroSELHNLQPw9RUqM94SSUhItD3h0x      Armour  100
+ab  Bjn_YA5fD4efE7kIlrG2glAcv    6gEthSi2DIiQ8dy    HpBottle      1000
+ti        Bjn_YA5fD4efE7kIlrG2glAcv 6gEthSi2DIiQ8dy
+use        Bjn_YA5fD4efE7kIlrG2glAcv    6gEthSi2DIiQ8dy   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae       RZb3JDhLf6B     WYQiukumD5      Armour    100
+ab       _1YzLPKaH3BoxfHYIs5fZ5bQsC        7R_yCt4F9GI5oI2GJ_j_XDuLJMH3IR9      HpBottle  1000
+ti    _1YzLPKaH3BoxfHYIs5fZ5bQsC   7R_yCt4F9GI5oI2GJ_j_XDuLJMH3IR9
+use   _1YzLPKaH3BoxfHYIs5fZ5bQsC  7R_yCt4F9GI5oI2GJ_j_XDuLJMH3IR9      RZb3JDhLf6B
+ae  RZb3JDhLf6B  X4hieQhjlOcJU6o2kT5TYD7      Armour   100
+ab       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     is2LqCPAx0Z45      HpBottle        1000
+ti     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  is2LqCPAx0Z45
+use     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX    is2LqCPAx0Z45       RZb3JDhLf6B
+ae     RZb3JDhLf6B     VcApM9xvGGy3W19MijhKRZv07    Armour   100
+ab    VBRkioBmS93oMD4HOL7aEkjwGSwi  gzsV2YyrT459P5SD8vIYp    HpBottle    1000
+ti VBRkioBmS93oMD4HOL7aEkjwGSwi     gzsV2YyrT459P5SD8vIYp
+use   VBRkioBmS93oMD4HOL7aEkjwGSwi gzsV2YyrT459P5SD8vIYp   RZb3JDhLf6B
+bi   a24A6kttI9KYkz0zb1q        vSV4rCUWzFtOpCXb2hMfoeNzUNv_ckBr_GM      Sword
+ae      RZb3JDhLf6B        Pem6AO5nZxeZUYZj57peW4lE8fr7 Armour 100
+ab       S23C9mwhhWUuPIVEnU8JEq        6BIMlVmHrP     HpBottle   1000
+ti       S23C9mwhhWUuPIVEnU8JEq        6BIMlVmHrP
+use    S23C9mwhhWUuPIVEnU8JEq      6BIMlVmHrP RZb3JDhLf6B
+use 17WyuL3mfSDprNhQ57Bw278bXrXLySd       kOYNDSyla     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+ae  FsXE5Yt7xafF_     6sS_XkS_qhi_F6Pstm9zmb9jWAwI      Armour  100
+ab       KIJydPySUG_g4MKoH7xji8z0oCC     PSS3YMReyXWKmaa39K_tXUS   HpBottle    1000
+ti KIJydPySUG_g4MKoH7xji8z0oCC     PSS3YMReyXWKmaa39K_tXUS
+use       KIJydPySUG_g4MKoH7xji8z0oCC   PSS3YMReyXWKmaa39K_tXUS        FsXE5Yt7xafF_
+ae     FsXE5Yt7xafF_        tmLisGkqJ7m      Armour     100
+ab      gbUS0RYThGCBEnrK14mYoA      PqH9dTaTgEzwYj378yXUq7pqo3eG4_9DWu  HpBottle      1000
+ti      gbUS0RYThGCBEnrK14mYoA     PqH9dTaTgEzwYj378yXUq7pqo3eG4_9DWu
+use    gbUS0RYThGCBEnrK14mYoA    PqH9dTaTgEzwYj378yXUq7pqo3eG4_9DWu  FsXE5Yt7xafF_
+use   cD5PTXSngIvj63RjGM8ZLYqbA dFgn8jw0bnKPcJ8EQl     Bjn_YA5fD4efE7kIlrG2glAcv
+rr   cD5PTXSngIvj63RjGM8ZLYqbA        2BJYLqdPump0Qv1
+lr       2BJYLqdPump0Qv1(DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS(yj8yvSg7Uea6SptHx5WOAoyYB5E),VBRkioBmS93oMD4HOL7aEkjwGSwi)
+fight       yj8yvSg7Uea6SptHx5WOAoyYB5E        1     2BJYLqdPump0Qv1
+fight    VBRkioBmS93oMD4HOL7aEkjwGSwi      1        2BJYLqdPump0Qv1
+ae    VBRkioBmS93oMD4HOL7aEkjwGSwi       JqgK6oJUqVG1JqrStPtg_6uDH    Sword 200
+ti        VBRkioBmS93oMD4HOL7aEkjwGSwi  JqgK6oJUqVG1JqrStPtg_6uDH
+fight        VBRkioBmS93oMD4HOL7aEkjwGSwi        1        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+rr       2BJYLqdPump0Qv1      VBRkioBmS93oMD4HOL7aEkjwGSwi
+fight  VBRkioBmS93oMD4HOL7aEkjwGSwi  1 2BJYLqdPump0Qv1
+ri       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       4QawsvKLX
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        59WS0amlLq80jZCRdqnfMYMu   Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae  njBP9r4IlBAk2CnbvMpR34k51JP  eZkWeqPERc5bgiXDuq7X8CJjJS9oec1BrJSf_S        Armour   100
+ab       2BJYLqdPump0Qv1    r90daUNtBV8VTSYNPzVZWAWU2iw4zQPn     HpBottle     1000
+ti      2BJYLqdPump0Qv1    r90daUNtBV8VTSYNPzVZWAWU2iw4zQPn
+use    2BJYLqdPump0Qv1 r90daUNtBV8VTSYNPzVZWAWU2iw4zQPn        njBP9r4IlBAk2CnbvMpR34k51JP
+use   gbUS0RYThGCBEnrK14mYoA  GstKif3NEUSFUY1FNgV0W8GqPdKM7jh     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+ae  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS  ijCdISwZ5xYIuNzdME45OaF  Armour       100
+ab  yj8yvSg7Uea6SptHx5WOAoyYB5E      krb4vfPs7bqP84o7ZYuA7tXMVSFFpMa    HpBottle      1000
+ti yj8yvSg7Uea6SptHx5WOAoyYB5E       krb4vfPs7bqP84o7ZYuA7tXMVSFFpMa
+use      yj8yvSg7Uea6SptHx5WOAoyYB5E    krb4vfPs7bqP84o7ZYuA7tXMVSFFpMa  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae      FsXE5Yt7xafF_       q47JmLxU6FoOHfq2gqrb1PjM     Armour    100
+ab     qQq01KnJ_NAFHs_L1a        MW1rJCv4j_mQWw0XQvfEipO8nbPABt03   HpBottle     1000
+ti  qQq01KnJ_NAFHs_L1a     MW1rJCv4j_mQWw0XQvfEipO8nbPABt03
+use       qQq01KnJ_NAFHs_L1a MW1rJCv4j_mQWw0XQvfEipO8nbPABt03      FsXE5Yt7xafF_
+ls      KIJydPySUG_g4MKoH7xji8z0oCC      _Zg9CPYxbAgMgW_42     AttackSpell 15   144
+ae qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    mSOuH95bwl2hwxPFYGWPd7vtZAZD  Armour 100
+ab      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      0vDFzNaHOmPN5  HpBottle        1000
+ti    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   0vDFzNaHOmPN5
+use      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      0vDFzNaHOmPN5     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ri     17WyuL3mfSDprNhQ57Bw278bXrXLySd   RlpeNULGhzXmtbwozHVe2xJcFr_Xwr
+ls  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  slWHr2Zt9WwfBmNEz        HealSpell    4      97
+use  yj8yvSg7Uea6SptHx5WOAoyYB5E  bNUF8UvpnE1RQkOW_I_JOE     Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ri  Fr4EOvOY2x1yqpUPKkPG35qt1SCF    tWOfUAIyWB2w3sG0nhmAj3hS0e_KbTpf4Pb
+ae   z5EYi7iiP      xAwpYCzjTsLLYvU9kqT8YO        Armour    100
+ab   VBRkioBmS93oMD4HOL7aEkjwGSwi PgEuzD7cnKO       HpBottle        1000
+ti   VBRkioBmS93oMD4HOL7aEkjwGSwi       PgEuzD7cnKO
+use   VBRkioBmS93oMD4HOL7aEkjwGSwi       PgEuzD7cnKO        z5EYi7iiP
+ae      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        ouAJVOg3wuRNS2jdTK5rG6        Armour      100
+ab  iphEfa8KCeCYyU_PZ        qLZKtnBys3Jgy8HlefR19XmlOGsusg2   HpBottle   1000
+ti    iphEfa8KCeCYyU_PZ        qLZKtnBys3Jgy8HlefR19XmlOGsusg2
+use   iphEfa8KCeCYyU_PZ      qLZKtnBys3Jgy8HlefR19XmlOGsusg2     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+bi        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       38Uv4YwiwAEN8ykRnWEmsKKsHCoBHAZw  Armour
+ae       njBP9r4IlBAk2CnbvMpR34k51JP  P_arLZbuvAaLi5bNrQ8KzmOBsRyH0mes       Armour  100
+ab        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  O6HhgnEGClFEH1658HvM    HpBottle        1000
+ti       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI      O6HhgnEGClFEH1658HvM
+use        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  O6HhgnEGClFEH1658HvM     njBP9r4IlBAk2CnbvMpR34k51JP
+ri  Bjn_YA5fD4efE7kIlrG2glAcv IN0R4vy8lKZq2fMFwG
+use        2BJYLqdPump0Qv1    aosCNX9w9Mj87SpBnU7JZEeFlgiEY0OJpzs_     17WyuL3mfSDprNhQ57Bw278bXrXLySd
+use       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  FfDjZUiW_Y1Iug6nMoIbu9ZRF4C5lyRaXUZw7ZlF BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+ae        jo6H6Dt9Hl7uoaIbuVx3ea qBAcQIm0_iwe44rM7h_eSjeO9RwV        Armour        100
+ab    2BJYLqdPump0Qv1        jyzQ1gag7oDAnQHbOAgb HpBottle    1000
+ti        2BJYLqdPump0Qv1  jyzQ1gag7oDAnQHbOAgb
+use  2BJYLqdPump0Qv1      jyzQ1gag7oDAnQHbOAgb     jo6H6Dt9Hl7uoaIbuVx3ea
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N  KGpBYAuPtJRd8L7MHVUYSlJCFyccIkdzAug  Armour   100
+ab     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        J8LdXgIAq       HpBottle  1000
+ti  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX J8LdXgIAq
+use   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        J8LdXgIAq    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use      _1YzLPKaH3BoxfHYIs5fZ5bQsC        H1FjRM0vQQ   a24A6kttI9KYkz0zb1q
+ae z5EYi7iiP    TBawI52VBLjKDQQkq1KN4CHIit7a4BNbqN    Armour 100
+ab       17WyuL3mfSDprNhQ57Bw278bXrXLySd      1U9ouGTa      HpBottle       1000
+ti   17WyuL3mfSDprNhQ57Bw278bXrXLySd      1U9ouGTa
+use       17WyuL3mfSDprNhQ57Bw278bXrXLySd     1U9ouGTa      z5EYi7iiP
+ri  zB8rxHdqiRt     7_rNBhbhU1ipG6BH
+ls cD5PTXSngIvj63RjGM8ZLYqbA FQKjnpEmlrivePSag0k_2       AttackSpell        25   186
+ae   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq    VmBUR22MjDeD2mDgA8u0usu Armour      100
+ab       zB8rxHdqiRt  uXb2JYvb8MCczSUdsm HpBottle      1000
+ti    zB8rxHdqiRt       uXb2JYvb8MCczSUdsm
+use     zB8rxHdqiRt       uXb2JYvb8MCczSUdsm   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae      RZb3JDhLf6B        kjSBoLY_U     Armour       100
+ab        2BJYLqdPump0Qv1     JQicbJxd8oV_YaBPQ8B8rpPOBy       HpBottle    1000
+ti  2BJYLqdPump0Qv1       JQicbJxd8oV_YaBPQ8B8rpPOBy
+use  2BJYLqdPump0Qv1      JQicbJxd8oV_YaBPQ8B8rpPOBy RZb3JDhLf6B
+ls    iphEfa8KCeCYyU_PZ  yo5s2IJZ2L4HUCXBJdALEXNwBd6Kwy1XPNpD  AttackSpell 14   207
+ae     RZb3JDhLf6B   NPUZCNNC6lqwaWzZ6X0n7j    Armour      100
+ab   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    w4AeFmbaDI2A1C0_svJsYTxBl1cwJ HpBottle       1000
+ti  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        w4AeFmbaDI2A1C0_svJsYTxBl1cwJ
+use    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   w4AeFmbaDI2A1C0_svJsYTxBl1cwJ  RZb3JDhLf6B
+use S23C9mwhhWUuPIVEnU8JEq   1sIriYJIYzTWArqm      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI
+ae    jo6H6Dt9Hl7uoaIbuVx3ea    JxoDYIe8f3ahAe    Armour    100
+ab    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX w_F3QSbQ8fdg      HpBottle      1000
+ti        VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      w_F3QSbQ8fdg
+use  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     w_F3QSbQ8fdg      jo6H6Dt9Hl7uoaIbuVx3ea
+ae  z5EYi7iiP        8FlpIQF9oWWzCn6_foNNIFuLnB5hKe_xV     Armour       100
+ab   ACntKTNYFZ9sOqPf38qIkyd      TZRfLH5joW2gOdCsBOpbQ    HpBottle 1000
+ti     ACntKTNYFZ9sOqPf38qIkyd    TZRfLH5joW2gOdCsBOpbQ
+use      ACntKTNYFZ9sOqPf38qIkyd       TZRfLH5joW2gOdCsBOpbQ    z5EYi7iiP
+ae     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        ZPKuuzZuyktvoi4kCrgP Armour      100
+ab       zB8rxHdqiRt    swS8L8MT9Mu4ZWucc1jGw      HpBottle   1000
+ti   zB8rxHdqiRt     swS8L8MT9Mu4ZWucc1jGw
+use   zB8rxHdqiRt       swS8L8MT9Mu4ZWucc1jGw   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ri        hzilihtl21Lzp73q7       7gSG2wwhF1dzEF8tY1mTm40NFy
+use    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy  KkG5SvIDiru       Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ls      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX Yjzuks61AYdQzu8grMkkfLt4Lk_13     HealSpell     25      197
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd om8zQ4YMpIAN71zkuNck     hzilihtl21Lzp73q7
+ae   njBP9r4IlBAk2CnbvMpR34k51JP  c5RESXfeN3tuT5j4MQXVNQ5jjNY82daY9       Armour 100
+ab  VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     P8QdHkff7EnAt      HpBottle     1000
+ti    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     P8QdHkff7EnAt
+use     VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      P8QdHkff7EnAt njBP9r4IlBAk2CnbvMpR34k51JP
+ri        S23C9mwhhWUuPIVEnU8JEq   1sIriYJIYzTWArqm
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    x1AQBDiDHIHtLTE7Utmn3       Armour      100
+ab      KIJydPySUG_g4MKoH7xji8z0oCC  xIrG8yIPftPG  HpBottle    1000
+ti  KIJydPySUG_g4MKoH7xji8z0oCC  xIrG8yIPftPG
+use   KIJydPySUG_g4MKoH7xji8z0oCC  xIrG8yIPftPG        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      LZdDvQWT324Xh9texoyDYhvIGeRzDYv_        Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ri     cD5PTXSngIvj63RjGM8ZLYqbA       gQwZsAscW1
+ls       cD5PTXSngIvj63RjGM8ZLYqbA        grpLVHrkM3ybJL82DuCZ7DBqEwI       AttackSpell 18        197
+bi       ACntKTNYFZ9sOqPf38qIkyd        vhZPE3J1gy26F6mY8b8Nfg    ManaBottle
+ae   njBP9r4IlBAk2CnbvMpR34k51JP       b19sAJVNQq4   Armour       100
+ab     VBRkioBmS93oMD4HOL7aEkjwGSwi        gc2uiKywMIrW6LwxUJ2LElZX1a5ac1X9Goyz HpBottle    1000
+ti   VBRkioBmS93oMD4HOL7aEkjwGSwi   gc2uiKywMIrW6LwxUJ2LElZX1a5ac1X9Goyz
+use VBRkioBmS93oMD4HOL7aEkjwGSwi  gc2uiKywMIrW6LwxUJ2LElZX1a5ac1X9Goyz      njBP9r4IlBAk2CnbvMpR34k51JP
+ae      jo6H6Dt9Hl7uoaIbuVx3ea        EKzFLI2KSiQHZIPZeMsczXKYVi      Armour  100
+ab    Fr4EOvOY2x1yqpUPKkPG35qt1SCF    agkPXkPV0jo1W_l0lfuUNs4Lw7MELy  HpBottle    1000
+ti     Fr4EOvOY2x1yqpUPKkPG35qt1SCF    agkPXkPV0jo1W_l0lfuUNs4Lw7MELy
+use      Fr4EOvOY2x1yqpUPKkPG35qt1SCF       agkPXkPV0jo1W_l0lfuUNs4Lw7MELy  jo6H6Dt9Hl7uoaIbuVx3ea
+ae   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        iWGf9PvWlxEdLffTX4YP_oQmFOixYXokRb       Armour   100
+ab    Bjn_YA5fD4efE7kIlrG2glAcv     EpavUyzg__iHOorCXQa92BP      HpBottle    1000
+ti    Bjn_YA5fD4efE7kIlrG2glAcv  EpavUyzg__iHOorCXQa92BP
+use Bjn_YA5fD4efE7kIlrG2glAcv      EpavUyzg__iHOorCXQa92BP   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae   z5EYi7iiP   7IloikStUkj5QHP       Armour      100
+ab      cD5PTXSngIvj63RjGM8ZLYqbA     49N9GaTV0w64yBJBzA_iSxqQ        HpBottle   1000
+ti     cD5PTXSngIvj63RjGM8ZLYqbA   49N9GaTV0w64yBJBzA_iSxqQ
+use      cD5PTXSngIvj63RjGM8ZLYqbA        49N9GaTV0w64yBJBzA_iSxqQ  z5EYi7iiP
+ls        qQq01KnJ_NAFHs_L1a       LudS5Ol0pFM7Kbps6ubGKw6hBtQxhF AttackSpell     27      112
+ae        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    GAGRFUuVq0ri7X5WpwJ    Armour      100
+ab   17WyuL3mfSDprNhQ57Bw278bXrXLySd       437VU5u1Fa35D7h96iiu0rJa       HpBottle        1000
+ti 17WyuL3mfSDprNhQ57Bw278bXrXLySd      437VU5u1Fa35D7h96iiu0rJa
+use     17WyuL3mfSDprNhQ57Bw278bXrXLySd       437VU5u1Fa35D7h96iiu0rJa    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+rr      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk   itfT0tKmL7gO
+bi   17WyuL3mfSDprNhQ57Bw278bXrXLySd jkVldVSDyBQt8lEeQzF6iQq84gOJkwqOYS  Magicbook
+ae  jo6H6Dt9Hl7uoaIbuVx3ea      elpEbiNGZSOnaoWwyiyTkVhjx1AOpn2mXZ4k      Armour   100
+ab      gbUS0RYThGCBEnrK14mYoA     fTmKOD6Jktw7Bez6Ey1Y2Gxsu_jcMVaPTB7919sT     HpBottle    1000
+ti  gbUS0RYThGCBEnrK14mYoA     fTmKOD6Jktw7Bez6Ey1Y2Gxsu_jcMVaPTB7919sT
+use gbUS0RYThGCBEnrK14mYoA    fTmKOD6Jktw7Bez6Ey1Y2Gxsu_jcMVaPTB7919sT  jo6H6Dt9Hl7uoaIbuVx3ea
+use     ACntKTNYFZ9sOqPf38qIkyd   0BUwt721l0kznPk6K_stUUtNLkkOp 17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ae     RZb3JDhLf6B   MU23V1yVsSwx9SCVeQ2yYs1      Armour     100
+ab      cD5PTXSngIvj63RjGM8ZLYqbA njegy3MnjLjZH6PugujpktQ2CdfgxOSAVdtO       HpBottle        1000
+ti cD5PTXSngIvj63RjGM8ZLYqbA njegy3MnjLjZH6PugujpktQ2CdfgxOSAVdtO
+use      cD5PTXSngIvj63RjGM8ZLYqbA  njegy3MnjLjZH6PugujpktQ2CdfgxOSAVdtO     RZb3JDhLf6B
+use    hzilihtl21Lzp73q7     pYqMPq1_fZr0    cD5PTXSngIvj63RjGM8ZLYqbA
+ri     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     ISrc0rse
+use   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy 0J4itsAp7oM3RcU3Kgn7wi0IFYe  17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ae      FsXE5Yt7xafF_        ouV0EjfmL3Kff1th Armour     100
+ab     gbUS0RYThGCBEnrK14mYoA       QFO2IAGzBolrR34K1wzgOb045hyxko        HpBottle    1000
+ti gbUS0RYThGCBEnrK14mYoA     QFO2IAGzBolrR34K1wzgOb045hyxko
+use gbUS0RYThGCBEnrK14mYoA       QFO2IAGzBolrR34K1wzgOb045hyxko     FsXE5Yt7xafF_
+use   qQq01KnJ_NAFHs_L1a       MW1rJCv4j_mQWw0XQvfEipO8nbPABt03        VBRkioBmS93oMD4HOL7aEkjwGSwi
+ae  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS      fgOm_5KCjhQwHiUuYVqyhFecfQHb1n7U0_rjl        Armour      100
+ab      VBRkioBmS93oMD4HOL7aEkjwGSwi HWu8rjzqjzqhOfeVxLTSB       HpBottle      1000
+ti    VBRkioBmS93oMD4HOL7aEkjwGSwi   HWu8rjzqjzqhOfeVxLTSB
+use      VBRkioBmS93oMD4HOL7aEkjwGSwi    HWu8rjzqjzqhOfeVxLTSB     DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+rr        cD5PTXSngIvj63RjGM8ZLYqbA      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ae       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     MGakKvVTHAElQlrjDD58GR5qWiSDiIELqw Armour      100
+ab        a24A6kttI9KYkz0zb1q    ga3uLuvK5DdYoOjQY       HpBottle     1000
+ti     a24A6kttI9KYkz0zb1q      ga3uLuvK5DdYoOjQY
+use        a24A6kttI9KYkz0zb1q   ga3uLuvK5DdYoOjQY       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+lr   2BJYLqdPump0Qv1(itfT0tKmL7gO(VBRkioBmS93oMD4HOL7aEkjwGSwi),mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6)
+fight  VBRkioBmS93oMD4HOL7aEkjwGSwi        1 2BJYLqdPump0Qv1
+fight     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    1    2BJYLqdPump0Qv1
+ae    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   dB8Pha9AOF   Sword       200
+ti        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   dB8Pha9AOF
+fight mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   1        itfT0tKmL7gO
+rr       2BJYLqdPump0Qv1   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+fight     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       1 2BJYLqdPump0Qv1
+use    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX       Yjzuks61AYdQzu8grMkkfLt4Lk_13  17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ae        MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       6kX8zHQsfEIXHlpf7HishBNs Armour    100
+ab   hzilihtl21Lzp73q7     2JWgicY5a_OhuggYJ    HpBottle  1000
+ti       hzilihtl21Lzp73q7     2JWgicY5a_OhuggYJ
+use       hzilihtl21Lzp73q7   2JWgicY5a_OhuggYJ    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        IRZ0ubSUKbqB5 Armour        100
+ab S23C9mwhhWUuPIVEnU8JEq     O6Tb4bGWW6rM9DAUPt_Wq_zcE2wrgV    HpBottle  1000
+ti S23C9mwhhWUuPIVEnU8JEq       O6Tb4bGWW6rM9DAUPt_Wq_zcE2wrgV
+use      S23C9mwhhWUuPIVEnU8JEq O6Tb4bGWW6rM9DAUPt_Wq_zcE2wrgV     qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use      qQq01KnJ_NAFHs_L1a  LudS5Ol0pFM7Kbps6ubGKw6hBtQxhF      17WyuL3mfSDprNhQ57Bw278bXrXLySd
+ls        ACntKTNYFZ9sOqPf38qIkyd      zFoiLli66iLdnRm      HealSpell 6     89
+ae     z5EYi7iiP     BR86fMICEGTUNO6ATe73Nx3lIq5cKL5d        Armour 100
+ab       a24A6kttI9KYkz0zb1q       DomS52GsY     HpBottle       1000
+ti     a24A6kttI9KYkz0zb1q   DomS52GsY
+use       a24A6kttI9KYkz0zb1q DomS52GsY     z5EYi7iiP
+use    Bjn_YA5fD4efE7kIlrG2glAcv      EpavUyzg__iHOorCXQa92BP      qQq01KnJ_NAFHs_L1a
+use        zB8rxHdqiRt  2zi72ujo0lwWoiIx0jXz6t0Nulb4UUb  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+rr      a24A6kttI9KYkz0zb1q  zB8rxHdqiRt
+ae  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq  2VwkUe6TxE3oAdeRIsgs4DvHAL8OmI1IPjc0 Armour       100
+ab P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk 3sKMDjBQup0cAuNoLc    HpBottle       1000
+ti      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      3sKMDjBQup0cAuNoLc
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk 3sKMDjBQup0cAuNoLc        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae        RZb3JDhLf6B iza4EmGO1KnOtFu6z    Armour  100
+ab   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      yCGGmVbdY4FsoC   HpBottle  1000
+ti P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       yCGGmVbdY4FsoC
+use P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  yCGGmVbdY4FsoC      RZb3JDhLf6B
+ls       17WyuL3mfSDprNhQ57Bw278bXrXLySd   FzPZcm6P8Oj9H AttackSpell    11       144
+ae  FsXE5Yt7xafF_      kpPSutBI8UMtOJ4lpBauxfRb5K2J7bZ     Armour  100
+ab a24A6kttI9KYkz0zb1q    i11bHjjvMxXUYqCJQOS  HpBottle 1000
+ti   a24A6kttI9KYkz0zb1q    i11bHjjvMxXUYqCJQOS
+use      a24A6kttI9KYkz0zb1q        i11bHjjvMxXUYqCJQOS    FsXE5Yt7xafF_
+ae   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq        O5Zbwjji       Armour      100
+ab     zB8rxHdqiRt   3SyzKrl63bM42D4UNUPng    HpBottle 1000
+ti    zB8rxHdqiRt        3SyzKrl63bM42D4UNUPng
+use zB8rxHdqiRt       3SyzKrl63bM42D4UNUPng       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae      FsXE5Yt7xafF_   wGx2OzMW        Armour       100
+ab    qQq01KnJ_NAFHs_L1a bcizQARnRWMbp  HpBottle  1000
+ti     qQq01KnJ_NAFHs_L1a   bcizQARnRWMbp
+use  qQq01KnJ_NAFHs_L1a     bcizQARnRWMbp      FsXE5Yt7xafF_
+ri    cD5PTXSngIvj63RjGM8ZLYqbA     PfWlL8Q4jWJ3vsND_DEzFLvdBlAhu3zE9xioDtim
+use        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI       Xbx3aw_akXgxdm5IS4a6I a24A6kttI9KYkz0zb1q
+ae      RZb3JDhLf6B    GWjzvjP4EyNIMRxQCO0mSGry5nS3LGwnay2fbt      Armour    100
+ab       gbUS0RYThGCBEnrK14mYoA       5Mrq8BAoc      HpBottle  1000
+ti    gbUS0RYThGCBEnrK14mYoA   5Mrq8BAoc
+use      gbUS0RYThGCBEnrK14mYoA       5Mrq8BAoc   RZb3JDhLf6B
+ae       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N DwxeU6UzWZM Armour    100
+ab      itfT0tKmL7gO       PrKsLntQzYh4Vy9aUihvr5     HpBottle       1000
+ti   itfT0tKmL7gO       PrKsLntQzYh4Vy9aUihvr5
+use   itfT0tKmL7gO       PrKsLntQzYh4Vy9aUihvr5       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae   FsXE5Yt7xafF_        rZNm1gbadOUpj7srH8WFt4jWjZabXjnHxxbatc20  Armour   100
+ab    hzilihtl21Lzp73q7       QxX7lbaU9SmnhHzai      HpBottle  1000
+ti     hzilihtl21Lzp73q7    QxX7lbaU9SmnhHzai
+use      hzilihtl21Lzp73q7 QxX7lbaU9SmnhHzai        FsXE5Yt7xafF_
+ae        njBP9r4IlBAk2CnbvMpR34k51JP     vLNp56MGIfvHK1E8RvDvwkT       Armour   100
+ab BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     JIfJX8nZf5IuHpCccC1ifbOlqR9M    HpBottle      1000
+ti   BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       JIfJX8nZf5IuHpCccC1ifbOlqR9M
+use  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy   JIfJX8nZf5IuHpCccC1ifbOlqR9M    njBP9r4IlBAk2CnbvMpR34k51JP
+ae   njBP9r4IlBAk2CnbvMpR34k51JP       pAgZZneP9bI5mp8_t    Armour    100
+ab    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      7sBtDi6tfxRU_2AB2mGDUThH      HpBottle        1000
+ti      VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   7sBtDi6tfxRU_2AB2mGDUThH
+use VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX  7sBtDi6tfxRU_2AB2mGDUThH      njBP9r4IlBAk2CnbvMpR34k51JP
+ri   VBRkioBmS93oMD4HOL7aEkjwGSwi       HWu8rjzqjzqhOfeVxLTSB
+rr   TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  cD5PTXSngIvj63RjGM8ZLYqbA
+lr   zB8rxHdqiRt(cD5PTXSngIvj63RjGM8ZLYqbA(2BJYLqdPump0Qv1),mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6)
+fight 2BJYLqdPump0Qv1 1      zB8rxHdqiRt
+fight   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     1   zB8rxHdqiRt
+ae    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      Bqt9fcY7EiGxZ5pl4E2ckR89NOaojSjeV Sword      200
+ti   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       Bqt9fcY7EiGxZ5pl4E2ckR89NOaojSjeV
+fight        mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    1 cD5PTXSngIvj63RjGM8ZLYqbA
+rr     zB8rxHdqiRt     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+fight    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     1    zB8rxHdqiRt
+bi 17WyuL3mfSDprNhQ57Bw278bXrXLySd      9sLCB40jKZqmK ManaBottle
+use       hzilihtl21Lzp73q7    de0WPL7gCH7QRpj   2BJYLqdPump0Qv1
+ae    DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    5DNa6e9xqLq72o9y56t4mwNv8dKWMTFEdzhhQS3I    Armour       100
+ab        hzilihtl21Lzp73q7       a03z9Lfxfe_s      HpBottle  1000
+ti hzilihtl21Lzp73q7      a03z9Lfxfe_s
+use   hzilihtl21Lzp73q7  a03z9Lfxfe_s        DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae      RZb3JDhLf6B     Zc133KD7lzlSeAakYuZc4d1QC   Armour        100
+ab       qQq01KnJ_NAFHs_L1a      eq_pnDF4uQiadW0oC9uau76f4    HpBottle        1000
+ti  qQq01KnJ_NAFHs_L1a eq_pnDF4uQiadW0oC9uau76f4
+use   qQq01KnJ_NAFHs_L1a  eq_pnDF4uQiadW0oC9uau76f4    RZb3JDhLf6B
+ae       FsXE5Yt7xafF_     XGVTRKGZOsFHROjdWHWaTtha5iqG       Armour  100
+ab        Fr4EOvOY2x1yqpUPKkPG35qt1SCF  CPIUR5dL74l349dBTca HpBottle        1000
+ti   Fr4EOvOY2x1yqpUPKkPG35qt1SCF  CPIUR5dL74l349dBTca
+use      Fr4EOvOY2x1yqpUPKkPG35qt1SCF       CPIUR5dL74l349dBTca    FsXE5Yt7xafF_
+rr    cD5PTXSngIvj63RjGM8ZLYqbA  2BJYLqdPump0Qv1
+bi  TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    FrLFlUEv88smaalvqT       Armour
+ae      RZb3JDhLf6B        RamGe7_vTy3WViRQ       Armour 100
+ab     17WyuL3mfSDprNhQ57Bw278bXrXLySd    G9xlDfRJjihXAun7Fx7y0ORA8r5RrxHokgRyJh   HpBottle       1000
+ti       17WyuL3mfSDprNhQ57Bw278bXrXLySd     G9xlDfRJjihXAun7Fx7y0ORA8r5RrxHokgRyJh
+use       17WyuL3mfSDprNhQ57Bw278bXrXLySd    G9xlDfRJjihXAun7Fx7y0ORA8r5RrxHokgRyJh RZb3JDhLf6B
+ae        z5EYi7iiP  CzCsL_iGi   Armour   100
+ab  2BJYLqdPump0Qv1        I9boYKm55XeAwMj     HpBottle  1000
+ti     2BJYLqdPump0Qv1       I9boYKm55XeAwMj
+use    2BJYLqdPump0Qv1        I9boYKm55XeAwMj     z5EYi7iiP
+ri qQq01KnJ_NAFHs_L1a        eq_pnDF4uQiadW0oC9uau76f4
+ae DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     jfzHvFuwjizYbmv9HRoBdA3   Armour     100
+ab       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy  dac_itkh52wfzmV2v       HpBottle     1000
+ti    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy      dac_itkh52wfzmV2v
+use    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy dac_itkh52wfzmV2v       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae      jo6H6Dt9Hl7uoaIbuVx3ea      Oo54IHiNYn      Armour     100
+ab      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI      Lm_mOt9UpjmCYPO  HpBottle    1000
+ti       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI   Lm_mOt9UpjmCYPO
+use    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    Lm_mOt9UpjmCYPO jo6H6Dt9Hl7uoaIbuVx3ea
+ae   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS     X1KzulIbC3OguQn_2aaWsp8dj  Armour   100
+ab        ACntKTNYFZ9sOqPf38qIkyd     8tQvacc3ZJ03F_JLXVcLIm8zxL6hmbz  HpBottle 1000
+ti  ACntKTNYFZ9sOqPf38qIkyd    8tQvacc3ZJ03F_JLXVcLIm8zxL6hmbz
+use  ACntKTNYFZ9sOqPf38qIkyd        8tQvacc3ZJ03F_JLXVcLIm8zxL6hmbz  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ls      KIJydPySUG_g4MKoH7xji8z0oCC   HjMI6nqsygoRX7_c06RA3Aaq7zd5At       HealSpell    22     70
+ri  S23C9mwhhWUuPIVEnU8JEq      gKCaAkrV_fEkblp6DcgAizclYSP_Yr0
+use    P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk _vnqzmPzPSpP0ksMVNj      a24A6kttI9KYkz0zb1q
+use    KIJydPySUG_g4MKoH7xji8z0oCC  5THU7z0RBJxBvjdZ9X4NlkurRT BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+bi BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    AUhQKh0E9mnkC   Armour
+bi        Bjn_YA5fD4efE7kIlrG2glAcv JMVWKEvKSg6xVNCO6d4m9       HpBottle
+use 17WyuL3mfSDprNhQ57Bw278bXrXLySd  1U9ouGTa      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ae        z5EYi7iiP       dMnqhHKZEgYt3W0KWKjGBuWxvJQ       Armour   100
+ab    qQq01KnJ_NAFHs_L1a    ssIjKwu73KaUTIY_K4nIDAxDz        HpBottle  1000
+ti      qQq01KnJ_NAFHs_L1a    ssIjKwu73KaUTIY_K4nIDAxDz
+use   qQq01KnJ_NAFHs_L1a      ssIjKwu73KaUTIY_K4nIDAxDz        z5EYi7iiP
+ae     zB8rxHdqiRt  ScFDC55F4v7gT        Armour      100
+ab        hzilihtl21Lzp73q7  wO3sZetoNAoqREdYGBr22HbTjR9hx9G     HpBottle     1000
+ti    hzilihtl21Lzp73q7    wO3sZetoNAoqREdYGBr22HbTjR9hx9G
+use     hzilihtl21Lzp73q7 wO3sZetoNAoqREdYGBr22HbTjR9hx9G       zB8rxHdqiRt
+ae    jo6H6Dt9Hl7uoaIbuVx3ea       YSe1iaS6pzEadG6dkz Armour       100
+ab  Bjn_YA5fD4efE7kIlrG2glAcv   IUJeiuL3mIai3pSp01v_JOlUoU2d82EcJA     HpBottle     1000
+ti    Bjn_YA5fD4efE7kIlrG2glAcv IUJeiuL3mIai3pSp01v_JOlUoU2d82EcJA
+use    Bjn_YA5fD4efE7kIlrG2glAcv IUJeiuL3mIai3pSp01v_JOlUoU2d82EcJA       jo6H6Dt9Hl7uoaIbuVx3ea
+ae     MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   16nChEOu6fAAfGfpQc4TAbvHldszhlAZUJFcr        Armour   100
+ab       _1YzLPKaH3BoxfHYIs5fZ5bQsC FLPzj9GSZ2y7XBfhulo5VKwixtR2Ad_    HpBottle     1000
+ti    _1YzLPKaH3BoxfHYIs5fZ5bQsC       FLPzj9GSZ2y7XBfhulo5VKwixtR2Ad_
+use _1YzLPKaH3BoxfHYIs5fZ5bQsC    FLPzj9GSZ2y7XBfhulo5VKwixtR2Ad_      MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk      ExQWZLUq46oX02rllnffWYSJ7dtDeNi293w6j3J      yj8yvSg7Uea6SptHx5WOAoyYB5E
+use     Fr4EOvOY2x1yqpUPKkPG35qt1SCF       Vdz5bCNpAwexwB3saEjrBBFflSkShWWh        itfT0tKmL7gO
+use   qQq01KnJ_NAFHs_L1a p0vAAHPw        2BJYLqdPump0Qv1
+use      _1YzLPKaH3BoxfHYIs5fZ5bQsC    7R_yCt4F9GI5oI2GJ_j_XDuLJMH3IR9  hzilihtl21Lzp73q7
+ri   a24A6kttI9KYkz0zb1q PclUS0eZjhDsQmlnq6puAbBbnqY56nBrvFd3
+ae       FsXE5Yt7xafF_       OqrS3Hj8UT8psEBZxQi0r7zx5WsMU52VyRMkB       Armour  100
+ab VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX R7jjWpPrf7qw7g_h4jvK3hRXhCnrjkPqlQo     HpBottle     1000
+ti   VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX      R7jjWpPrf7qw7g_h4jvK3hRXhCnrjkPqlQo
+use VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     R7jjWpPrf7qw7g_h4jvK3hRXhCnrjkPqlQo      FsXE5Yt7xafF_
+use  KIJydPySUG_g4MKoH7xji8z0oCC       GXubadhwuY5ouL0AYYIh3Sz6zX7jkrXjfS  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy
+ae   DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        FVIXt0NfvEhMEtVQwQTFl39Rg0T07nZG8RJ78    Armour     100
+ab  Fr4EOvOY2x1yqpUPKkPG35qt1SCF VNemexOFEVAKrFfiLYAoYg        HpBottle    1000
+ti Fr4EOvOY2x1yqpUPKkPG35qt1SCF      VNemexOFEVAKrFfiLYAoYg
+use      Fr4EOvOY2x1yqpUPKkPG35qt1SCF   VNemexOFEVAKrFfiLYAoYg       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae zB8rxHdqiRt     49xRblO2kfT0pRhYG8HzZcg5BM Armour     100
+ab P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk ddvWpTKhVYKTGWmSqLtH3l64Aojo8vm_Uf7M       HpBottle    1000
+ti  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       ddvWpTKhVYKTGWmSqLtH3l64Aojo8vm_Uf7M
+use        P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     ddvWpTKhVYKTGWmSqLtH3l64Aojo8vm_Uf7M        zB8rxHdqiRt
+ls    17WyuL3mfSDprNhQ57Bw278bXrXLySd  f9qV_uLFFWXMHEWpJ      AttackSpell        12  71
+ae       jo6H6Dt9Hl7uoaIbuVx3ea   1KjJRYPOItSEWMA7B1oqD1DZh1YGlQw38HP    Armour 100
+ab       itfT0tKmL7gO       JcXiwKk6QGcPRVAFM        HpBottle   1000
+ti itfT0tKmL7gO  JcXiwKk6QGcPRVAFM
+use       itfT0tKmL7gO    JcXiwKk6QGcPRVAFM       jo6H6Dt9Hl7uoaIbuVx3ea
+use   ACntKTNYFZ9sOqPf38qIkyd   OX9TdcHbovUFiKaGPw5E8h17RGbeSbA6N        itfT0tKmL7gO
+use        a24A6kttI9KYkz0zb1q        UDlKnwQ2KcTkUfOj5_AfvuDuJNx     KIJydPySUG_g4MKoH7xji8z0oCC
+ae   RZb3JDhLf6B   2WdmHFdtxGjAspQ1NllS6        Armour      100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC       7XTvBgC_l4Zdhx     HpBottle  1000
+ti  KIJydPySUG_g4MKoH7xji8z0oCC     7XTvBgC_l4Zdhx
+use      KIJydPySUG_g4MKoH7xji8z0oCC       7XTvBgC_l4Zdhx  RZb3JDhLf6B
+use       BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    KkG5SvIDiru       itfT0tKmL7gO
+ae FsXE5Yt7xafF_  zjhefCu7Vx8yxAkjSzt56O9      Armour    100
+ab        2BJYLqdPump0Qv1   hOwoqYSbvgoZRRkqaJPK4VFYs1EVH   HpBottle     1000
+ti        2BJYLqdPump0Qv1        hOwoqYSbvgoZRRkqaJPK4VFYs1EVH
+use 2BJYLqdPump0Qv1 hOwoqYSbvgoZRRkqaJPK4VFYs1EVH    FsXE5Yt7xafF_
+bi   Bjn_YA5fD4efE7kIlrG2glAcv        nfBdayfoPzvIltipa    Magicbook
+ls    Bjn_YA5fD4efE7kIlrG2glAcv     GFxAcTdnjtgcv    AttackSpell       26   141
+use     VBRkioBmS93oMD4HOL7aEkjwGSwi  PgEuzD7cnKO        gbUS0RYThGCBEnrK14mYoA
+ae      RZb3JDhLf6B   s6lcLnR7jPNG5TqhgIL_6LmRJqd Armour    100
+ab     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       38OmTgnmAeYORwfyJdMHj6az   HpBottle      1000
+ti     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    38OmTgnmAeYORwfyJdMHj6az
+use  BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     38OmTgnmAeYORwfyJdMHj6az      RZb3JDhLf6B
+bi  Fr4EOvOY2x1yqpUPKkPG35qt1SCF    Qgks_jqzpgERXe3Rdyw7ikB0KKAl7PDf     Sword
+ae FsXE5Yt7xafF_    FAz8MDmWYLluSv9sD0uo8hakg3EX2w   Armour   100
+ab        qQq01KnJ_NAFHs_L1a   r_qqFbOPm8LNCNh3dUsH82SMokHHvRpxgvMzk    HpBottle 1000
+ti  qQq01KnJ_NAFHs_L1a     r_qqFbOPm8LNCNh3dUsH82SMokHHvRpxgvMzk
+use     qQq01KnJ_NAFHs_L1a  r_qqFbOPm8LNCNh3dUsH82SMokHHvRpxgvMzk  FsXE5Yt7xafF_
+ri      Fr4EOvOY2x1yqpUPKkPG35qt1SCF     PqQUtuVunR1IcEx6veVMS50nQOKb9ncYFTdEe
+ae     z5EYi7iiP XH3AJHh3GBI1iQTQEy1NWhFpso9T7SQZS1K        Armour        100
+ab mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  3ldirdTxEF6UlNToU   HpBottle   1000
+ti     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  3ldirdTxEF6UlNToU
+use    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   3ldirdTxEF6UlNToU       z5EYi7iiP
+ae  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq m4JV6nLDtXA5P88nf_pXPIiCI   Armour 100
+ab        TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI       IZqmaZWD7Mke4AQviLCPCFKWID6rt3      HpBottle     1000
+ti       TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  IZqmaZWD7Mke4AQviLCPCFKWID6rt3
+use  TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI   IZqmaZWD7Mke4AQviLCPCFKWID6rt3        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ri      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     Cs3GKwfIeKsL1anAeXFee55mGu0AL8WCul3Jh
+ae    qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     FogYiDoXm  Armour     100
+ab  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk        zhu5b1FlUot01N      HpBottle 1000
+ti     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     zhu5b1FlUot01N
+use      P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk       zhu5b1FlUot01N qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae RZb3JDhLf6B     Lg71BhEqxm5P9Z   Armour     100
+ab        17WyuL3mfSDprNhQ57Bw278bXrXLySd     6pyYIX1gGOvkthgPKV     HpBottle  1000
+ti 17WyuL3mfSDprNhQ57Bw278bXrXLySd        6pyYIX1gGOvkthgPKV
+use       17WyuL3mfSDprNhQ57Bw278bXrXLySd      6pyYIX1gGOvkthgPKV     RZb3JDhLf6B
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N      78qtvuIwHzLmFM4N2dNQbj0YMNQrSx7qP  Armour  100
+ab    itfT0tKmL7gO      XR_nrVmUQ_UJlp4ma6WRxV8F6K1PO2bZ0   HpBottle     1000
+ti     itfT0tKmL7gO    XR_nrVmUQ_UJlp4ma6WRxV8F6K1PO2bZ0
+use       itfT0tKmL7gO      XR_nrVmUQ_UJlp4ma6WRxV8F6K1PO2bZ0 MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri iphEfa8KCeCYyU_PZ qLZKtnBys3Jgy8HlefR19XmlOGsusg2
+ls      TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI       zArd54SyIOfatMOIBbWjr2wV195cZs       AttackSpell    2       248
+bi  qQq01KnJ_NAFHs_L1a        kkUEmQGq6h5xCdEpH Sword
+ls  yj8yvSg7Uea6SptHx5WOAoyYB5E      Kbjz3hRGDsUsWSlGkLui       AttackSpell   29        40
+use  _1YzLPKaH3BoxfHYIs5fZ5bQsC    FLPzj9GSZ2y7XBfhulo5VKwixtR2Ad_        gbUS0RYThGCBEnrK14mYoA
+ls    KIJydPySUG_g4MKoH7xji8z0oCC        Ve7i0W0hPgsewweD5wlOuaQ0        AttackSpell   21   27
+bi   17WyuL3mfSDprNhQ57Bw278bXrXLySd        dRg9U8qO0OPnlsUaUbkesxwsFZ  Sword
+ls        Fr4EOvOY2x1yqpUPKkPG35qt1SCF   Nez68u7G4hmAVGtMD      AttackSpell    28     259
+use VBRkioBmS93oMD4HOL7aEkjwGSwi     BlYcDfPkUF6zN2Cke   P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk
+ae    z5EYi7iiP     1gXi9G4JWcsLdVB      Armour   100
+ab  KIJydPySUG_g4MKoH7xji8z0oCC 0E50aUz1QEJkxNAgpuLE9bjrX HpBottle       1000
+ti KIJydPySUG_g4MKoH7xji8z0oCC      0E50aUz1QEJkxNAgpuLE9bjrX
+use        KIJydPySUG_g4MKoH7xji8z0oCC   0E50aUz1QEJkxNAgpuLE9bjrX      z5EYi7iiP
+bi  itfT0tKmL7gO  m2LtpNsB0Zym3UYxeWlw3_IkG6txZlFCLRt8   AtkBottle
+ae     z5EYi7iiP   0J6ltcqQMzAoXDdwjAH  Armour 100
+ab hzilihtl21Lzp73q7  vGIWUgufjvexCo2U_c   HpBottle 1000
+ti    hzilihtl21Lzp73q7  vGIWUgufjvexCo2U_c
+use  hzilihtl21Lzp73q7       vGIWUgufjvexCo2U_c        z5EYi7iiP
+bi       17WyuL3mfSDprNhQ57Bw278bXrXLySd        l40eM44G7YhDBu6mrQwUcFjVlNA8i8sQnK       Sword
+ae      RZb3JDhLf6B        9JfJ7K_zS1hRfbQym1seRLM2   Armour    100
+ab        iphEfa8KCeCYyU_PZ   EWB_EY5umSPz3xGxyy4yvIoX1CQyFq        HpBottle 1000
+ti iphEfa8KCeCYyU_PZ   EWB_EY5umSPz3xGxyy4yvIoX1CQyFq
+use      iphEfa8KCeCYyU_PZ       EWB_EY5umSPz3xGxyy4yvIoX1CQyFq    RZb3JDhLf6B
+ae       RZb3JDhLf6B        DzRyEExqkQE4UVspdtmQAE_El     Armour     100
+ab      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy       71Ho6GOkmWp4AQRK7QKMwKYyMcWzmh7rM    HpBottle    1000
+ti     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    71Ho6GOkmWp4AQRK7QKMwKYyMcWzmh7rM
+use      BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy    71Ho6GOkmWp4AQRK7QKMwKYyMcWzmh7rM    RZb3JDhLf6B
+ae MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N    SZP1NfHh      Armour       100
+ab        Bjn_YA5fD4efE7kIlrG2glAcv        hCRwF296weUzW3QbpbDnCnn0zWx4wqltkinCdfC HpBottle 1000
+ti     Bjn_YA5fD4efE7kIlrG2glAcv   hCRwF296weUzW3QbpbDnCnn0zWx4wqltkinCdfC
+use Bjn_YA5fD4efE7kIlrG2glAcv   hCRwF296weUzW3QbpbDnCnn0zWx4wqltkinCdfC       MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ri       hzilihtl21Lzp73q7   7AKsFlkFD8nr1R0dc3AUceOgdhEHzf9APzOor
+use     qQq01KnJ_NAFHs_L1a   UAEVF1SOCrH_9tIUQYYpGy70eEHTDy   VBRkioBmS93oMD4HOL7aEkjwGSwi
+ae  njBP9r4IlBAk2CnbvMpR34k51JP    pMtnoY5uMnbb219QvQN_Ce400OE        Armour 100
+ab  TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  xDWObXGAOv   HpBottle        1000
+ti    TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  xDWObXGAOv
+use   TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI  xDWObXGAOv  njBP9r4IlBAk2CnbvMpR34k51JP
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N       9FhrumGnuIHhUa1U90rws3NJh      Armour       100
+ab     gbUS0RYThGCBEnrK14mYoA       AJDFhHi2X1nl4tieuj2eMf1NDrLca5OkpMl  HpBottle        1000
+ti     gbUS0RYThGCBEnrK14mYoA       AJDFhHi2X1nl4tieuj2eMf1NDrLca5OkpMl
+use    gbUS0RYThGCBEnrK14mYoA    AJDFhHi2X1nl4tieuj2eMf1NDrLca5OkpMl  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+ae       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS        fl8D7L_1sh4vsdmEe9qpJ6MD   Armour    100
+ab   VBRkioBmS93oMD4HOL7aEkjwGSwi       UnWUQo2g_6raS1PJtWQ6v3kH8d_jS533o9t       HpBottle    1000
+ti  VBRkioBmS93oMD4HOL7aEkjwGSwi UnWUQo2g_6raS1PJtWQ6v3kH8d_jS533o9t
+use     VBRkioBmS93oMD4HOL7aEkjwGSwi  UnWUQo2g_6raS1PJtWQ6v3kH8d_jS533o9t       DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ri Bjn_YA5fD4efE7kIlrG2glAcv     hCRwF296weUzW3QbpbDnCnn0zWx4wqltkinCdfC
+ae njBP9r4IlBAk2CnbvMpR34k51JP  MOEBNo5HnPtKr0yPIvpD2dWBk6      Armour   100
+ab  2BJYLqdPump0Qv1      yagA80e22_EXmqiPFk2StvGr7     HpBottle       1000
+ti       2BJYLqdPump0Qv1      yagA80e22_EXmqiPFk2StvGr7
+use     2BJYLqdPump0Qv1  yagA80e22_EXmqiPFk2StvGr7   njBP9r4IlBAk2CnbvMpR34k51JP
+ri      2BJYLqdPump0Qv1        yagA80e22_EXmqiPFk2StvGr7
+ls        Bjn_YA5fD4efE7kIlrG2glAcv     y5c5rT1R7HSIBLsF6rK1BGBUuWNai3bAoP    HealSpell   22  207
+use   VBRkioBmS93oMD4HOL7aEkjwGSwi       IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun  cD5PTXSngIvj63RjGM8ZLYqbA
+ae   njBP9r4IlBAk2CnbvMpR34k51JP  Ao58z9fsjxoTOiXPsVatt0GCx9p   Armour 100
+ab P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk  0EETVTZ9TlNJaZagLMN   HpBottle       1000
+ti     P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk 0EETVTZ9TlNJaZagLMN
+use  P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk     0EETVTZ9TlNJaZagLMN     njBP9r4IlBAk2CnbvMpR34k51JP
+ae  zB8rxHdqiRt    vihThGumG7eje1R     Armour 100
+ab    17WyuL3mfSDprNhQ57Bw278bXrXLySd v8FrAfLqOl_44LgiPxIoLuOPR    HpBottle      1000
+ti 17WyuL3mfSDprNhQ57Bw278bXrXLySd       v8FrAfLqOl_44LgiPxIoLuOPR
+use      17WyuL3mfSDprNhQ57Bw278bXrXLySd    v8FrAfLqOl_44LgiPxIoLuOPR zB8rxHdqiRt
+bi    BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy     ORmMYenmYKiQqVvTSAVi7ovJ_waMjnjJJWd2BED   Magicbook
+ae    FsXE5Yt7xafF_  E1BridiuIgfIa3     Armour   100
+ab  iphEfa8KCeCYyU_PZ        4mI950RhgjIT34RY   HpBottle        1000
+ti        iphEfa8KCeCYyU_PZ       4mI950RhgjIT34RY
+use    iphEfa8KCeCYyU_PZ   4mI950RhgjIT34RY     FsXE5Yt7xafF_
+ae   njBP9r4IlBAk2CnbvMpR34k51JP       vI22u7cnzjW4TQntUWQEGeaEsOJ_37hbWFXjjs08   Armour    100
+ab   2BJYLqdPump0Qv1       0rWMZwba2idQimn0OWC       HpBottle      1000
+ti   2BJYLqdPump0Qv1       0rWMZwba2idQimn0OWC
+use        2BJYLqdPump0Qv1    0rWMZwba2idQimn0OWC       njBP9r4IlBAk2CnbvMpR34k51JP
+use    Fr4EOvOY2x1yqpUPKkPG35qt1SCF     Vdz5bCNpAwexwB3saEjrBBFflSkShWWh       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6
+ae     njBP9r4IlBAk2CnbvMpR34k51JP  lmGOas0EAtyIeS3Zf1KA1pH7d8    Armour       100
+ab    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6     Xp5zgBqE5APX4rm5K6OfR     HpBottle    1000
+ti     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      Xp5zgBqE5APX4rm5K6OfR
+use       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6       Xp5zgBqE5APX4rm5K6OfR  njBP9r4IlBAk2CnbvMpR34k51JP
+ae        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     yhq7G32I0hePStIYYD2L2d2S2Uh1d5BuYKM  Armour       100
+ab        yj8yvSg7Uea6SptHx5WOAoyYB5E   DR_77udaBuLVW93HwAWduWmrxjVjyAZcC_yOJ        HpBottle        1000
+ti  yj8yvSg7Uea6SptHx5WOAoyYB5E DR_77udaBuLVW93HwAWduWmrxjVjyAZcC_yOJ
+use yj8yvSg7Uea6SptHx5WOAoyYB5E  DR_77udaBuLVW93HwAWduWmrxjVjyAZcC_yOJ       qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      qcHqWnsgbHjc7ChOA2fWXQ_6q7LjbXw4sf9aT    hzilihtl21Lzp73q7
+ls    qQq01KnJ_NAFHs_L1a    jfrBYsOxaY1b_   AttackSpell    12     259
+ae      RZb3JDhLf6B       onJEeOhdss7dz2NqcNKT       Armour       100
+ab     Bjn_YA5fD4efE7kIlrG2glAcv gvf9bVNw2jjmB HpBottle       1000
+ti  Bjn_YA5fD4efE7kIlrG2glAcv     gvf9bVNw2jjmB
+use   Bjn_YA5fD4efE7kIlrG2glAcv        gvf9bVNw2jjmB    RZb3JDhLf6B
+use     TDx2PznRoRbZRi_y5gXEf4XNiq2zVHBI    uo6XCPqLCcH8pRoL7TbihX6dziIbSqXMoHZwyJ    qQq01KnJ_NAFHs_L1a
+ls  itfT0tKmL7gO        OY0D1MmDxGJktm1sENnf90DYhxr9j3uu6ob       AttackSpell    25   185
+ae  qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq       nJ2jRx0THr_Zq2fvfg9Wa99ubY    Armour     100
+ab     KIJydPySUG_g4MKoH7xji8z0oCC    DwREaWbv2hEA    HpBottle    1000
+ti        KIJydPySUG_g4MKoH7xji8z0oCC   DwREaWbv2hEA
+use KIJydPySUG_g4MKoH7xji8z0oCC  DwREaWbv2hEA   qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ae      jo6H6Dt9Hl7uoaIbuVx3ea        7Wfx656Izn83kE7K0nKFSuQJY4oi0jHS   Armour     100
+ab     mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    t1VjHbfk5hqP3pmlIgcjnN70Dyd   HpBottle        1000
+ti   mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6  t1VjHbfk5hqP3pmlIgcjnN70Dyd
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6        t1VjHbfk5hqP3pmlIgcjnN70Dyd    jo6H6Dt9Hl7uoaIbuVx3ea
+bi  2BJYLqdPump0Qv1       Q2e8IM0cbAls3QMSmFavvgJo      HpBottle
+use gbUS0RYThGCBEnrK14mYoA     Qrhjxv5K 2BJYLqdPump0Qv1
+bi     hzilihtl21Lzp73q7  F3PGImGaTKApoUB_KOGAOc Sword
+use  VBRkioBmS93oMD4HOL7aEkjwGSwi   IZ1x5aGsK8i6NXdm9ZhgKlUjy3XzqXD9mVUun   qQq01KnJ_NAFHs_L1a
+ri    ACntKTNYFZ9sOqPf38qIkyd       WfyO1IMCgZ0IO91z5s0a_omsbs7E
+bi  S23C9mwhhWUuPIVEnU8JEq  5UJ_U5mRJJBW_ES63Bd        AtkBottle
+bi   KIJydPySUG_g4MKoH7xji8z0oCC      FFgdst1mKmZmXjN1SZ9VDsEc       AtkBottle
+ae   njBP9r4IlBAk2CnbvMpR34k51JP        t14apYB9o9ZusX2QoRLzwq9oMFNaoBjaT  Armour        100
+ab  S23C9mwhhWUuPIVEnU8JEq  LM1HbuoZHqkLySeaR1dlE_  HpBottle       1000
+ti S23C9mwhhWUuPIVEnU8JEq   LM1HbuoZHqkLySeaR1dlE_
+use      S23C9mwhhWUuPIVEnU8JEq     LM1HbuoZHqkLySeaR1dlE_   njBP9r4IlBAk2CnbvMpR34k51JP
+ae     jo6H6Dt9Hl7uoaIbuVx3ea       MD_mJs3LS7346lnt1GFv0PY  Armour 100
+ab       VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX        32e2UMCG3xFLkYsZshZ5MScMQqZfJ        HpBottle  1000
+ti    VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX   32e2UMCG3xFLkYsZshZ5MScMQqZfJ
+use VSLRxWACjsbw86oi_v9JPIS7QosfoXhR8d3jX     32e2UMCG3xFLkYsZshZ5MScMQqZfJ    jo6H6Dt9Hl7uoaIbuVx3ea
+ae njBP9r4IlBAk2CnbvMpR34k51JP  jt8z5NweF   Armour     100
+ab    VBRkioBmS93oMD4HOL7aEkjwGSwi        ZtlgN8AxKquJ_5a3       HpBottle  1000
+ti   VBRkioBmS93oMD4HOL7aEkjwGSwi    ZtlgN8AxKquJ_5a3
+use  VBRkioBmS93oMD4HOL7aEkjwGSwi      ZtlgN8AxKquJ_5a3       njBP9r4IlBAk2CnbvMpR34k51JP
+ri   2BJYLqdPump0Qv1  dVAl4wwVmlD9vPneFz6nBU
+ae      jo6H6Dt9Hl7uoaIbuVx3ea     rVj1xsiUVyZE0D6irov1AO2AuKyTlzvFprhp688i    Armour        100
+ab      S23C9mwhhWUuPIVEnU8JEq     EpI113S8IM_EFUDv0Ti4z        HpBottle 1000
+ti     S23C9mwhhWUuPIVEnU8JEq       EpI113S8IM_EFUDv0Ti4z
+use   S23C9mwhhWUuPIVEnU8JEq        EpI113S8IM_EFUDv0Ti4z        jo6H6Dt9Hl7uoaIbuVx3ea
+ae      DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS    hKClKxWhixVaP2LE1L8      Armour     100
+ab   ACntKTNYFZ9sOqPf38qIkyd     0pc6OKiwkZgl7G9miR9U2VAS       HpBottle        1000
+ti     ACntKTNYFZ9sOqPf38qIkyd   0pc6OKiwkZgl7G9miR9U2VAS
+use        ACntKTNYFZ9sOqPf38qIkyd 0pc6OKiwkZgl7G9miR9U2VAS  DG42oT_BVYqXcMUY6QHFQE9IIthwUaOS
+ae z5EYi7iiP  YIQdRN06Jc       Armour 100
+ab        gbUS0RYThGCBEnrK14mYoA    kS0EK64_eEtHm5MQLanGq       HpBottle    1000
+ti        gbUS0RYThGCBEnrK14mYoA   kS0EK64_eEtHm5MQLanGq
+use     gbUS0RYThGCBEnrK14mYoA kS0EK64_eEtHm5MQLanGq        z5EYi7iiP
+ls       17WyuL3mfSDprNhQ57Bw278bXrXLySd  63dW2avxOFaztY HealSpell      22    78
+ae      njBP9r4IlBAk2CnbvMpR34k51JP   P9sKrkyd2jtzhZYFEmTQGP6kRWhZIvTWi       Armour        100
+ab    _1YzLPKaH3BoxfHYIs5fZ5bQsC    cGxBvC99mQG2SWwP1EcJsJBMD64g     HpBottle    1000
+ti    _1YzLPKaH3BoxfHYIs5fZ5bQsC  cGxBvC99mQG2SWwP1EcJsJBMD64g
+use        _1YzLPKaH3BoxfHYIs5fZ5bQsC    cGxBvC99mQG2SWwP1EcJsJBMD64g     njBP9r4IlBAk2CnbvMpR34k51JP
+use       Bjn_YA5fD4efE7kIlrG2glAcv  GFxAcTdnjtgcv      ACntKTNYFZ9sOqPf38qIkyd
+bi   17WyuL3mfSDprNhQ57Bw278bXrXLySd  M5oc8CDsdRB6rWcS269fsX6vmmi2ILLzSoAE63R  HpBottle
+ae      RZb3JDhLf6B   paFAtcivz65GagScxy_Quj5     Armour  100
+ab       S23C9mwhhWUuPIVEnU8JEq  8d2wXu6g3lPio5K4BoLjYdJwAE4InGDFPna      HpBottle        1000
+ti      S23C9mwhhWUuPIVEnU8JEq     8d2wXu6g3lPio5K4BoLjYdJwAE4InGDFPna
+use S23C9mwhhWUuPIVEnU8JEq      8d2wXu6g3lPio5K4BoLjYdJwAE4InGDFPna    RZb3JDhLf6B
+ri S23C9mwhhWUuPIVEnU8JEq    Edg0GFD6xr
+bi       P5DkbJ7jvgrfJfkPIi8HJRJigQ3YTn4fsuHk    T0zGl3_6GSTRzs      HpBottle
+rr   2BJYLqdPump0Qv1    itfT0tKmL7gO
+ae        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq     zUJIfv0cprnOV4MtwdFl6vSFdkh       Armour        100
+ab   a24A6kttI9KYkz0zb1q       TQGpDV1rmRtIfIkLbZ_lTueZdB     HpBottle      1000
+ti     a24A6kttI9KYkz0zb1q   TQGpDV1rmRtIfIkLbZ_lTueZdB
+use      a24A6kttI9KYkz0zb1q       TQGpDV1rmRtIfIkLbZ_lTueZdB        qyT2UkW1AKXOF7tvLReXXGGTWL5RxcqFRq
+ls   iphEfa8KCeCYyU_PZ      Gyc8UeRtoMASy5Wr3mVSd38Vk5      HealSpell    1    103
+use     BEfO0Fnvhliil_zUuzAf_KjA0nxZ7sTWRUy  71Ho6GOkmWp4AQRK7QKMwKYyMcWzmh7rM  KIJydPySUG_g4MKoH7xji8z0oCC
+use Bjn_YA5fD4efE7kIlrG2glAcv        GFxAcTdnjtgcv  _1YzLPKaH3BoxfHYIs5fZ5bQsC
+ae    zB8rxHdqiRt   JPVeS45pAu7ke3bAby72bsywbyMlbx58R5     Armour 100
+ab    yj8yvSg7Uea6SptHx5WOAoyYB5E Mhe5h757vnV1NpN0w3v49n    HpBottle       1000
+ti    yj8yvSg7Uea6SptHx5WOAoyYB5E    Mhe5h757vnV1NpN0w3v49n
+use      yj8yvSg7Uea6SptHx5WOAoyYB5E Mhe5h757vnV1NpN0w3v49n zB8rxHdqiRt
+ae    RZb3JDhLf6B   AgY2Qz3KfmW1g8Ij8VuUIGG3CKdPZ6QHxyCt   Armour 100
+ab      mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   lT7IaMKwi5tDDK2QBf_      HpBottle       1000
+ti       mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6   lT7IaMKwi5tDDK2QBf_
+use  mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6    lT7IaMKwi5tDDK2QBf_      RZb3JDhLf6B
+ae   FsXE5Yt7xafF_    wlSbSkqgxokIWJPlb Armour       100
+ab  VBRkioBmS93oMD4HOL7aEkjwGSwi        HLzzZZoq5UQ3l4K2ANufnhLnlU_IGy      HpBottle    1000
+ti  VBRkioBmS93oMD4HOL7aEkjwGSwi   HLzzZZoq5UQ3l4K2ANufnhLnlU_IGy
+use     VBRkioBmS93oMD4HOL7aEkjwGSwi     HLzzZZoq5UQ3l4K2ANufnhLnlU_IGy  FsXE5Yt7xafF_
+rr      gbUS0RYThGCBEnrK14mYoA   Fr4EOvOY2x1yqpUPKkPG35qt1SCF
+ae  MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N   nEDCZMAwtnl     Armour    100
+ab Bjn_YA5fD4efE7kIlrG2glAcv  EMxQnHD3NXAC40J8SKbSGNyMkA8Gzg    HpBottle      1000
+ti       Bjn_YA5fD4efE7kIlrG2glAcv EMxQnHD3NXAC40J8SKbSGNyMkA8Gzg
+use     Bjn_YA5fD4efE7kIlrG2glAcv      EMxQnHD3NXAC40J8SKbSGNyMkA8Gzg    MmGiqg5e0LtoCyBDM4qjsyjhc9lwfdG5SDv_CD8N
+lr  2BJYLqdPump0Qv1(Fr4EOvOY2x1yqpUPKkPG35qt1SCF(mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6),itfT0tKmL7gO)
+fight    mLixXS5rRT9VSZGxd_9pCHCyY7VLB21irb6      1      2BJYLqdPump0Qv1

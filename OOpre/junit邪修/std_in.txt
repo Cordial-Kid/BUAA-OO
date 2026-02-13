@@ -1,0 +1,501 @@
+500
+aa  dM0eSxZkyoyXG6Zg5y0
+aa    3WEvKa
+aa     mVuvko8MxlDXE8uN6xsdOQ_3
+aa     Uxy
+aa  aOXN3XvM97R7_qxyr
+aa    92WlI5WA01bYj8a2nCXRtWlg
+lr     dM0eSxZkyoyXG6Zg5y0(3WEvKa,mVuvko8MxlDXE8uN6xsdOQ_3,Uxy)
+fight    3WEvKa  1   dM0eSxZkyoyXG6Zg5y0
+fight  mVuvko8MxlDXE8uN6xsdOQ_3    1    dM0eSxZkyoyXG6Zg5y0
+ae     3WEvKa   zPsn Sword     150
+ti    3WEvKa  zPsn
+fight 3WEvKa  1    mVuvko8MxlDXE8uN6xsdOQ_3
+ls    Uxy     R9sYGQ     HealSpell     11     269
+bi  92WlI5WA01bYj8a2nCXRtWlg     WLcKT DefBottle
+use   92WlI5WA01bYj8a2nCXRtWlg    WLcKT   92WlI5WA01bYj8a2nCXRtWlg
+lr     Uxy(92WlI5WA01bYj8a2nCXRtWlg)
+bi  mVuvko8MxlDXE8uN6xsdOQ_3     f_q8r2MNSxPOfoe4VBM4 AtkBottle
+ls   Uxy   Qlo     AttackSpell 15   163
+bi  dM0eSxZkyoyXG6Zg5y0     z_8K3gd2mQNIcIlEt2z923p   Sword
+ls  aOXN3XvM97R7_qxyr MXea_Cc2 AttackSpell 10    50
+use     aOXN3XvM97R7_qxyr MXea_Cc2     3WEvKa
+bi     aOXN3XvM97R7_qxyr     HQrB  Sword
+ri  aOXN3XvM97R7_qxyr  HQrB
+ls Uxy   _TEaDUx    HealSpell 15 94
+bi    3WEvKa  qFv6i9_   Armour
+rr   dM0eSxZkyoyXG6Zg5y0    Uxy
+bi   dM0eSxZkyoyXG6Zg5y0   c51hZfMTM2_o5h8MKIgn  DefBottle
+rr   Uxy  92WlI5WA01bYj8a2nCXRtWlg
+use mVuvko8MxlDXE8uN6xsdOQ_3     f_q8r2MNSxPOfoe4VBM4  aOXN3XvM97R7_qxyr
+ar   dM0eSxZkyoyXG6Zg5y0 Uxy
+ar dM0eSxZkyoyXG6Zg5y0   aOXN3XvM97R7_qxyr
+ar dM0eSxZkyoyXG6Zg5y0  92WlI5WA01bYj8a2nCXRtWlg
+fight    Uxy    1  dM0eSxZkyoyXG6Zg5y0
+fight aOXN3XvM97R7_qxyr     1   dM0eSxZkyoyXG6Zg5y0
+ae     Uxy   nRt3kP    Sword   150
+ti Uxy  nRt3kP
+fight Uxy  1 aOXN3XvM97R7_qxyr
+ab   3WEvKa  8RzX02mFUUj833VePZ   HpBottle 50
+ti    3WEvKa    8RzX02mFUUj833VePZ
+use  3WEvKa     8RzX02mFUUj833VePZ  92WlI5WA01bYj8a2nCXRtWlg
+ri     3WEvKa     8RzX02mFUUj833VePZ
+use 92WlI5WA01bYj8a2nCXRtWlg  WLcKT    3WEvKa
+ri    92WlI5WA01bYj8a2nCXRtWlg    WLcKT
+ls    dM0eSxZkyoyXG6Zg5y0    UCL4tenyeYCodhq    HealSpell  5   130
+use     aOXN3XvM97R7_qxyr MXea_Cc2     dM0eSxZkyoyXG6Zg5y0
+rr     dM0eSxZkyoyXG6Zg5y0   92WlI5WA01bYj8a2nCXRtWlg
+bi    92WlI5WA01bYj8a2nCXRtWlg   gkNutu   Sword
+ri     Uxy     nRt3kP
+ab     92WlI5WA01bYj8a2nCXRtWlg N1LqGjN  DefBottle 50
+ti    92WlI5WA01bYj8a2nCXRtWlg N1LqGjN
+use 92WlI5WA01bYj8a2nCXRtWlg  N1LqGjN   mVuvko8MxlDXE8uN6xsdOQ_3
+bi    dM0eSxZkyoyXG6Zg5y0 UAPZ8z8BAH5ou_plwba AtkBottle
+bi   aOXN3XvM97R7_qxyr    StZw  HpBottle
+ls    3WEvKa JkQk   AttackSpell    3 110
+bi  mVuvko8MxlDXE8uN6xsdOQ_3     lwQo8L2kIFb0f7ULIy DefBottle
+ri     mVuvko8MxlDXE8uN6xsdOQ_3    f_q8r2MNSxPOfoe4VBM4
+ri    dM0eSxZkyoyXG6Zg5y0    c51hZfMTM2_o5h8MKIgn
+ri    92WlI5WA01bYj8a2nCXRtWlg  gkNutu
+rr  dM0eSxZkyoyXG6Zg5y0   Uxy
+ls    mVuvko8MxlDXE8uN6xsdOQ_3   yxP2F7iE8PgSMxwUM5FZN     AttackSpell    10   50
+use   mVuvko8MxlDXE8uN6xsdOQ_3   yxP2F7iE8PgSMxwUM5FZN   aOXN3XvM97R7_qxyr
+bi  mVuvko8MxlDXE8uN6xsdOQ_3  kyU_nCBedjV    ManaBottle
+use   mVuvko8MxlDXE8uN6xsdOQ_3     lwQo8L2kIFb0f7ULIy    aOXN3XvM97R7_qxyr
+ri   dM0eSxZkyoyXG6Zg5y0  z_8K3gd2mQNIcIlEt2z923p
+bi     dM0eSxZkyoyXG6Zg5y0   mVmqLshEqN  Armour
+bi  92WlI5WA01bYj8a2nCXRtWlg    QRNjUe  Magicbook
+rr    dM0eSxZkyoyXG6Zg5y0  mVuvko8MxlDXE8uN6xsdOQ_3
+lr   dM0eSxZkyoyXG6Zg5y0(mVuvko8MxlDXE8uN6xsdOQ_3,Uxy,92WlI5WA01bYj8a2nCXRtWlg)
+fight  mVuvko8MxlDXE8uN6xsdOQ_3   1    dM0eSxZkyoyXG6Zg5y0
+fight   Uxy  1    dM0eSxZkyoyXG6Zg5y0
+ae   mVuvko8MxlDXE8uN6xsdOQ_3     F_nQ0cnwoHwCF9   Sword 150
+ti  mVuvko8MxlDXE8uN6xsdOQ_3   F_nQ0cnwoHwCF9
+fight    mVuvko8MxlDXE8uN6xsdOQ_3 1  Uxy
+ls     mVuvko8MxlDXE8uN6xsdOQ_3  WTxaHix3P5JijOEnm4I     HealSpell 12  18
+bi  dM0eSxZkyoyXG6Zg5y0   dlkCz5R_1GwnN Armour
+bi   Uxy  mcy2pGm0FpFdCuh9NlRIVa   AtkBottle
+ri     dM0eSxZkyoyXG6Zg5y0     dlkCz5R_1GwnN
+ls    92WlI5WA01bYj8a2nCXRtWlg     WX0y2K97oHFLCNQN   AttackSpell  10   50
+use     92WlI5WA01bYj8a2nCXRtWlg WX0y2K97oHFLCNQN     mVuvko8MxlDXE8uN6xsdOQ_3
+bi  aOXN3XvM97R7_qxyr    lmRMTr Magicbook
+ls  Uxy    15TYnDJR3VGgb8toksW0  HealSpell    1  88
+use    aOXN3XvM97R7_qxyr  MXea_Cc2 dM0eSxZkyoyXG6Zg5y0
+ri 92WlI5WA01bYj8a2nCXRtWlg  N1LqGjN
+rr   dM0eSxZkyoyXG6Zg5y0    3WEvKa
+bi   mVuvko8MxlDXE8uN6xsdOQ_3    OxyJYomRMv     HpBottle
+use   dM0eSxZkyoyXG6Zg5y0     UAPZ8z8BAH5ou_plwba   92WlI5WA01bYj8a2nCXRtWlg
+ls     aOXN3XvM97R7_qxyr  nDfGQxZqo_20YiI9kjmdlV2   HealSpell     8   294
+ab  92WlI5WA01bYj8a2nCXRtWlg sm7JnsQseBaDWgKvGkSxaHx  AtkBottle     50
+ti 92WlI5WA01bYj8a2nCXRtWlg   sm7JnsQseBaDWgKvGkSxaHx
+use  92WlI5WA01bYj8a2nCXRtWlg    sm7JnsQseBaDWgKvGkSxaHx mVuvko8MxlDXE8uN6xsdOQ_3
+bi    92WlI5WA01bYj8a2nCXRtWlg    tBPYCH   AtkBottle
+use     Uxy     Qlo   aOXN3XvM97R7_qxyr
+use  mVuvko8MxlDXE8uN6xsdOQ_3     WTxaHix3P5JijOEnm4I  92WlI5WA01bYj8a2nCXRtWlg
+bi    dM0eSxZkyoyXG6Zg5y0   1we  Armour
+bi    3WEvKa   msiAqV5DHI3qnk    Magicbook
+ri   3WEvKa     qFv6i9_
+use    dM0eSxZkyoyXG6Zg5y0  UAPZ8z8BAH5ou_plwba     mVuvko8MxlDXE8uN6xsdOQ_3
+lr   3WEvKa(dM0eSxZkyoyXG6Zg5y0)
+bi Uxy KtBQW6EiYs4mYV     Sword
+bi     92WlI5WA01bYj8a2nCXRtWlg     InI4_x    Armour
+ls   aOXN3XvM97R7_qxyr    muiMQyF  AttackSpell 17 264
+ls   92WlI5WA01bYj8a2nCXRtWlg     iArhfVZQimVLI33lF4qNu HealSpell    21  53
+use    92WlI5WA01bYj8a2nCXRtWlg     sm7JnsQseBaDWgKvGkSxaHx aOXN3XvM97R7_qxyr
+ri    mVuvko8MxlDXE8uN6xsdOQ_3    lwQo8L2kIFb0f7ULIy
+use    Uxy mcy2pGm0FpFdCuh9NlRIVa  mVuvko8MxlDXE8uN6xsdOQ_3
+ri 92WlI5WA01bYj8a2nCXRtWlg     sm7JnsQseBaDWgKvGkSxaHx
+use   mVuvko8MxlDXE8uN6xsdOQ_3   OxyJYomRMv   aOXN3XvM97R7_qxyr
+use     aOXN3XvM97R7_qxyr   StZw  mVuvko8MxlDXE8uN6xsdOQ_3
+use    Uxy R9sYGQ    aOXN3XvM97R7_qxyr
+ri  92WlI5WA01bYj8a2nCXRtWlg  QRNjUe
+use 92WlI5WA01bYj8a2nCXRtWlg     tBPYCH    Uxy
+bi   92WlI5WA01bYj8a2nCXRtWlg    haiWLI1     AtkBottle
+ri     aOXN3XvM97R7_qxyr lmRMTr
+ri Uxy   mcy2pGm0FpFdCuh9NlRIVa
+ls   mVuvko8MxlDXE8uN6xsdOQ_3 R6RKLOct_4QRY     AttackSpell    21  95
+bi  Uxy  f_7Jb   HpBottle
+ls     Uxy     _1Xb  HealSpell     20   181
+ri  92WlI5WA01bYj8a2nCXRtWlg InI4_x
+use     Uxy  f_7Jb   dM0eSxZkyoyXG6Zg5y0
+rr     3WEvKa   dM0eSxZkyoyXG6Zg5y0
+ri dM0eSxZkyoyXG6Zg5y0 mVmqLshEqN
+use   dM0eSxZkyoyXG6Zg5y0 UCL4tenyeYCodhq 92WlI5WA01bYj8a2nCXRtWlg
+ri    Uxy  f_7Jb
+bi     Uxy  oqFUbM_jm7YzIG6CVWx6AnRw   DefBottle
+ri 3WEvKa  zPsn
+bi  aOXN3XvM97R7_qxyr    Fyxb8xE42Sd9U_Zt8    AtkBottle
+ls    3WEvKa   9MGYNGc7qLQ09    HealSpell  1   66
+use   dM0eSxZkyoyXG6Zg5y0  UAPZ8z8BAH5ou_plwba   3WEvKa
+use   92WlI5WA01bYj8a2nCXRtWlg   iArhfVZQimVLI33lF4qNu    aOXN3XvM97R7_qxyr
+ri    dM0eSxZkyoyXG6Zg5y0     1we
+use  dM0eSxZkyoyXG6Zg5y0     UCL4tenyeYCodhq  Uxy
+ls     3WEvKa    n1O HealSpell   21 146
+ri  Uxy  oqFUbM_jm7YzIG6CVWx6AnRw
+ri  3WEvKa    msiAqV5DHI3qnk
+bi     Uxy     Fr_XGcVb6Nn6H     Armour
+bi   92WlI5WA01bYj8a2nCXRtWlg   gkhI4uaSZ DefBottle
+ls     dM0eSxZkyoyXG6Zg5y0  jJZUUs9nJmJLROc8te    HealSpell   10 7
+ar   mVuvko8MxlDXE8uN6xsdOQ_3   3WEvKa
+use mVuvko8MxlDXE8uN6xsdOQ_3     OxyJYomRMv    92WlI5WA01bYj8a2nCXRtWlg
+rr   mVuvko8MxlDXE8uN6xsdOQ_3    3WEvKa
+ar   3WEvKa    dM0eSxZkyoyXG6Zg5y0
+use    aOXN3XvM97R7_qxyr   muiMQyF mVuvko8MxlDXE8uN6xsdOQ_3
+bi   mVuvko8MxlDXE8uN6xsdOQ_3     rHbljFi6qGN3SgfZH    AtkBottle
+use     dM0eSxZkyoyXG6Zg5y0   UAPZ8z8BAH5ou_plwba Uxy
+ls 3WEvKa    4yZymHzDqgaZlk2tGrGG     AttackSpell    12  30
+bi   Uxy     YjEzaKDzt  DefBottle
+use mVuvko8MxlDXE8uN6xsdOQ_3    yxP2F7iE8PgSMxwUM5FZN     Uxy
+ri    aOXN3XvM97R7_qxyr  Fyxb8xE42Sd9U_Zt8
+use    Uxy    _1Xb    mVuvko8MxlDXE8uN6xsdOQ_3
+bi    Uxy zDqo6Xp7z0yo1aqo     ManaBottle
+bi mVuvko8MxlDXE8uN6xsdOQ_3   AnwHQQAWn1zJsjxe   Armour
+ls    dM0eSxZkyoyXG6Zg5y0   xrUrDTW  HealSpell 3   254
+use dM0eSxZkyoyXG6Zg5y0 UAPZ8z8BAH5ou_plwba    92WlI5WA01bYj8a2nCXRtWlg
+use  Uxy     YjEzaKDzt   aOXN3XvM97R7_qxyr
+ri     92WlI5WA01bYj8a2nCXRtWlg    haiWLI1
+ri   dM0eSxZkyoyXG6Zg5y0    UAPZ8z8BAH5ou_plwba
+use     aOXN3XvM97R7_qxyr   StZw    dM0eSxZkyoyXG6Zg5y0
+use     aOXN3XvM97R7_qxyr     nDfGQxZqo_20YiI9kjmdlV2   92WlI5WA01bYj8a2nCXRtWlg
+use    mVuvko8MxlDXE8uN6xsdOQ_3  yxP2F7iE8PgSMxwUM5FZN     aOXN3XvM97R7_qxyr
+ri  mVuvko8MxlDXE8uN6xsdOQ_3    kyU_nCBedjV
+use 92WlI5WA01bYj8a2nCXRtWlg tBPYCH  mVuvko8MxlDXE8uN6xsdOQ_3
+use   dM0eSxZkyoyXG6Zg5y0    UCL4tenyeYCodhq  92WlI5WA01bYj8a2nCXRtWlg
+bi   dM0eSxZkyoyXG6Zg5y0 VgO     Magicbook
+ri    aOXN3XvM97R7_qxyr     StZw
+ls     Uxy    _keKInPvMXe3OKCl HealSpell  8  158
+use 3WEvKa  JkQk   Uxy
+bi  3WEvKa     2dWHmnjpoHz_Bou    Sword
+use   92WlI5WA01bYj8a2nCXRtWlg  gkhI4uaSZ   aOXN3XvM97R7_qxyr
+ri   92WlI5WA01bYj8a2nCXRtWlg   tBPYCH
+use  92WlI5WA01bYj8a2nCXRtWlg    gkhI4uaSZ  Uxy
+ab   aOXN3XvM97R7_qxyr    YOcs_J1suWL30Yumd0jY ManaBottle     50
+ti aOXN3XvM97R7_qxyr     YOcs_J1suWL30Yumd0jY
+use    aOXN3XvM97R7_qxyr   YOcs_J1suWL30Yumd0jY aOXN3XvM97R7_qxyr
+ls 3WEvKa    Y8DW8ag_wPsmF2QPsF1vL8U     HealSpell    25     240
+ls    aOXN3XvM97R7_qxyr   RvkTXBgQ9_8_ZBh_Ih4TWRe7  AttackSpell    21 4
+bi aOXN3XvM97R7_qxyr     4vr3vJ3CRg0AIptZya1v  ManaBottle
+ls   92WlI5WA01bYj8a2nCXRtWlg     0RgP9Z    AttackSpell     13 164
+rr    dM0eSxZkyoyXG6Zg5y0 Uxy
+lr   aOXN3XvM97R7_qxyr(Uxy)
+use    mVuvko8MxlDXE8uN6xsdOQ_3  rHbljFi6qGN3SgfZH    3WEvKa
+ls   aOXN3XvM97R7_qxyr  8y1nlkmB6oKINII    HealSpell     6     244
+use     Uxy  _TEaDUx   mVuvko8MxlDXE8uN6xsdOQ_3
+ri  Uxy  KtBQW6EiYs4mYV
+ls  3WEvKa sigCqxEaLRvWmIM6mINhZ6bZ  AttackSpell     1     262
+use    dM0eSxZkyoyXG6Zg5y0     jJZUUs9nJmJLROc8te    3WEvKa
+use  3WEvKa    JkQk  aOXN3XvM97R7_qxyr
+use     aOXN3XvM97R7_qxyr     4vr3vJ3CRg0AIptZya1v 3WEvKa
+ls dM0eSxZkyoyXG6Zg5y0    vM_qZVPC0WXNARP  AttackSpell 30  140
+ls     aOXN3XvM97R7_qxyr     6zdxyL2b    HealSpell 5  120
+ls dM0eSxZkyoyXG6Zg5y0  25yC84YEMCkw6ahZGx9L   AttackSpell   3  193
+bi    aOXN3XvM97R7_qxyr    Du4Ag7kg0tHagh_WM9J    DefBottle
+use     Uxy   YjEzaKDzt dM0eSxZkyoyXG6Zg5y0
+use    aOXN3XvM97R7_qxyr 8y1nlkmB6oKINII  Uxy
+ls  92WlI5WA01bYj8a2nCXRtWlg lW57cG     HealSpell 27   17
+use   aOXN3XvM97R7_qxyr   nDfGQxZqo_20YiI9kjmdlV2  92WlI5WA01bYj8a2nCXRtWlg
+ri  dM0eSxZkyoyXG6Zg5y0  VgO
+use    aOXN3XvM97R7_qxyr    6zdxyL2b    92WlI5WA01bYj8a2nCXRtWlg
+use  Uxy     zDqo6Xp7z0yo1aqo   dM0eSxZkyoyXG6Zg5y0
+use  Uxy     zDqo6Xp7z0yo1aqo mVuvko8MxlDXE8uN6xsdOQ_3
+use  mVuvko8MxlDXE8uN6xsdOQ_3  OxyJYomRMv     3WEvKa
+ls    dM0eSxZkyoyXG6Zg5y0  KA06QCBGpROOID   HealSpell  18 230
+ab    dM0eSxZkyoyXG6Zg5y0   Jwd   HpBottle   50
+ti  dM0eSxZkyoyXG6Zg5y0    Jwd
+use    dM0eSxZkyoyXG6Zg5y0   Jwd  3WEvKa
+bi 92WlI5WA01bYj8a2nCXRtWlg   c3eaDS     HpBottle
+use     dM0eSxZkyoyXG6Zg5y0 xrUrDTW     92WlI5WA01bYj8a2nCXRtWlg
+rr   aOXN3XvM97R7_qxyr    Uxy
+use  mVuvko8MxlDXE8uN6xsdOQ_3     yxP2F7iE8PgSMxwUM5FZN 3WEvKa
+bi aOXN3XvM97R7_qxyr B0RCtqj3y_UmJOe_cTW Magicbook
+use     92WlI5WA01bYj8a2nCXRtWlg c3eaDS    3WEvKa
+bi    3WEvKa     IM0uqQZFfjK AtkBottle
+ri   Uxy    zDqo6Xp7z0yo1aqo
+lr   dM0eSxZkyoyXG6Zg5y0(Uxy)
+ls    aOXN3XvM97R7_qxyr  IhioOI8mmW     HealSpell 6     33
+use   92WlI5WA01bYj8a2nCXRtWlg  gkhI4uaSZ    aOXN3XvM97R7_qxyr
+ls  3WEvKa S5lqh3hyyGkeNCpu4zR_OB  HealSpell  27     83
+use    Uxy     YjEzaKDzt 3WEvKa
+ls 92WlI5WA01bYj8a2nCXRtWlg    9sdgUwoer7teMeoE_i  AttackSpell    11   110
+use  3WEvKa 4yZymHzDqgaZlk2tGrGG   Uxy
+ls dM0eSxZkyoyXG6Zg5y0   c6HYtDvH5iH1utDKyu  HealSpell   10   7
+ri     Uxy   YjEzaKDzt
+ls  Uxy     iu6LMjcQ029gh  AttackSpell    4    37
+ls    dM0eSxZkyoyXG6Zg5y0  QUlzehE    AttackSpell    9     112
+bi mVuvko8MxlDXE8uN6xsdOQ_3   n5O2yLRFLcDcDOfW    ManaBottle
+ri aOXN3XvM97R7_qxyr 4vr3vJ3CRg0AIptZya1v
+ri     mVuvko8MxlDXE8uN6xsdOQ_3   rHbljFi6qGN3SgfZH
+ls    aOXN3XvM97R7_qxyr au6KYnPVqroJqRjqxkJOQwY  HealSpell  27 77
+use    dM0eSxZkyoyXG6Zg5y0 jJZUUs9nJmJLROc8te  Uxy
+ls aOXN3XvM97R7_qxyr pDyHAfZnm4bjZBmZ3Yx   AttackSpell  4    296
+rr   dM0eSxZkyoyXG6Zg5y0   92WlI5WA01bYj8a2nCXRtWlg
+rr     3WEvKa dM0eSxZkyoyXG6Zg5y0
+ri   aOXN3XvM97R7_qxyr    Du4Ag7kg0tHagh_WM9J
+ri  aOXN3XvM97R7_qxyr B0RCtqj3y_UmJOe_cTW
+use    mVuvko8MxlDXE8uN6xsdOQ_3    n5O2yLRFLcDcDOfW    Uxy
+use  aOXN3XvM97R7_qxyr    MXea_Cc2 mVuvko8MxlDXE8uN6xsdOQ_3
+bi     Uxy     acBQy  Magicbook
+bi     mVuvko8MxlDXE8uN6xsdOQ_3     BmAC_7vP_Fkr8HpPtClvUi    HpBottle
+use  mVuvko8MxlDXE8uN6xsdOQ_3   WTxaHix3P5JijOEnm4I  dM0eSxZkyoyXG6Zg5y0
+use  92WlI5WA01bYj8a2nCXRtWlg  9sdgUwoer7teMeoE_i     3WEvKa
+ri  mVuvko8MxlDXE8uN6xsdOQ_3    OxyJYomRMv
+use    3WEvKa    IM0uqQZFfjK     mVuvko8MxlDXE8uN6xsdOQ_3
+ls   3WEvKa  9zY7   AttackSpell     6  31
+ls Uxy 6vvu5qO AttackSpell  23  8
+use   92WlI5WA01bYj8a2nCXRtWlg 0RgP9Z Uxy
+use  92WlI5WA01bYj8a2nCXRtWlg     9sdgUwoer7teMeoE_i aOXN3XvM97R7_qxyr
+bi    dM0eSxZkyoyXG6Zg5y0   hHpbxFgaJB   ManaBottle
+ri   Uxy  acBQy
+ls  92WlI5WA01bYj8a2nCXRtWlg  G_d_vd243U1i9Ob0  AttackSpell     25    85
+lr 92WlI5WA01bYj8a2nCXRtWlg(dM0eSxZkyoyXG6Zg5y0)
+bi Uxy     fyd6    HpBottle
+rr 92WlI5WA01bYj8a2nCXRtWlg     dM0eSxZkyoyXG6Zg5y0
+ls  3WEvKa  dCAMkjfZMtwgTmHxEr AttackSpell 26 275
+ls  92WlI5WA01bYj8a2nCXRtWlg    qskkUkvXJMI4J   AttackSpell    8 153
+ls     Uxy s9egrA5Q68gjEkFky7LwOQ3o    AttackSpell   19    8
+ls   dM0eSxZkyoyXG6Zg5y0   1A19oGLOA8LqADriEOzmzfl   AttackSpell 5     156
+use     92WlI5WA01bYj8a2nCXRtWlg  c3eaDS 3WEvKa
+bi     mVuvko8MxlDXE8uN6xsdOQ_3     PieDJmXZ9i  Magicbook
+ri  92WlI5WA01bYj8a2nCXRtWlg    c3eaDS
+use   3WEvKa     IM0uqQZFfjK    92WlI5WA01bYj8a2nCXRtWlg
+ls  3WEvKa  4KRclOxHT    AttackSpell   4  36
+bi    Uxy  7ugMopX  Sword
+bi     aOXN3XvM97R7_qxyr   XAO     AtkBottle
+bi aOXN3XvM97R7_qxyr    _coPFzAwf8Wrm71L2mxjP    HpBottle
+use   3WEvKa    IM0uqQZFfjK  aOXN3XvM97R7_qxyr
+bi 92WlI5WA01bYj8a2nCXRtWlg Gmi8u18wFxE83  DefBottle
+ls     aOXN3XvM97R7_qxyr  UEMazzDWqMnyS6     AttackSpell  16    173
+bi   3WEvKa   xjuYgmspo9onwNm  HpBottle
+use  92WlI5WA01bYj8a2nCXRtWlg gkhI4uaSZ mVuvko8MxlDXE8uN6xsdOQ_3
+bi  92WlI5WA01bYj8a2nCXRtWlg     UPefO9CC64Pf30Ni2YQT    Sword
+use  dM0eSxZkyoyXG6Zg5y0    hHpbxFgaJB  mVuvko8MxlDXE8uN6xsdOQ_3
+lr     92WlI5WA01bYj8a2nCXRtWlg(3WEvKa)
+ls     92WlI5WA01bYj8a2nCXRtWlg   9WmxskVdh6ZEZr AttackSpell  30   188
+lr mVuvko8MxlDXE8uN6xsdOQ_3(92WlI5WA01bYj8a2nCXRtWlg)
+bi     3WEvKa x3smbGPdzIdQmhl2   DefBottle
+bi  mVuvko8MxlDXE8uN6xsdOQ_3    7HmSidkB9xpEA9     Magicbook
+ls 92WlI5WA01bYj8a2nCXRtWlg    C0iIg8VVvdy45QxQGZn    AttackSpell  21     274
+bi   3WEvKa   YbKd_gl9    Magicbook
+bi     aOXN3XvM97R7_qxyr     aRKUB   Sword
+rr  mVuvko8MxlDXE8uN6xsdOQ_3 92WlI5WA01bYj8a2nCXRtWlg
+bi  3WEvKa mGiAC_YZX5BP__74    Magicbook
+use  aOXN3XvM97R7_qxyr  RvkTXBgQ9_8_ZBh_Ih4TWRe7    Uxy
+bi     92WlI5WA01bYj8a2nCXRtWlg     IQ_43Yh6J7jIidLvMj035     ManaBottle
+ls  aOXN3XvM97R7_qxyr  CdZskjN HealSpell  13  260
+ri   aOXN3XvM97R7_qxyr    XAO
+use    92WlI5WA01bYj8a2nCXRtWlg     0RgP9Z     Uxy
+use    dM0eSxZkyoyXG6Zg5y0    1A19oGLOA8LqADriEOzmzfl    aOXN3XvM97R7_qxyr
+use   dM0eSxZkyoyXG6Zg5y0     hHpbxFgaJB    92WlI5WA01bYj8a2nCXRtWlg
+ri  92WlI5WA01bYj8a2nCXRtWlg    IQ_43Yh6J7jIidLvMj035
+ar  aOXN3XvM97R7_qxyr     92WlI5WA01bYj8a2nCXRtWlg
+bi  Uxy   Mxq5anU ManaBottle
+use    92WlI5WA01bYj8a2nCXRtWlg   WX0y2K97oHFLCNQN  Uxy
+use    3WEvKa    IM0uqQZFfjK  dM0eSxZkyoyXG6Zg5y0
+rr   92WlI5WA01bYj8a2nCXRtWlg    3WEvKa
+ri     Uxy  7ugMopX
+use  dM0eSxZkyoyXG6Zg5y0    hHpbxFgaJB   dM0eSxZkyoyXG6Zg5y0
+bi aOXN3XvM97R7_qxyr   WeK_X  HpBottle
+ls  Uxy    TbL6Q     HealSpell     24  137
+ri     mVuvko8MxlDXE8uN6xsdOQ_3  BmAC_7vP_Fkr8HpPtClvUi
+ls  aOXN3XvM97R7_qxyr    _c3MPaJjtf    AttackSpell    17 20
+use    3WEvKa  IM0uqQZFfjK   Uxy
+rr     dM0eSxZkyoyXG6Zg5y0     aOXN3XvM97R7_qxyr
+bi   3WEvKa  uav Armour
+use Uxy  TbL6Q    92WlI5WA01bYj8a2nCXRtWlg
+use  mVuvko8MxlDXE8uN6xsdOQ_3     R6RKLOct_4QRY     aOXN3XvM97R7_qxyr
+bi  mVuvko8MxlDXE8uN6xsdOQ_3     prs  Sword
+use  3WEvKa  IM0uqQZFfjK     mVuvko8MxlDXE8uN6xsdOQ_3
+use     3WEvKa  JkQk  92WlI5WA01bYj8a2nCXRtWlg
+ri aOXN3XvM97R7_qxyr WeK_X
+ri 3WEvKa    YbKd_gl9
+ri  3WEvKa  xjuYgmspo9onwNm
+bi  mVuvko8MxlDXE8uN6xsdOQ_3    Dxf4A_3sOR  AtkBottle
+bi  mVuvko8MxlDXE8uN6xsdOQ_3   86moSe5Lp4uwEVGFeE8g1N     ManaBottle
+bi    Uxy    dAze1j4DpGNK7A8     Sword
+ri  mVuvko8MxlDXE8uN6xsdOQ_3 AnwHQQAWn1zJsjxe
+use 3WEvKa     IM0uqQZFfjK Uxy
+ri    92WlI5WA01bYj8a2nCXRtWlg UPefO9CC64Pf30Ni2YQT
+bi 3WEvKa   M0ym  HpBottle
+ri   92WlI5WA01bYj8a2nCXRtWlg Gmi8u18wFxE83
+ls   mVuvko8MxlDXE8uN6xsdOQ_3     0U4ubT     HealSpell   16   82
+ls   dM0eSxZkyoyXG6Zg5y0    NKm2   HealSpell   21    157
+use     92WlI5WA01bYj8a2nCXRtWlg     9WmxskVdh6ZEZr     aOXN3XvM97R7_qxyr
+bi     aOXN3XvM97R7_qxyr  WO8xSYfezOk7JOQU    Sword
+use     3WEvKa   JkQk   92WlI5WA01bYj8a2nCXRtWlg
+ls Uxy  fs_Xhz62zVYTo5Jh2D3   HealSpell  13 278
+use  mVuvko8MxlDXE8uN6xsdOQ_3     WTxaHix3P5JijOEnm4I    92WlI5WA01bYj8a2nCXRtWlg
+use  Uxy Mxq5anU  Uxy
+ls dM0eSxZkyoyXG6Zg5y0 42ptqJX AttackSpell  14    93
+ls    92WlI5WA01bYj8a2nCXRtWlg   xfYIKgXQsSjw0   AttackSpell     9 215
+bi     3WEvKa    Wjy4BZxrU2jQcr0LuV   AtkBottle
+ls 92WlI5WA01bYj8a2nCXRtWlg sH0  AttackSpell    16 56
+ri   3WEvKa Wjy4BZxrU2jQcr0LuV
+use     dM0eSxZkyoyXG6Zg5y0 hHpbxFgaJB    mVuvko8MxlDXE8uN6xsdOQ_3
+rr   aOXN3XvM97R7_qxyr  92WlI5WA01bYj8a2nCXRtWlg
+lr     dM0eSxZkyoyXG6Zg5y0(3WEvKa,aOXN3XvM97R7_qxyr,92WlI5WA01bYj8a2nCXRtWlg)
+fight     3WEvKa 1 dM0eSxZkyoyXG6Zg5y0
+fight   aOXN3XvM97R7_qxyr     1   dM0eSxZkyoyXG6Zg5y0
+ae   3WEvKa  1yHON_n1ORUR1ZoIE0j_ Sword     150
+ti     3WEvKa 1yHON_n1ORUR1ZoIE0j_
+fight  3WEvKa   1    aOXN3XvM97R7_qxyr
+use   dM0eSxZkyoyXG6Zg5y0     hHpbxFgaJB  3WEvKa
+rr     dM0eSxZkyoyXG6Zg5y0   92WlI5WA01bYj8a2nCXRtWlg
+use     3WEvKa   M0ym mVuvko8MxlDXE8uN6xsdOQ_3
+bi  aOXN3XvM97R7_qxyr  r_M0Cy   ManaBottle
+rr     dM0eSxZkyoyXG6Zg5y0     aOXN3XvM97R7_qxyr
+use     aOXN3XvM97R7_qxyr   _coPFzAwf8Wrm71L2mxjP Uxy
+ri  Uxy  dAze1j4DpGNK7A8
+use 3WEvKa  M0ym     3WEvKa
+use     3WEvKa   9zY7   aOXN3XvM97R7_qxyr
+use aOXN3XvM97R7_qxyr 6zdxyL2b   mVuvko8MxlDXE8uN6xsdOQ_3
+ri    dM0eSxZkyoyXG6Zg5y0   hHpbxFgaJB
+use     dM0eSxZkyoyXG6Zg5y0     c6HYtDvH5iH1utDKyu     92WlI5WA01bYj8a2nCXRtWlg
+use     3WEvKa   sigCqxEaLRvWmIM6mINhZ6bZ  mVuvko8MxlDXE8uN6xsdOQ_3
+ae  mVuvko8MxlDXE8uN6xsdOQ_3 JY_BaonPLNEU Armour  100
+ab  dM0eSxZkyoyXG6Zg5y0     Ujd5N2jT     HpBottle    1000
+ti    dM0eSxZkyoyXG6Zg5y0  Ujd5N2jT
+use    dM0eSxZkyoyXG6Zg5y0 Ujd5N2jT     mVuvko8MxlDXE8uN6xsdOQ_3
+ri    Uxy    fyd6
+use  3WEvKa    IM0uqQZFfjK   92WlI5WA01bYj8a2nCXRtWlg
+use    Uxy R9sYGQ     aOXN3XvM97R7_qxyr
+ar     92WlI5WA01bYj8a2nCXRtWlg  dM0eSxZkyoyXG6Zg5y0
+ri  92WlI5WA01bYj8a2nCXRtWlg     gkhI4uaSZ
+ls   aOXN3XvM97R7_qxyr  CZla    AttackSpell   15    87
+ae  mVuvko8MxlDXE8uN6xsdOQ_3    t_wbVFFA_NoQ32C2hiw    Armour   100
+ab   3WEvKa EVXumL8HOktcmHG71 HpBottle 1000
+ti  3WEvKa    EVXumL8HOktcmHG71
+use     3WEvKa   EVXumL8HOktcmHG71   mVuvko8MxlDXE8uN6xsdOQ_3
+use     92WlI5WA01bYj8a2nCXRtWlg   sH0     Uxy
+use  dM0eSxZkyoyXG6Zg5y0     Ujd5N2jT  92WlI5WA01bYj8a2nCXRtWlg
+use   Uxy  Mxq5anU    Uxy
+ae    mVuvko8MxlDXE8uN6xsdOQ_3    y9srJ8u6sHY     Armour    100
+ab     aOXN3XvM97R7_qxyr Ah9p53NS_WlvyyyPe HpBottle    1000
+ti  aOXN3XvM97R7_qxyr     Ah9p53NS_WlvyyyPe
+use     aOXN3XvM97R7_qxyr   Ah9p53NS_WlvyyyPe   mVuvko8MxlDXE8uN6xsdOQ_3
+ae mVuvko8MxlDXE8uN6xsdOQ_3 9dhRdR Armour 100
+ab    3WEvKa   QpkemcIYlxogAnqdlryI  HpBottle   1000
+ti    3WEvKa   QpkemcIYlxogAnqdlryI
+use 3WEvKa     QpkemcIYlxogAnqdlryI mVuvko8MxlDXE8uN6xsdOQ_3
+ae     mVuvko8MxlDXE8uN6xsdOQ_3     joXWSAF0G7IkO0x41  Armour   100
+ab   Uxy   getd9L489y0adMb7F  HpBottle   1000
+ti   Uxy   getd9L489y0adMb7F
+use    Uxy     getd9L489y0adMb7F   mVuvko8MxlDXE8uN6xsdOQ_3
+bi   92WlI5WA01bYj8a2nCXRtWlg     K1ox08KvqBWEEFOZZtgUO AtkBottle
+use  Uxy   _TEaDUx    aOXN3XvM97R7_qxyr
+ri   92WlI5WA01bYj8a2nCXRtWlg   K1ox08KvqBWEEFOZZtgUO
+ae  mVuvko8MxlDXE8uN6xsdOQ_3   zwiBjpHiVsDyPno0IWsKI2z   Armour 100
+ab   92WlI5WA01bYj8a2nCXRtWlg  BYMUvlVYsh797n4LDVV   HpBottle  1000
+ti     92WlI5WA01bYj8a2nCXRtWlg     BYMUvlVYsh797n4LDVV
+use   92WlI5WA01bYj8a2nCXRtWlg  BYMUvlVYsh797n4LDVV  mVuvko8MxlDXE8uN6xsdOQ_3
+ae mVuvko8MxlDXE8uN6xsdOQ_3     cYPSqE7SlxzZ9r7  Armour     100
+ab    dM0eSxZkyoyXG6Zg5y0 iMtHtCiu7YJhWCHn1H HpBottle  1000
+ti   dM0eSxZkyoyXG6Zg5y0     iMtHtCiu7YJhWCHn1H
+use     dM0eSxZkyoyXG6Zg5y0 iMtHtCiu7YJhWCHn1H mVuvko8MxlDXE8uN6xsdOQ_3
+ae    mVuvko8MxlDXE8uN6xsdOQ_3   cKfU3jUBEWocDr  Armour  100
+ab  3WEvKa  nOg    HpBottle     1000
+ti 3WEvKa    nOg
+use     3WEvKa    nOg  mVuvko8MxlDXE8uN6xsdOQ_3
+ri  3WEvKa  QpkemcIYlxogAnqdlryI
+ae mVuvko8MxlDXE8uN6xsdOQ_3    CvNSAMc Armour  100
+ab     3WEvKa   2fBGA2MsFWXqfODTPabn7I  HpBottle   1000
+ti     3WEvKa     2fBGA2MsFWXqfODTPabn7I
+use 3WEvKa   2fBGA2MsFWXqfODTPabn7I     mVuvko8MxlDXE8uN6xsdOQ_3
+ae  mVuvko8MxlDXE8uN6xsdOQ_3    7mwHBlRzsICoK5owVZgaGG6w     Armour     100
+ab  aOXN3XvM97R7_qxyr   t_WYVv    HpBottle    1000
+ti     aOXN3XvM97R7_qxyr   t_WYVv
+use     aOXN3XvM97R7_qxyr   t_WYVv   mVuvko8MxlDXE8uN6xsdOQ_3
+use 3WEvKa   x3smbGPdzIdQmhl2     Uxy
+lr  dM0eSxZkyoyXG6Zg5y0(aOXN3XvM97R7_qxyr)
+ri    aOXN3XvM97R7_qxyr    aRKUB
+use     3WEvKa     EVXumL8HOktcmHG71  dM0eSxZkyoyXG6Zg5y0
+ls     3WEvKa   U7ujgB    AttackSpell 8    292
+ri Uxy  getd9L489y0adMb7F
+use   92WlI5WA01bYj8a2nCXRtWlg BYMUvlVYsh797n4LDVV 3WEvKa
+ab     92WlI5WA01bYj8a2nCXRtWlg  Ruu1snL84cS_cE   ManaBottle  50
+ti 92WlI5WA01bYj8a2nCXRtWlg  Ruu1snL84cS_cE
+use     92WlI5WA01bYj8a2nCXRtWlg    Ruu1snL84cS_cE     3WEvKa
+ri aOXN3XvM97R7_qxyr    _coPFzAwf8Wrm71L2mxjP
+bi     92WlI5WA01bYj8a2nCXRtWlg    FSEnZv8P51H   HpBottle
+ae    mVuvko8MxlDXE8uN6xsdOQ_3   Sy5iLkqNzjD1fb5s   Armour 100
+ab   92WlI5WA01bYj8a2nCXRtWlg   JTJ6dn  HpBottle     1000
+ti     92WlI5WA01bYj8a2nCXRtWlg    JTJ6dn
+use   92WlI5WA01bYj8a2nCXRtWlg     JTJ6dn  mVuvko8MxlDXE8uN6xsdOQ_3
+ri 3WEvKa  IM0uqQZFfjK
+ae   mVuvko8MxlDXE8uN6xsdOQ_3 klpVOqYd41SJHyqE0   Armour  100
+ab     92WlI5WA01bYj8a2nCXRtWlg     gAbTTcQzcQld     HpBottle   1000
+ti  92WlI5WA01bYj8a2nCXRtWlg   gAbTTcQzcQld
+use 92WlI5WA01bYj8a2nCXRtWlg gAbTTcQzcQld   mVuvko8MxlDXE8uN6xsdOQ_3
+ae   mVuvko8MxlDXE8uN6xsdOQ_3   9jkN2spofPHm5dhtx   Armour     100
+ab     Uxy   kvTUsGvcgMbtaArtDFOIs HpBottle   1000
+ti   Uxy  kvTUsGvcgMbtaArtDFOIs
+use  Uxy   kvTUsGvcgMbtaArtDFOIs mVuvko8MxlDXE8uN6xsdOQ_3
+ae   mVuvko8MxlDXE8uN6xsdOQ_3  MGbnSqci8wEz3TA4n0mWPyW Armour  100
+ab dM0eSxZkyoyXG6Zg5y0   uy_2Ze6C HpBottle   1000
+ti    dM0eSxZkyoyXG6Zg5y0    uy_2Ze6C
+use  dM0eSxZkyoyXG6Zg5y0 uy_2Ze6C  mVuvko8MxlDXE8uN6xsdOQ_3
+ls  dM0eSxZkyoyXG6Zg5y0  _43X_e HealSpell 28 135
+rr    dM0eSxZkyoyXG6Zg5y0     3WEvKa
+bi     aOXN3XvM97R7_qxyr     jECcBUWbUxycAgYac     Armour
+ls   aOXN3XvM97R7_qxyr    tQh41a3sCKUrPm     AttackSpell  20  30
+use     Uxy    _keKInPvMXe3OKCl  aOXN3XvM97R7_qxyr
+use 3WEvKa     M0ym dM0eSxZkyoyXG6Zg5y0
+bi  92WlI5WA01bYj8a2nCXRtWlg aYpTK4YhsxUYq   HpBottle
+ae   mVuvko8MxlDXE8uN6xsdOQ_3   Kq4O18C     Armour    100
+ab   3WEvKa   z4KLB7G  HpBottle   1000
+ti    3WEvKa     z4KLB7G
+use  3WEvKa  z4KLB7G   mVuvko8MxlDXE8uN6xsdOQ_3
+rr 92WlI5WA01bYj8a2nCXRtWlg    dM0eSxZkyoyXG6Zg5y0
+use aOXN3XvM97R7_qxyr Ah9p53NS_WlvyyyPe  dM0eSxZkyoyXG6Zg5y0
+ri aOXN3XvM97R7_qxyr  t_WYVv
+ae   mVuvko8MxlDXE8uN6xsdOQ_3   xW0XV0Ph    Armour  100
+ab Uxy rsootuUq_PAJKgMtocIGi    HpBottle   1000
+ti  Uxy    rsootuUq_PAJKgMtocIGi
+use  Uxy  rsootuUq_PAJKgMtocIGi mVuvko8MxlDXE8uN6xsdOQ_3
+ls     dM0eSxZkyoyXG6Zg5y0    0WVO5hCziVouPa    HealSpell  12  43
+ae mVuvko8MxlDXE8uN6xsdOQ_3     rBwMB_1q36roacDQQoqZx7L   Armour     100
+ab  3WEvKa  6sPtgUj3LEA  HpBottle  1000
+ti    3WEvKa   6sPtgUj3LEA
+use  3WEvKa  6sPtgUj3LEA    mVuvko8MxlDXE8uN6xsdOQ_3
+ae  mVuvko8MxlDXE8uN6xsdOQ_3 1aKQs_9wzwsCSWfNSMAeho Armour 100
+ab dM0eSxZkyoyXG6Zg5y0  r8qN   HpBottle    1000
+ti   dM0eSxZkyoyXG6Zg5y0     r8qN
+use    dM0eSxZkyoyXG6Zg5y0    r8qN     mVuvko8MxlDXE8uN6xsdOQ_3
+ls  Uxy     dMl0nMsR     HealSpell 25     168
+ri  92WlI5WA01bYj8a2nCXRtWlg   aYpTK4YhsxUYq
+ae    mVuvko8MxlDXE8uN6xsdOQ_3 RXqB46IRoER8niRDPtrqd     Armour     100
+ab   92WlI5WA01bYj8a2nCXRtWlg OKjgTo     HpBottle  1000
+ti     92WlI5WA01bYj8a2nCXRtWlg   OKjgTo
+use 92WlI5WA01bYj8a2nCXRtWlg    OKjgTo   mVuvko8MxlDXE8uN6xsdOQ_3
+use    dM0eSxZkyoyXG6Zg5y0  r8qN    aOXN3XvM97R7_qxyr
+ls     Uxy    U4c1LAT72k3BZYx_c8Cf     HealSpell     30    189
+ar     aOXN3XvM97R7_qxyr  3WEvKa
+ae mVuvko8MxlDXE8uN6xsdOQ_3  VLFrDL9gBGpdfanp10pSNti   Armour  100
+ab    92WlI5WA01bYj8a2nCXRtWlg    rOiVztK91E6u_ea    HpBottle 1000
+ti  92WlI5WA01bYj8a2nCXRtWlg  rOiVztK91E6u_ea
+use   92WlI5WA01bYj8a2nCXRtWlg rOiVztK91E6u_ea    mVuvko8MxlDXE8uN6xsdOQ_3
+ae  mVuvko8MxlDXE8uN6xsdOQ_3     pBoxux8MzeXVX    Armour   100
+ab Uxy   y4kFdFzdKKyzIEbxYlMUk2   HpBottle   1000
+ti   Uxy  y4kFdFzdKKyzIEbxYlMUk2
+use  Uxy   y4kFdFzdKKyzIEbxYlMUk2    mVuvko8MxlDXE8uN6xsdOQ_3
+ri 92WlI5WA01bYj8a2nCXRtWlg gAbTTcQzcQld
+ae     mVuvko8MxlDXE8uN6xsdOQ_3  WEZ     Armour 100
+ab  92WlI5WA01bYj8a2nCXRtWlg _R0Iq2yaKqjrFNVTb7rgZO   HpBottle   1000
+ti    92WlI5WA01bYj8a2nCXRtWlg    _R0Iq2yaKqjrFNVTb7rgZO
+use    92WlI5WA01bYj8a2nCXRtWlg   _R0Iq2yaKqjrFNVTb7rgZO    mVuvko8MxlDXE8uN6xsdOQ_3
+ae   mVuvko8MxlDXE8uN6xsdOQ_3  D5U Armour 100
+ab  3WEvKa   1pglZvm_AZdTSK4_N6vQM9  HpBottle  1000
+ti    3WEvKa 1pglZvm_AZdTSK4_N6vQM9
+use   3WEvKa 1pglZvm_AZdTSK4_N6vQM9     mVuvko8MxlDXE8uN6xsdOQ_3
+ae    mVuvko8MxlDXE8uN6xsdOQ_3   F2uD0siA   Armour  100
+ab   dM0eSxZkyoyXG6Zg5y0    6n5nNG6uzRCGLaY    HpBottle   1000
+ti    dM0eSxZkyoyXG6Zg5y0     6n5nNG6uzRCGLaY
+use    dM0eSxZkyoyXG6Zg5y0  6n5nNG6uzRCGLaY mVuvko8MxlDXE8uN6xsdOQ_3
+use     aOXN3XvM97R7_qxyr CdZskjN  Uxy
+lr     Uxy(92WlI5WA01bYj8a2nCXRtWlg)
+ae    mVuvko8MxlDXE8uN6xsdOQ_3  ULI1BX3qp2ew6fPEGAOMlW Armour    100
+ab     dM0eSxZkyoyXG6Zg5y0  YSqSAIXfjwMgkMzvTbIoHNPk   HpBottle   1000
+ti     dM0eSxZkyoyXG6Zg5y0  YSqSAIXfjwMgkMzvTbIoHNPk
+use     dM0eSxZkyoyXG6Zg5y0    YSqSAIXfjwMgkMzvTbIoHNPk     mVuvko8MxlDXE8uN6xsdOQ_3
+ae     mVuvko8MxlDXE8uN6xsdOQ_3    3NfuTbDZDqhkLehw    Armour     100
+ab   92WlI5WA01bYj8a2nCXRtWlg    0Js7KRl8FD_ HpBottle  1000
+ti 92WlI5WA01bYj8a2nCXRtWlg 0Js7KRl8FD_
